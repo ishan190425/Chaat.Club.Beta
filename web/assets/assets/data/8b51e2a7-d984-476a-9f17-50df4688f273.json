@@ -1,0 +1,55 @@
+{
+    "name": "add protein",
+    "Food_Item_UUID": "8b51e2a7-d984-476a-9f17-50df4688f273",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Savory"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#222200",
+            "#999999"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Universal"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Anytime"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "to go iced tea",
+    "Food_Item_UUID": "36164017-b432-4e4c-8cff-89c1264353f0",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Cold"
+        ],
+        "Visual_Color": [
+            "#CCCCCC",
+            "#00FFFF"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Zero-Calorie",
+            "Refreshing"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Anytime"
+        ],
+        "Cooking_Method": [
+            "Brewed"
+        ],
+        "Course": [
+            "Not applicable"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

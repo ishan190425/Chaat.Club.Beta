@@ -1,0 +1,56 @@
+{
+    "name": "hunan style ",
+    "Food_Item_UUID": "33cf64f2-15f8-4290-a9d8-5985fa7a95c8",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork ginger pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Gingery",
+            "Peppery"
+        ],
+        "Texture": [
+            "Tender",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

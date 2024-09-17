@@ -1,0 +1,51 @@
+{
+    "name": "full sopapilla order ",
+    "Food_Item_UUID": "fd296ba9-902d-4ee2-a2ce-4ceb4d06991b",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Texture": [
+            "Soft",
+            "Light"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "Yellow"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Latin America"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Desert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

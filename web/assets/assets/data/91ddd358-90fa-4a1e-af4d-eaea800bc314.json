@@ -1,0 +1,53 @@
+{
+    "name": "juice b",
+    "Food_Item_UUID": "91ddd358-90fa-4a1e-af4d-eaea800bc314",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "apple beets carrots celery ginger and orange.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Earthly"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy"
+        ],
+        "Texture": [
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Orange",
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Juiced"
+        ],
+        "Course": [
+            "Healthy Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

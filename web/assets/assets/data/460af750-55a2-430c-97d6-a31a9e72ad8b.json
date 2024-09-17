@@ -1,0 +1,57 @@
+{
+    "name": "mushroom pulao",
+    "Food_Item_UUID": "460af750-55a2-430c-97d6-a31a9e72ad8b",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "fluffy basmati rice sauteed with mushroom and mild indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Mushy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Slightly-Crisp"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Good-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

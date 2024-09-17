@@ -1,0 +1,51 @@
+{
+    "name": "ronchi montepulciano",
+    "Food_Item_UUID": "6d9df724-a30e-48d8-aad4-f98a59a4748b",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy"
+        ],
+        "Texture": [
+            "Soft",
+            "Light"
+        ],
+        "Visual_Color": [
+            "Deepest Ruby Red to Garnet",
+            "Deep Burgundy"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wine and Dines"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Table Wining",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

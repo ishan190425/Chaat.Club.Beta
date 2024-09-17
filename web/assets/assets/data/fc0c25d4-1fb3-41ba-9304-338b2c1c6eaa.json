@@ -1,0 +1,46 @@
+{
+    "name": "ramune",
+    "Food_Item_UUID": "fc0c25d4-1fb3-41ba-9304-338b2c1c6eaa",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "try refreshing fizzy and fun ramune soda this beverage is very popular in japan where it comes in a variety of flavors.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Sparkling"
+        ],
+        "Visual_Color": [
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Any-time"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

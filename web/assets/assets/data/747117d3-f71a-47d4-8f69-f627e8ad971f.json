@@ -1,0 +1,57 @@
+{
+    "name": " pcs. mini ghee idly",
+    "Food_Item_UUID": "747117d3-f71a-47d4-8f69-f627e8ad971f",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "mini idlies immersed in delicious south indian lentil gravy garnished with ghee",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Crisp"
+        ],
+        "Texture": [
+            "Soft",
+            "Gooey"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

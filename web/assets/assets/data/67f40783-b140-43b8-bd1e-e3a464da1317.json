@@ -1,0 +1,54 @@
+{
+    "name": "enchiladas mariscos",
+    "Food_Item_UUID": "67f40783-b140-43b8-bd1e-e3a464da1317",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "two grilled shrimp topped with grilled corn poblano and a creamy queso blanco sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Delicious"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#808000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

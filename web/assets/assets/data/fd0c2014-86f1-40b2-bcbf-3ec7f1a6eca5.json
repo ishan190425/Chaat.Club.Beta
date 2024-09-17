@@ -1,0 +1,53 @@
+{
+    "name": "chili bajji nos ",
+    "Food_Item_UUID": "fd0c2014-86f1-40b2-bcbf-3ec7f1a6eca5",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "slices of chili coated with chick peas batter deep fried served with chutney and sambar",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fried",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC400",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

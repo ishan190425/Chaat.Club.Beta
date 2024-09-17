@@ -1,0 +1,56 @@
+{
+    "name": "pyramid wings ",
+    "Food_Item_UUID": "f5f8eff3-7b22-4ace-9be4-4ae9f89aa66a",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "black ear chicken wings garlic ginger pepper peppercorn potato white broccoli .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Ginger",
+            "Garlic",
+            "Peppery"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Meaty"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#000000"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Cholesterol"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Party",
+            "Game Night"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

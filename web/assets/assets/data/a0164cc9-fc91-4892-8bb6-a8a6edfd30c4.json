@@ -1,0 +1,57 @@
+{
+    "name": "y yum talay",
+    "Food_Item_UUID": "a0164cc9-fc91-4892-8bb6-a8a6edfd30c4",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "choice of shrimp squid mussel or combination seasoned with lemongrass shallots cilantro chili and yum sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "White",
+            "Pink"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein (Shrimp)",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Thai"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Sauteed"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

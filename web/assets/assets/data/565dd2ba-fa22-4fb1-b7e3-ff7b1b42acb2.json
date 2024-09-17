@@ -1,0 +1,40 @@
+{
+    "name": "perrier",
+    "Food_Item_UUID": "565dd2ba-fa22-4fb1-b7e3-ff7b1b42acb2",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": null,
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [
+            "Yellow"
+        ],
+        "Spice_level": [
+            "Bubbly"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Calorie-Neutral"
+        ],
+        "Country_Origin": [
+            "France"
+        ],
+        "Occasions": [
+            "Refreshment",
+            "Party",
+            "Celebration"
+        ],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

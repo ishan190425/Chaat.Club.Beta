@@ -1,0 +1,56 @@
+{
+    "name": "orange beef ",
+    "Food_Item_UUID": "fd9659b1-3676-48cc-b96f-d31ea37ffe15",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef dried tangerine peel fresh orange.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Meaty"
+        ],
+        "Texture": [
+            "Tender",
+            "Stringy"
+        ],
+        "Visual_Color": [
+            "Orange",
+            "#FFA07A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Fry"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

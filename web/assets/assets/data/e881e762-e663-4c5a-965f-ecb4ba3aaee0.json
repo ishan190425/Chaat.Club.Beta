@@ -1,0 +1,56 @@
+{
+    "name": "bombolini italian donuts ",
+    "Food_Item_UUID": "e881e762-e663-4c5a-965f-ecb4ba3aaee0",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "vanilla budino strawberry coulis",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Vanilla"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Soft",
+            "Airy"
+        ],
+        "Visual_Color": [
+            "Pink",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-calorie"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

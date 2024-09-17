@@ -1,0 +1,55 @@
+{
+    "name": "roasted corn bisque cup",
+    "Food_Item_UUID": "733a315e-9843-4330-986f-9d1da06c8a19",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "grilled chicken poblano bacon sherry wine",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Herbal"
+        ],
+        "Texture": [
+            "Smooth",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC394",
+            "#F5F5DC"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry",
+            "Gluten",
+            "Lactose"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Soups and Salads"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

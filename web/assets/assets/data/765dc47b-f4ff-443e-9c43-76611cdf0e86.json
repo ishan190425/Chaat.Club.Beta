@@ -1,0 +1,58 @@
+{
+    "name": "yuzu shio delight ",
+    "Food_Item_UUID": "765dc47b-f4ff-443e-9c43-76611cdf0e86",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "chicken pork clear broth pork chashu green onion spinach seasoned egg nori seaweed with yuzu flavor. served with thin noodles.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Citrusy"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Umami"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFC9F",
+            "#CC99AA"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Egg",
+            "Fish",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

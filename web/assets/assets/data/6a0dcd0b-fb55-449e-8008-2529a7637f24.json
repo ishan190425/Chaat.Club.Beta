@@ -1,0 +1,56 @@
+{
+    "name": "paneer biryani",
+    "Food_Item_UUID": "6a0dcd0b-fb55-449e-8008-2529a7637f24",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "basmati rice cooked with dices of fresh cottage cheese and indian spices.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Milky",
+            "Savory"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Flaky"
+        ],
+        "Visual_Color": [
+            "#0000FF",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

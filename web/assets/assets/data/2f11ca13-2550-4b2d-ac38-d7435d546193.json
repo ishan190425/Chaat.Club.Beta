@@ -1,0 +1,60 @@
+{
+    "name": "vegetable uthappam",
+    "Food_Item_UUID": "2f11ca13-2550-4b2d-ac38-d7435d546193",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake topped with vegetables",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Starchy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#C6E5BC",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India",
+            "Sri Lanka"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

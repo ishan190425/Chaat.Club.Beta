@@ -1,0 +1,57 @@
+{
+    "name": "side salad",
+    "Food_Item_UUID": "f0063c55-7ea7-40cf-9f90-a3171f77cd77",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fresh",
+            "Crunchy"
+        ],
+        "Aroma": [
+            "Herby",
+            "Veggie-like"
+        ],
+        "Texture": [
+            "Crispy",
+            "Leafy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FF7F00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-calorie"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "As needed"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

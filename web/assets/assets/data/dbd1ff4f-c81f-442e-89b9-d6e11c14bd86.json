@@ -1,0 +1,55 @@
+{
+    "name": " fish style tofu",
+    "Food_Item_UUID": "dbd1ff4f-c81f-442e-89b9-d6e11c14bd86",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "garlic ginger green onion tofu ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Pungent"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#E2E3EA"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan",
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

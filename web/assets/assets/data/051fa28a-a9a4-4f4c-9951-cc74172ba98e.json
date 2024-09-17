@@ -1,0 +1,53 @@
+{
+    "name": "el shaggy",
+    "Food_Item_UUID": "051fa28a-a9a4-4f4c-9951-cc74172ba98e",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "cooked. shrimp tempura rolled and topped with kani drizzled with spicy mayo sweet unagi and sriracha.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Crunchy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#000000"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

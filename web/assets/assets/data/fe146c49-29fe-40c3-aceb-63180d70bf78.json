@@ -1,0 +1,56 @@
+{
+    "name": "ricotta cavatelli",
+    "Food_Item_UUID": "fe146c49-29fe-40c3-aceb-63180d70bf78",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "jumbo lump crab tiger shrimp peperoncino mint lemon olive oil",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Seafood"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Oceanic"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Wet- Cooked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

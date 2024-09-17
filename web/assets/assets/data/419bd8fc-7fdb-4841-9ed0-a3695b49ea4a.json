@@ -1,0 +1,51 @@
+{
+    "name": "donut holes",
+    "Food_Item_UUID": "419bd8fc-7fdb-4841-9ed0-a3695b49ea4a",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "chocolate dipping sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Chocolatey",
+            "Fruity"
+        ],
+        "Texture": [
+            "Soft",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Sugar"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [
+            "Snack",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

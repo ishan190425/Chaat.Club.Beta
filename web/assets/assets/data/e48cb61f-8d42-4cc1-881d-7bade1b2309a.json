@@ -1,0 +1,56 @@
+{
+    "name": "ghee pongal",
+    "Food_Item_UUID": "e48cb61f-8d42-4cc1-881d-7bade1b2309a",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "steamed raw rice smashed sauteed with pepper jeera dhall garnished with ghee and cashew nuts.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Aromatic"
+        ],
+        "Texture": [
+            "Creamy",
+            "Gooey"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Carbohydrates"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Steamed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

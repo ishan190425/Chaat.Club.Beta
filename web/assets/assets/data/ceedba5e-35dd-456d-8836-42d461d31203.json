@@ -1,0 +1,57 @@
+{
+    "name": "impossible gyoza pcs ",
+    "Food_Item_UUID": "ceedba5e-35dd-456d-8836-42d461d31203",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "gyoza stuffed with delicious savory impossible meat made from plants. ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Plant-based",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Burgundy",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

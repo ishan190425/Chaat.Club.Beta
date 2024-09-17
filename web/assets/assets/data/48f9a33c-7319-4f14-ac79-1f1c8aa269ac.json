@@ -1,0 +1,56 @@
+{
+    "name": "s tom kha",
+    "Food_Item_UUID": "48f9a33c-7319-4f14-ac79-1f1c8aa269ac",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "coconut soup flavored with galangal and mushroom shallot and lime juice",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Salty"
+        ],
+        "Aroma": [
+            "Coconut",
+            "Galangal",
+            "Mushroom"
+        ],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#C5E1F9",
+            "#F2D6DC"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

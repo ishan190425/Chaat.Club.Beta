@@ -1,0 +1,56 @@
+{
+    "name": "jinya tonkotsu original ",
+    "Food_Item_UUID": "98aa64ce-7b12-4cdc-b00b-d4079ff9c8d4",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "pork broth pork chashu green onion spinach seasoned egg nori dried seaweed. served with extra thick noodles.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Brothy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Thick"
+        ],
+        "Visual_Color": [
+            "White",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Pork-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

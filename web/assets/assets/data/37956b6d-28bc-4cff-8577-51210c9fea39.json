@@ -1,0 +1,46 @@
+{
+    "name": "pita",
+    "Food_Item_UUID": "37956b6d-28bc-4cff-8577-51210c9fea39",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Light_Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mediterranean/Arabian"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Baked"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

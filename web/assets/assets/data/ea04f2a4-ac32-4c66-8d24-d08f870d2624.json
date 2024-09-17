@@ -1,0 +1,53 @@
+{
+    "name": "parotta nos ",
+    "Food_Item_UUID": "ea04f2a4-ac32-4c66-8d24-d08f870d2624",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "delicious south indian fluffy bread served with mashed potatoes and curry",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Fragrant"
+        ],
+        "Texture": [
+            "Light",
+            "Airy"
+        ],
+        "Visual_Color": [
+            "Golden"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Bread"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

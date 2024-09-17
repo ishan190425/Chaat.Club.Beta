@@ -1,0 +1,60 @@
+{
+    "name": "seafood tofu ",
+    "Food_Item_UUID": "c599ed66-1e9d-49dc-a21f-c6ca4f7230c2",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "bell pepper egg tofu flounder mushroom shrimp.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Seafood-Flavored",
+            "Umami"
+        ],
+        "Texture": [
+            "Tender",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Global",
+            "Asian-Inspired"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Seared",
+            "Baked"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

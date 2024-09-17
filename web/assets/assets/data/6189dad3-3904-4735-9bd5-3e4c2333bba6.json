@@ -1,0 +1,56 @@
+{
+    "name": "le volte super tuscan",
+    "Food_Item_UUID": "6189dad3-3904-4735-9bd5-3e4c2333bba6",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Savory",
+            "Fruity"
+        ],
+        "Texture": [
+            "Rich",
+            "Buttery"
+        ],
+        "Visual_Color": [
+            "Burgundy",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Wheat",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Slow Cooked"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

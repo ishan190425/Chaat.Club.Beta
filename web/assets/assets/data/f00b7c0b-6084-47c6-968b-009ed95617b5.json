@@ -1,0 +1,56 @@
+{
+    "name": " . chicken over rice",
+    "Food_Item_UUID": "f00b7c0b-6084-47c6-968b-009ed95617b5",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "deliciously marinated for hours.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Herby"
+        ],
+        "Aroma": [
+            "Herby",
+            "Meaty"
+        ],
+        "Texture": [
+            "Tender",
+            "Fluffy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#CCCCCC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "Calorie-Dense"
+        ],
+        "Country_Origin": [
+            "Generic/International"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Potluck"
+        ],
+        "Cooking_Method": [
+            "Oven Roasted"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

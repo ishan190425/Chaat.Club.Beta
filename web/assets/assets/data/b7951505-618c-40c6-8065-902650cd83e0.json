@@ -1,0 +1,59 @@
+{
+    "name": "seared sea scallops",
+    "Food_Item_UUID": "b7951505-618c-40c6-8065-902650cd83e0",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "ssparagus pancetta crispy shallots sweet corn risotto calabrian vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Nutty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Silky"
+        ],
+        "Visual_Color": [
+            "#FF99CC",
+            "#FFFFFF",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA",
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

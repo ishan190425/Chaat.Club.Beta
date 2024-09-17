@@ -1,0 +1,56 @@
+{
+    "name": "grilled asparagus",
+    "Food_Item_UUID": "2bf8de5f-5ce3-47a6-b287-fdd411913496",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Slightly Sweet"
+        ],
+        "Texture": [
+            "Fresh",
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "#8B9467",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan Friendly"
+        ],
+        "Nutrition": [
+            "Low-Fat",
+            "High-Retinol"
+        ],
+        "Country_Origin": [
+            "Various",
+            "Global"
+        ],
+        "Occasions": [
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appreciation"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

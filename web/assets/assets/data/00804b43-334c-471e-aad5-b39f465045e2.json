@@ -1,0 +1,56 @@
+{
+    "name": "brul ed blackberry butter cake",
+    "Food_Item_UUID": "00804b43-334c-471e-aad5-b39f465045e2",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "vanilla zabaglione oat crumble",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Vanilla"
+        ],
+        "Texture": [
+            "Moist",
+            "Crumbling"
+        ],
+        "Visual_Color": [
+            "#FFA500",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

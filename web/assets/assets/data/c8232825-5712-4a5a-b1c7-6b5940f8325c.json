@@ -1,0 +1,57 @@
+{
+    "name": "chappathi nos ",
+    "Food_Item_UUID": "c8232825-5712-4a5a-b1c7-6b5940f8325c",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin soft whole wheat read served with mashed potatoes and curry",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Wheat-like",
+            "Curry-ish"
+        ],
+        "Texture": [
+            "Soft",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFCC00"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Griddled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

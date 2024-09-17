@@ -1,0 +1,57 @@
+{
+    "name": "crispy chicken pc",
+    "Food_Item_UUID": "0b1f44ce-0c70-41ac-876a-5f212c556793",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "juicy fried chicken thigh with an original garlic pepper served with mixed baby greens and jinya s original ponzu sauce.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Savory"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Peppery"
+        ],
+        "Texture": [
+            "Crispy",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#F9E2D0",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mildly Spicy"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Meat-Derived"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global/Culinary Fusion"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

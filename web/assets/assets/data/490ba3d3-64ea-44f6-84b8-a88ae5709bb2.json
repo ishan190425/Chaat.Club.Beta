@@ -1,0 +1,51 @@
+{
+    "name": "nori dried seaweed",
+    "Food_Item_UUID": "490ba3d3-64ea-44f6-84b8-a88ae5709bb2",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Seawey",
+            "Oceanic"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Rough"
+        ],
+        "Visual_Color": [
+            "#6B705F",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Japan:], "
+        ],
+        "Occasions": [
+            "Snack"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

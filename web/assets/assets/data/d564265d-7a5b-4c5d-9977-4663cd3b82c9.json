@@ -1,0 +1,56 @@
+{
+    "name": "peanut sauce oz",
+    "Food_Item_UUID": "d564265d-7a5b-4c5d-9977-4663cd3b82c9",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Nutty",
+            "Smooth"
+        ],
+        "Aroma": [
+            "Rich",
+            "Starchy"
+        ],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Tan",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Nut-free",
+            "Peanut-free"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Dip"
+        ],
+        "Cooking_Method": [
+            "Served"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

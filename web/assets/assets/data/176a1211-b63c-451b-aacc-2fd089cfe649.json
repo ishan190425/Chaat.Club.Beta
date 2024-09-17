@@ -1,0 +1,55 @@
+{
+    "name": " . chapli gyro",
+    "Food_Item_UUID": "176a1211-b63c-451b-aacc-2fd089cfe649",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Meaty",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pepperoni",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

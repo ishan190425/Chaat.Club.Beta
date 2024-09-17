@@ -1,0 +1,53 @@
+{
+    "name": "a kanom jeeb ",
+    "Food_Item_UUID": "80b36ca8-c79c-44a8-a744-47c6382307e5",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "steamed thai dumpling with shrimp chicken soya vinaigrette sauce for dipping",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Soy"
+        ],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F2CC16"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish"
+        ],
+        "Nutrition": [
+            "Protein-rich",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

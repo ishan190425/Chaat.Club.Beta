@@ -1,0 +1,62 @@
+{
+    "name": "juice c",
+    "Food_Item_UUID": "b7a2015f-2979-4ea4-a8bf-3c3b7538a802",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "apple carrots celery and parsley.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy",
+            "Herby"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#8B4513",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Blended",
+            "Added Liquid Filler"
+        ],
+        "Course": [
+            "Side dish",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

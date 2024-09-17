@@ -1,0 +1,54 @@
+{
+    "name": "shrimp tempura",
+    "Food_Item_UUID": "e9483a4d-9d23-49c4-ab6a-3a4e57c7d922",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "savor the crispy perfection of our shrimp tempura. delicate golden coating encases succulentshrimp creating a delightful contrast of textures. immerseyourself in the refined flavors of this elegant dish. ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Refined",
+            "Elegant"
+        ],
+        "Texture": [
+            "Crispy",
+            "Succulent"
+        ],
+        "Visual_Color": [
+            "#FFD700",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seaweed-derived coating for shellfish-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japanese-inspired fusion"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Entertainment"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Hors d'oeuvre"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "shrimp wonton pcs ",
+    "Food_Item_UUID": "1f6dd047-61eb-49ab-9a14-2cb1f05635ca",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "shrimp chicken wonton",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Seafood",
+            "Mild"
+        ],
+        "Texture": [
+            "Crispy",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#FFCC99",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

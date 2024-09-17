@@ -1,0 +1,56 @@
+{
+    "name": " . mama s dumplings pork ",
+    "Food_Item_UUID": "8b7c2f0b-c73e-42fb-aca6-e82cb98650e2",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork and parsley.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "PorkOnly"
+        ],
+        "Nutrition": [
+            "Rich-In-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Weekend-Brunch",
+            "Casual-Dinner"
+        ],
+        "Cooking_Method": [
+            "Stewed"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "kids fajitas petite ",
+    "Food_Item_UUID": "8fef9bc1-35db-40f1-b8f9-28946e4e07bb",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico/United States"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

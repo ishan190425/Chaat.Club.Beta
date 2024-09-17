@@ -1,0 +1,56 @@
+{
+    "name": "kids crispy taco",
+    "Food_Item_UUID": "c648be4a-c493-4f4f-aa57-abf57e3655dd",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Taco-like aroma"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFCC33",
+            "#EEEEEE"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico/USA"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch/Dinner",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer/Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

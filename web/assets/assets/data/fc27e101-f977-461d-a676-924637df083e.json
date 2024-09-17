@@ -1,0 +1,63 @@
+{
+    "name": "steak or pollo asada",
+    "Food_Item_UUID": "fc27e101-f977-461d-a676-924637df083e",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "grilled skirt steak or chicken saut ed spinach medley sliced avocado grilled vegetables chimichurri",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Smoky"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby",
+            "Earthly"
+        ],
+        "Texture": [
+            "Tender",
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium-high"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "South America",
+            "USA"
+        ],
+        "Occasions": [
+            "Grill Nights",
+            "Lunches",
+            "Dinners",
+            "Weekend Brunch"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Saut\u00e9ed"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

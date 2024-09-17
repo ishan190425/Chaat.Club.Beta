@@ -1,0 +1,57 @@
+{
+    "name": "ss stewed pork belly",
+    "Food_Item_UUID": "fd5e6122-7bbb-445f-adb4-8b38b6cba124",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with boiled quail egg and multicolor rice",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Rich"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Umami"
+        ],
+        "Texture": [
+            "Tender",
+            "Fatty"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Brunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

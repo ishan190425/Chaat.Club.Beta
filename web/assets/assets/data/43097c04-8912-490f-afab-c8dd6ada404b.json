@@ -1,0 +1,53 @@
+{
+    "name": "s hot sour soup",
+    "Food_Item_UUID": "43097c04-8912-490f-afab-c8dd6ada404b",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with tofu oz",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour"
+        ],
+        "Aroma": [
+            "Oily"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Transparent",
+            "#008000"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Chinese"
+        ],
+        "Occasions": [
+            "Anytime"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

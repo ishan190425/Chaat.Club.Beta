@@ -1,0 +1,52 @@
+{
+    "name": "donnafugata bell assai frappato",
+    "Food_Item_UUID": "45580dbf-8dc8-4fec-b4ac-0054c78f491c",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Honeyed"
+        ],
+        "Texture": [
+            "Crunchy",
+            " Refreshing"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "Caramel"
+        ],
+        "Spice_level": [
+            "Mellow"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Not specified"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "After Dinner"
+        ],
+        "Cooking_Method": [
+            "Chilled"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

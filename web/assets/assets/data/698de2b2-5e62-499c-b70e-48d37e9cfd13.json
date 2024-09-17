@@ -1,0 +1,52 @@
+{
+    "name": "edna valley chardonnay",
+    "Food_Item_UUID": "698de2b2-5e62-499c-b70e-48d37e9cfd13",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Buttery",
+            "Caramel"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Vanilla",
+            "Buttery"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Golden Yellow"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "USA (Edna Valley, California)"
+        ],
+        "Occasions": [
+            "Ap\u00e9ritif",
+            "Dinner Party"
+        ],
+        "Cooking_Method": [
+            "Not applicable"
+        ],
+        "Course": [
+            "None"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": " . lamb over rice",
+    "Food_Item_UUID": "d6da40b2-7d83-4caf-ab49-b193b5eca35d",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "lamb beef lean meat sliced and grilled.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Grilled"
+        ],
+        "Texture": [
+            "Lean",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Lamb contains Fat"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Good-Source-of-Vitamin-B12"
+        ],
+        "Country_Origin": [
+            "Global",
+            "Middle-eastern"
+        ],
+        "Occasions": [
+            "Snack",
+            "Mezze"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

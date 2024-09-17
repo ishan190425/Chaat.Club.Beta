@@ -1,0 +1,55 @@
+{
+    "name": "arizona juice",
+    "Food_Item_UUID": "2e589336-c253-4683-8b20-05252da9ce33",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "enjoy a refreshing bottle of arizona s juice drink",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity"
+        ],
+        "Texture": [
+            "Thick",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "Transparent",
+            "#C5D7E3"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Anytime",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Blend",
+            "Bottled"
+        ],
+        "Course": [
+            "Drink"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

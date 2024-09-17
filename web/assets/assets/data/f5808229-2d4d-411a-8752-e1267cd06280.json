@@ -1,0 +1,58 @@
+{
+    "name": "n beef boat noodle soup",
+    "Food_Item_UUID": "f5808229-2d4d-411a-8752-e1267cd06280",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "rice noodle braised beef knuckle and sliced top sirloin served with roasted chili garlic on the side",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Beefy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Hearty",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich in Iron"
+        ],
+        "Country_Origin": [
+            "Vietnam"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Supper"
+        ],
+        "Cooking_Method": [
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

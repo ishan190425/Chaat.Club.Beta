@@ -1,0 +1,56 @@
+{
+    "name": "fried broccoli shrimp ",
+    "Food_Item_UUID": "e6b4b34b-88e6-4aa9-9b5c-6a5c3ba0c068",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "broccoli shrimp.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Seafood"
+        ],
+        "Aroma": [
+            "Pungent"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#8B9467",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Seafood",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Appetizer",
+            " Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Starter"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

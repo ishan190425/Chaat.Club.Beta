@@ -1,0 +1,60 @@
+{
+    "name": "squid ink tonnarelli",
+    "Food_Item_UUID": "9c205ed3-0fcc-4507-8c17-3b689e6c7bd3",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "tiger shrimp calamari wild fennel pollen mint spicy tomato sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Seafoody",
+            "Fresh"
+        ],
+        "Texture": [
+            "Al dente",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#333300",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fancy",
+            "Italian-Style",
+            "Contains shellfish",
+            "May contain gluten due to cross-contamination with pasta"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Special Occasion",
+            "Date Night",
+            "Romantic Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "n pad lard nar",
+    "Food_Item_UUID": "ead09c71-35a0-4749-8a6d-99234c5c0d86",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh rice noodle topped with chinese broccoli and house gravy",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bittersweet"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Umami"
+        ],
+        "Texture": [
+            "Slippery",
+            "Al dente"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Stir-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

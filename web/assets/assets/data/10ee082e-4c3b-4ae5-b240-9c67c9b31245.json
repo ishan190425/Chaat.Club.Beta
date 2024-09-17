@@ -1,0 +1,60 @@
+{
+    "name": "poori nos ",
+    "Food_Item_UUID": "10ee082e-4c3b-4ae5-b240-9c67c9b31245",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "fried fluffy whole wheat bread served with mashed potato and curry",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Fried",
+            "Indian-spiced"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFD700",
+            "#FFFFFF",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Vegetarian",
+            "Vegan (depending on toppings)"
+        ],
+        "Nutrition": [
+            "Moderate-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-frying"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

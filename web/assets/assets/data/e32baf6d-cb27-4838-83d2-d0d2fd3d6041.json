@@ -1,0 +1,59 @@
+{
+    "name": "tomato onion chili uthappam",
+    "Food_Item_UUID": "e32baf6d-cb27-4838-83d2-d0d2fd3d6041",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake topped with tomatoes onions and chili",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Sour"
+        ],
+        "Aroma": [
+            "Herby"
+        ],
+        "Texture": [
+            "Thick",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Yellow",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Vegan-Friendly"
+        ],
+        "Country_Origin": [
+            "India, Sri Lanka"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-seared"
+        ],
+        "Course": [
+            "Appetizer, Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

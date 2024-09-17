@@ -1,0 +1,54 @@
+{
+    "name": "jinya bun pc ",
+    "Food_Item_UUID": "a144c96c-b72b-47f2-8d99-89f69a5d6bdb",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "steamed bun stuffed with slow braised pork chashu cucumber and baby mixed greens served with jinya s original bun sauce and mayonnaise. ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Umami"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Mushy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Asian-Inspired"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

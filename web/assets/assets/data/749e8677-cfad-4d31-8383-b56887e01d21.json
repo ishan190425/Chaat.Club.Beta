@@ -1,0 +1,54 @@
+{
+    "name": "pork chashu bowl ",
+    "Food_Item_UUID": "749e8677-cfad-4d31-8383-b56887e01d21",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "slow braised pork chashu simmered shiitake mushroom kikurage namul may be substituted with spinach based on availability. green onion seasoned egg and sesame seeds.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Rich"
+        ],
+        "Aroma": [
+            "Earthy"
+        ],
+        "Texture": [
+            "Tender",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#fff999"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

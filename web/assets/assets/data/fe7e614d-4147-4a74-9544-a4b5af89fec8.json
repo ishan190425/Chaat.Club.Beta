@@ -1,0 +1,57 @@
+{
+    "name": "gyro fries",
+    "Food_Item_UUID": "fe7e614d-4147-4a74-9544-a4b5af89fec8",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Street Food"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#F7D2CF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Casual Gathering"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "extra fish",
+    "Food_Item_UUID": "7ded10e3-08c9-4b58-8abf-55e7feb6c205",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fishy",
+            "Salty"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Bristly"
+        ],
+        "Texture": [
+            "Flaky",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F5F5DC",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Pescatarian"
+        ],
+        "Nutrition": [
+            "Protein-Rich"
+        ],
+        "Country_Origin": [
+            "International"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

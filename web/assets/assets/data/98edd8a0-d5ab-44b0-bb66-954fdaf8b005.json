@@ -1,0 +1,57 @@
+{
+    "name": "heirloom tomato burrata",
+    "Food_Item_UUID": "98edd8a0-d5ab-44b0-bb66-954fdaf8b005",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "crispy ciabatta arugula shaved red onion calabrian vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Earthy"
+        ],
+        "Texture": [
+            "Creepy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FF3E3E",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegan-friendly"
+        ],
+        "Nutrition": [
+            "Low-Glyphosate"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer/Course Starter",
+            "Breakfast/Lunch/Dinner"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Starters",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

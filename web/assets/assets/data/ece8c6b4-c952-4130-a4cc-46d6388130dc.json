@@ -1,0 +1,59 @@
+{
+    "name": "extra lamb",
+    "Food_Item_UUID": "ece8c6b4-c952-4130-a4cc-46d6388130dc",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Gamey",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Earthy"
+        ],
+        "Texture": [
+            "Tender",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "Red-Brown",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Halal",
+            "Kosher"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Middle East",
+            "South Asia",
+            "Africa"
+        ],
+        "Occasions": [
+            "Special Occasion",
+            "Celebration"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

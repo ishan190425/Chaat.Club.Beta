@@ -1,0 +1,56 @@
+{
+    "name": "s tom yum ",
+    "Food_Item_UUID": "e59b5fca-043c-4670-8187-2890be511382",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "famous spicy thai soup flavored with lemongrass mushroom lime tomato and chilies",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Savory",
+            "Fruity"
+        ],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Everyday meal"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

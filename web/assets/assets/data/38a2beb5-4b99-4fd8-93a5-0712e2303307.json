@@ -1,0 +1,57 @@
+{
+    "name": "add chile con queso",
+    "Food_Item_UUID": "38a2beb5-4b99-4fd8-93a5-0712e2303307",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Rich"
+        ],
+        "Texture": [
+            "Smooth",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Ca",
+            "Moderate-Sodium"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Party",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Microwaved",
+            "Fried"
+        ],
+        "Course": [
+            "Desert",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

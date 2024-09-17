@@ -1,0 +1,52 @@
+{
+    "name": "y house salad",
+    "Food_Item_UUID": "efdfd9ec-75ad-40bf-ad1c-b8a2265ea79e",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "mixed green with thai peanut sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Peanutty"
+        ],
+        "Texture": [
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Protein"
+        ],
+        "Country_Origin": [
+            "Thai"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Raw, Simple"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

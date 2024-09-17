@@ -1,0 +1,57 @@
+{
+    "name": "painting soup ",
+    "Food_Item_UUID": "bd375ab9-04c0-4762-883d-6eb1a88e6390",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "egg green onion seaweed.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Umami",
+            "Seafood"
+        ],
+        "Aroma": [
+            "Savory",
+            "Oceanic"
+        ],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#34C759",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Seafood"
+        ],
+        "Nutrition": [
+            "High-Fat",
+            "Rich"
+        ],
+        "Country_Origin": [
+            "Japan",
+            "Korea"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

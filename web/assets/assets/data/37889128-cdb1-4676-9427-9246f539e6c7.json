@@ -1,0 +1,58 @@
+{
+    "name": "strozzapreti",
+    "Food_Item_UUID": "37889128-cdb1-4676-9427-9246f539e6c7",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "herb roasted chicken roasted mushroom spinach toasted pine nut parmesan cream",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Herbaceous",
+            "Earthly"
+        ],
+        "Texture": [
+            "Creamy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Browned",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Lactose-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Birthday Party",
+            "Special Occasion"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

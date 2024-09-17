@@ -1,0 +1,53 @@
+{
+    "name": "chicken pesto",
+    "Food_Item_UUID": "bda1b6fd-1bbd-4810-be1a-22a82b398d9a",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "sweet basil shaved garlic toasted pine nut crispy caper gigli",
+    "Flavor_Profile": {
+        "Taste": [
+            "Herby"
+        ],
+        "Aroma": [
+            "Herbal",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

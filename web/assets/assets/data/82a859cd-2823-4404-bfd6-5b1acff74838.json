@@ -1,0 +1,28 @@
+{
+    "name": "a tod mun pla ",
+    "Food_Item_UUID": "82a859cd-2823-4404-bfd6-5b1acff74838",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fish cake fried ground alaska pollock patties lightly spiced served with ground peanut cucumber relish",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": " .combo over rice",
+    "Food_Item_UUID": "79d7dbe0-ada1-43e3-9967-e68077676ef0",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Asian",
+            "Jamaican"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Combination"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

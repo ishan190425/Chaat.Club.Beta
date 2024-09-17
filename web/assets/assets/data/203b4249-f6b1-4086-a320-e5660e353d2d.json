@@ -1,0 +1,56 @@
+{
+    "name": "classico",
+    "Food_Item_UUID": "203b4249-f6b1-4086-a320-e5660e353d2d",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "prosciutto di parma speck pecorino stagionato crescenza house giardiniera castelvetrano olive marcona almond fig mostarda grilled bread",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salted",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFCC99"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "sandwich dosa",
+    "Food_Item_UUID": "5f1aa7d7-3c4e-45f9-830e-b7c7a170ca9b",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin rice crepe spread with cheese and stuffing with onion tomatoes and green peas",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Tangy",
+            "Oniony"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#F2E7CE",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich-in-Vitamins"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Cooked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

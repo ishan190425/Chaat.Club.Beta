@@ -1,0 +1,54 @@
+{
+    "name": "fries",
+    "Food_Item_UUID": "1a2fe2b9-b8fb-467a-ab1f-71b35010156f",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salty"
+        ],
+        "Aroma": [
+            "None known"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#CCCCCC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Multiple Countries (Global)"
+        ],
+        "Occasions": [
+            "Snack",
+            "Beverage with a Meal"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

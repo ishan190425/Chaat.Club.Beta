@@ -1,0 +1,54 @@
+{
+    "name": "iconoclast by chimney rock cabernet",
+    "Food_Item_UUID": "8bf028cc-847a-448e-8ce1-a92e35d1be23",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Dry",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Berry"
+        ],
+        "Texture": [
+            "Medium-Bodied",
+            "Well-Structured"
+        ],
+        "Visual_Color": [
+            "Deep Red/Purple"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "Mild-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Before Dinner",
+            "Special Occasion"
+        ],
+        "Cooking_Method": [
+            "No Cooking Required"
+        ],
+        "Course": [
+            "Wine/Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

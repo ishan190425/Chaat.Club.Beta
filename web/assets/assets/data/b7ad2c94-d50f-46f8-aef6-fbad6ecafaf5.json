@@ -1,0 +1,50 @@
+{
+    "name": "mexican coke",
+    "Food_Item_UUID": "b7ad2c94-d50f-46f8-aef6-fbad6ecafaf5",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "sweetened with cane sugar this classic mexican coke offers a distinctively crisp and refreshing cola taste.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity"
+        ],
+        "Texture": [
+            "Carbonated"
+        ],
+        "Visual_Color": [
+            "#4C00A1",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Caffeine"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Any Time of the Day",
+            "Party/Event"
+        ],
+        "Cooking_Method": [
+            "Bottled"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "chicken parmesan",
+    "Food_Item_UUID": "e16d2728-0552-42c5-a7de-f8603e7db57b",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "crushed tomato aged provolone mozzarella parmesan rigatoni",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Tomatoey",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#F2BDE8"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Breaded"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

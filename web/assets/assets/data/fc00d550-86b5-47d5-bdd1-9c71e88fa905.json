@@ -1,0 +1,55 @@
+{
+    "name": "medhu vada nos ",
+    "Food_Item_UUID": "fc00d550-86b5-47d5-bdd1-9c71e88fa905",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "crispy lentil doughnut served with chutney and sambar.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Herby",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Protein-rich"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

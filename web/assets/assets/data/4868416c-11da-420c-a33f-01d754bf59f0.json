@@ -1,0 +1,57 @@
+{
+    "name": "fascination beef ",
+    "Food_Item_UUID": "4868416c-11da-420c-a33f-01d754bf59f0",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef enoki mushroom mung bean jelly peppercorn pickled pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Earthy"
+        ],
+        "Texture": [
+            "Tender",
+            "Jelly-like"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Australia",
+            "Canada"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

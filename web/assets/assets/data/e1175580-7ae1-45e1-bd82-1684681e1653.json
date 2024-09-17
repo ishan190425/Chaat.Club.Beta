@@ -1,0 +1,57 @@
+{
+    "name": "pepper twins chicken ",
+    "Food_Item_UUID": "e1175580-7ae1-45e1-bd82-1684681e1653",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dark meat chicken fresh peppercorn thai chili .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Peppery"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFC480"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

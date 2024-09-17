@@ -1,0 +1,58 @@
+{
+    "name": "shrimp wonton ramen",
+    "Food_Item_UUID": "eb8d4279-640a-4238-9226-a46a31f73c20",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "pork and shrimp broth shrimp chicken wonton green onion kikurage may be substituted with spinach based on availability. served with thick noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Seafoody"
+        ],
+        "Texture": [
+            "Thin",
+            "Springy (of the noodles)"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Pork",
+            "Chicken"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Japan-Style"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

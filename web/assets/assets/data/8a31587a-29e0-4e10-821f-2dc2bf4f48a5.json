@@ -1,0 +1,57 @@
+{
+    "name": "crushed meatball ragu",
+    "Food_Item_UUID": "8a31587a-29e0-4e10-821f-2dc2bf4f48a5",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "beef meatball porchetta blistered onion wild oregano bucatini pecorino",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Meaty",
+            "Savory"
+        ],
+        "Aroma": [
+            "Herby",
+            "Earthly",
+            "Meaty"
+        ],
+        "Texture": [
+            "Coarse",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

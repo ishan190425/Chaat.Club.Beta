@@ -1,0 +1,59 @@
+{
+    "name": "philly",
+    "Food_Item_UUID": "4f21a737-f79a-4e9c-a45a-27fa42e2de32",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "smoked. smoked salmon cream cheese and avocado.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich"
+        ],
+        "Aroma": [
+            "Smoky",
+            "Creamy",
+            "Delicate"
+        ],
+        "Texture": [
+            "Smooth",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF99CC",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Gluten",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Fat",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Scandinavia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Assembled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

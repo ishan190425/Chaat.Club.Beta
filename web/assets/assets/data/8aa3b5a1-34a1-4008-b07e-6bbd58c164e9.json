@@ -1,0 +1,62 @@
+{
+    "name": "fried rice",
+    "Food_Item_UUID": "8aa3b5a1-34a1-4008-b07e-6bbd58c164e9",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "scrambled eggs fragrant scallions crisp carrots and a decadent garlic butter combine to create a flavor sensation that will leave you craving for more.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Rich"
+        ],
+        "Aroma": [
+            "Aromatic",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Gold",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Eggs",
+            "Dairy",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Good-Sodium"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

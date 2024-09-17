@@ -1,0 +1,40 @@
+{
+    "name": "iced black tea",
+    "Food_Item_UUID": "91044339-ec98-488a-957c-c0c064e42120",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            "Tea-like"
+        ],
+        "Texture": [
+            "Clear"
+        ],
+        "Visual_Color": [
+            "#964B00",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "tuscan kale",
+    "Food_Item_UUID": "85856f3f-f458-4a36-a670-e864ffeaa5b9",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "crispy pancetta charred grape apple pistachio herbed breadcrumb parmesan vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Herby"
+        ],
+        "Texture": [
+            "Crispy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

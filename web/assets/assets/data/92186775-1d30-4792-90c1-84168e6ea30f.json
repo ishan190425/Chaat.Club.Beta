@@ -1,0 +1,56 @@
+{
+    "name": "salmon poke tacos pcs ",
+    "Food_Item_UUID": "92186775-1d30-4792-90c1-84168e6ea30f",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "jinya s original salmon poke in a crispy wonton taco shell topped with cilantro. pieces.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fishy"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw, Pan-Seared"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

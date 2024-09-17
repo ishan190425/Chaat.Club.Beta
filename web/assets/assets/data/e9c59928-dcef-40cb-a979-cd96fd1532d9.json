@@ -1,0 +1,58 @@
+{
+    "name": "vegetable chili uthappam",
+    "Food_Item_UUID": "e9c59928-dcef-40cb-a979-cd96fd1532d9",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake topped with vegetables and chili",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Earthy"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "street tacos",
+    "Food_Item_UUID": "557ae3b8-c5d9-417c-a48b-4f633c349851",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "four petite corn tortillas beef chopped onion jalapeno cilantro lime",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fiery"
+        ],
+        "Aroma": [
+            "Tortilla-like",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#6B8E23",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium-hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexican"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack",
+            "Dinner",
+            "Street Food"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Saut\u00e9ed"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

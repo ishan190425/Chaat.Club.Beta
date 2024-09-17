@@ -1,0 +1,54 @@
+{
+    "name": "hot boiled fish ",
+    "Food_Item_UUID": "7b3d7aed-fbce-44ca-8a58-fcacd59218b3",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dry red pepper flounder peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Fishy"
+        ],
+        "Texture": [
+            "Flaky"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#F2DE00"
+        ],
+        "Spice_level": [
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

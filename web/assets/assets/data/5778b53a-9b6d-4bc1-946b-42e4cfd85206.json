@@ -1,0 +1,54 @@
+{
+    "name": " . falafel gyro",
+    "Food_Item_UUID": "5778b53a-9b6d-4bc1-946b-42e4cfd85206",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": " vegetarian.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Herby",
+            "Middle Eastern spiced"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFC107",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Middle East"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Late Night Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

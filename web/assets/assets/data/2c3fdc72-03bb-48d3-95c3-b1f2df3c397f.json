@@ -1,0 +1,53 @@
+{
+    "name": "columbia winery merlot",
+    "Food_Item_UUID": "2c3fdc72-03bb-48d3-95c3-b1f2df3c397f",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Rich"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Dark Fruits"
+        ],
+        "Texture": [
+            "Smooth",
+            "Velvet-like"
+        ],
+        "Visual_Color": [
+            "Deep Reddish-Brown"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Evening gatherings"
+        ],
+        "Cooking_Method": [
+            "Not applicable"
+        ],
+        "Course": [
+            "Wine/Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

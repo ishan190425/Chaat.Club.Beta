@@ -1,0 +1,58 @@
+{
+    "name": "beef carpaccio ",
+    "Food_Item_UUID": "8a3ad976-1548-4c80-b0b4-bd1306a9b9fd",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "pecorino stagionato toasted pine nut salsa verde arugula grilled bread",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Nutty"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Antipasto"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

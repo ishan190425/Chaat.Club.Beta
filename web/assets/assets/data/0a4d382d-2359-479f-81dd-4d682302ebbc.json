@@ -1,0 +1,38 @@
+{
+    "name": "impossible meat soboro",
+    "Food_Item_UUID": "0a4d382d-2359-479f-81dd-4d682302ebbc",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Meaty",
+            "Savory"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

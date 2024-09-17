@@ -1,0 +1,58 @@
+{
+    "name": "rasa vada nos ",
+    "Food_Item_UUID": "c2708e21-a294-4313-af19-7c8b9fac5fdf",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "deep fried lentil doughnut immersed in mild spicy south indian soup",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fried",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FF7F50"
+        ],
+        "Spice_level": [
+            "Mild",
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

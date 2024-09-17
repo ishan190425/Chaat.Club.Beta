@@ -1,0 +1,50 @@
+{
+    "name": "marchesi di gresy barbera",
+    "Food_Item_UUID": "04c36518-89a0-434f-857c-216ee87f4c0a",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Dry",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#7B5E4D",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wine Pairing",
+            "Evening Gatherings"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "No Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

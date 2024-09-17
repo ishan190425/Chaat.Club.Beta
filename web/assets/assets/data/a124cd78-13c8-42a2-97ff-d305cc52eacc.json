@@ -1,0 +1,58 @@
+{
+    "name": "steamed mixed vegetable",
+    "Food_Item_UUID": "a124cd78-13c8-42a2-97ff-d305cc52eacc",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Veggie"
+        ],
+        "Texture": [
+            "Soft",
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "#00FF00",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "Universal"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Side Dish",
+            "Salad"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "a sate chicken ",
+    "Food_Item_UUID": "71e4ddf7-59db-4ee1-b0c8-6fb3f2ca068c",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "grilled marinated chicken on skewer served with peanut sauce and cucumber relish",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peanut-y"
+        ],
+        "Aroma": [
+            "Grilled",
+            "Earthy"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#ECF5CE",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Indonesia"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Marinated"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

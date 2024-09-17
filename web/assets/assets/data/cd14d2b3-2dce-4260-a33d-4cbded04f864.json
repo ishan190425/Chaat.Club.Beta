@@ -1,0 +1,56 @@
+{
+    "name": "aloo palak",
+    "Food_Item_UUID": "cd14d2b3-2dce-4260-a33d-4cbded04f864",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "steamed potato cooked with paste of spinach seasoned with indian herbs",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthly",
+            "Savory"
+        ],
+        "Aroma": [
+            "Greens"
+        ],
+        "Texture": [
+            "Soft",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Boiled"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

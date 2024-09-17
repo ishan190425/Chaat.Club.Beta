@@ -1,0 +1,48 @@
+{
+    "name": "la dolce vita",
+    "Food_Item_UUID": "51ae02dc-29aa-45af-9f4e-96ac5e3b6502",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "serves . fz abv",
+    "Flavor_Profile": {
+        "Taste": null,
+        "Aroma": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFF00",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": null,
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Party",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "fried pineapple rice noodle with chicken ",
+    "Food_Item_UUID": "8d7b005f-eb51-4a7f-a0cb-c72701dc1377",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "chicken thigh pineapple rice.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Pineappley"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#F7D2C4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

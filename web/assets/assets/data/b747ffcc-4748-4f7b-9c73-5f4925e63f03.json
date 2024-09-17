@@ -1,0 +1,61 @@
+{
+    "name": "roasted salmon",
+    "Food_Item_UUID": "b747ffcc-4748-4f7b-9c73-5f4925e63f03",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "caramelized romanesco broccolini fregola house pesto lemon gremolata affinato",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Herby",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#8BC34A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Pescatarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich-In-AminoAcids"
+        ],
+        "Country_Origin": [
+            "Italy",
+            "Greek"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Special_Occasion"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

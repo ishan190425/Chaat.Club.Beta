@@ -1,0 +1,57 @@
+{
+    "name": "fiesta boat",
+    "Food_Item_UUID": "78a13100-f4ec-4e34-813c-a44652ae1672",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "serves . shaggy roll new orleans roll dracula roll phili roll nigiri and a side of spicy garlic edamame.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Garlicky"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Green",
+            "White"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Japan",
+            "United States"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Grilled",
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

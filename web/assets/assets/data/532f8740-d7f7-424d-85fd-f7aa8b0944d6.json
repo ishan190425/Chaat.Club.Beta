@@ -1,0 +1,60 @@
+{
+    "name": "n pad kua gai",
+    "Food_Item_UUID": "532f8740-d7f7-424d-85fd-f7aa8b0944d6",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh flat rice noodle this dish best with chicken egg batter scallion cilantro and pickle turnip",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Cilantro"
+        ],
+        "Aroma": [
+            "Herby",
+            "Fatty"
+        ],
+        "Texture": [
+            "Creelmanary",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFCC99",
+            "#C0C0C0"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Carb"
+        ],
+        "Country_Origin": [
+            "China",
+            "Asia- Pacific"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

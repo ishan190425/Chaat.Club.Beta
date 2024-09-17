@@ -1,0 +1,58 @@
+{
+    "name": "onion masala dosa",
+    "Food_Item_UUID": "55d14403-40ad-44a8-aafb-e92c3f3fcfee",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy rice and lentil crepe filled with potatoes and onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Oniony",
+            "Potatoey"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FF99CC",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegan option possible"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Good source of protein for vegetarians"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-fryed"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "red dumplings ",
+    "Food_Item_UUID": "b5b8c54e-f67f-4941-b81e-0d84877c278f",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork pepper wonton skin.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Peppery"
+        ],
+        "Texture": [
+            "Chewy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#FF9999"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Entertaining"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "combo gyro fries",
+    "Food_Item_UUID": "d6270eb1-31e6-4cc6-a977-7f1b8ea03d35",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "chicken and lamb with fries.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Meaty"
+        ],
+        "Aroma": [
+            "Mild"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lamb",
+            "Chicken"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Greece",
+            "Middle East"
+        ],
+        "Occasions": [
+            "Snack",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Baked"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

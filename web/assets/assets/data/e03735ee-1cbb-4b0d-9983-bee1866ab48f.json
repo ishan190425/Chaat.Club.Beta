@@ -1,0 +1,40 @@
+{
+    "name": "chilli paneer",
+    "Food_Item_UUID": "e03735ee-1cbb-4b0d-9983-bee1866ab48f",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

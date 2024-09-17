@@ -1,0 +1,56 @@
+{
+    "name": "plantain bajji nos ",
+    "Food_Item_UUID": "0af6d646-363a-44d7-b80c-13be9aeb1bf1",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick plantain slices coated with chick peas batter deep fried served with chutney and sambar",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fried",
+            "Crunchy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC2C7",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Carbs"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

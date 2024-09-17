@@ -1,0 +1,64 @@
+{
+    "name": "farmers market board",
+    "Food_Item_UUID": "b537d53f-e1af-426b-a4a1-0af49adb0c47",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "grilled asparagus broccolini sugar snap pea avocado cherry tomato glazed apple chioggia beet heirloom carrot house pesto hearth bread",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#8B4513",
+            "#6495ED",
+            "#FFC080",
+            "#F0E4CC",
+            "#7FFFA2",
+            "#9A6324"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "USA",
+            "International"
+        ],
+        "Occasions": [
+            "Brunch",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted",
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

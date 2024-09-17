@@ -1,0 +1,58 @@
+{
+    "name": "aloo gobi masala",
+    "Food_Item_UUID": "cc6803bc-2d41-4dd6-a66c-e8c9df83a6e3",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "steamed cauliflower and potato cooked with onion paste and fine indian spices.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthly",
+            "Savory"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Earthy"
+        ],
+        "Texture": [
+            "Soft",
+            "Flaky"
+        ],
+        "Visual_Color": [
+            "#F5DEB3",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Fat",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steaming"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

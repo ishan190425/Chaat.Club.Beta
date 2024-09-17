@@ -1,0 +1,54 @@
+{
+    "name": "can diet coke",
+    "Food_Item_UUID": "1473e000-8fbd-462e-9d7b-8126d8dcc4d5",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "a refreshing sugar free carbonated beverage with a crisp cola flavor.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Cola"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Slightly Sweet"
+        ],
+        "Texture": [
+            "Bubbly"
+        ],
+        "Visual_Color": [
+            "#0033CC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free",
+            "Sugar-Free",
+            "Low-Calorie"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Anytime",
+            "Social Gathering"
+        ],
+        "Cooking_Method": [
+            "Opened From Can"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

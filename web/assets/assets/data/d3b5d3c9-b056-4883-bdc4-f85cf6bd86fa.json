@@ -1,0 +1,54 @@
+{
+    "name": "fontanafredda barolo",
+    "Food_Item_UUID": "d3b5d3c9-b056-4883-bdc4-f85cf6bd86fa",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Savory"
+        ],
+        "Aroma": [
+            "Wine-like",
+            "Savory"
+        ],
+        "Texture": [
+            "Rich",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Red-Brown",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose"
+        ],
+        "Nutrition": [
+            "High-Alchohol"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wine-Paing"
+        ],
+        "Cooking_Method": [
+            "Bottled"
+        ],
+        "Course": [
+            "Aperitif"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

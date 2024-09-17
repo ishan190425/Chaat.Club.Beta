@@ -1,0 +1,61 @@
+{
+    "name": "sashimi roses",
+    "Food_Item_UUID": "84245bc0-373a-4d97-a554-e71b58962b50",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "raw. thinly sliced raw tuna salmon and yellowtail paired with ponzu sauce and wasabi in a japanese style. pc.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Delicate"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Searing"
+        ],
+        "Texture": [
+            "Fresh",
+            "Firm",
+            "Thoroughly Chewable"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#F5DEB3",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Raw Food"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Raw"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

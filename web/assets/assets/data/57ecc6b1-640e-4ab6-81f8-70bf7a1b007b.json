@@ -1,0 +1,56 @@
+{
+    "name": "z gai yang",
+    "Food_Item_UUID": "57ecc6b1-640e-4ab6-81f8-70bf7a1b007b",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "southern region style. charcoal chicken leg quarter served with jaew and sweet chili sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Charcoal-Smoked",
+            "Sweet"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#990000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

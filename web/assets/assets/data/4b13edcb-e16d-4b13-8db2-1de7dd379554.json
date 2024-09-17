@@ -1,0 +1,63 @@
+{
+    "name": "botana mixta",
+    "Food_Item_UUID": "4b13edcb-e16d-4b13-8db2-1de7dd379554",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "appetizer sampler of chicken and beef nachos chicken and beef empanadas chicken and beef quesadilla and chicken flauta",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fiesta",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#3333FF",
+            "#FFFF00",
+            "#E5DAC2"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten",
+            "Lactose",
+            "Soy"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico",
+            "Spain"
+        ],
+        "Occasions": [
+            "Party",
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

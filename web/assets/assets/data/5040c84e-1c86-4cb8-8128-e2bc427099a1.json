@@ -1,0 +1,57 @@
+{
+    "name": "kung pao chicken ",
+    "Food_Item_UUID": "5040c84e-1c86-4cb8-8128-e2bc427099a1",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dark meat chicken dry red pepper peanut peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Nutty"
+        ],
+        "Aroma": [
+            "Peanuty",
+            "Peppery"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Savory"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#FFC499"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Peanut-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried",
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

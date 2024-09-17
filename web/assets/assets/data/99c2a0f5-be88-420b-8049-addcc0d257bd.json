@@ -1,0 +1,54 @@
+{
+    "name": "pork gyoza pcs ",
+    "Food_Item_UUID": "99c2a0f5-be88-420b-8049-addcc0d257bd",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "handmade pork pot stickers. pieces.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Umami"
+        ],
+        "Aroma": [
+            "Savory",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan/China"
+        ],
+        "Occasions": [
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Pan-Fryed"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

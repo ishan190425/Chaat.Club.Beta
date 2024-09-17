@@ -1,0 +1,56 @@
+{
+    "name": "hot boiled pork ",
+    "Food_Item_UUID": "1f4baee0-a8d2-4ea2-8d9d-049b5e32605c",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork dry red pepper ginger green onion peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Porky",
+            "Spicy"
+        ],
+        "Texture": [
+            "Tender",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "Rich_in_Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "BBQ"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

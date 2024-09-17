@@ -1,0 +1,57 @@
+{
+    "name": "add avocado sliced ",
+    "Food_Item_UUID": "93326e47-c303-4ea1-980a-4d509f794a1d",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Creamy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Buttery"
+        ],
+        "Texture": [
+            "Smooth",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#8BC34A",
+            "#F5F5DC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fat",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Tropical"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

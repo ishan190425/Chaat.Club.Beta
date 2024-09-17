@@ -1,0 +1,49 @@
+{
+    "name": "kids chicken tenders",
+    "Food_Item_UUID": "aacb5442-8ce0-46b9-8fc0-f36b15fe6131",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "White"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Snack",
+            "Meal"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "ramune",
+    "Food_Item_UUID": "13e59771-29c9-4a36-8e3a-059e7827104f",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "japanese bubble soda",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Fizzing",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#C9E4CA"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

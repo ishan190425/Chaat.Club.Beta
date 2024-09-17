@@ -1,0 +1,56 @@
+{
+    "name": "a zap veggie gyoza ",
+    "Food_Item_UUID": "8dc8e29a-161a-4d5b-a5b7-ef3a67ac4ab3",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "pan fried dumpling served with soya sauce scallion dipping ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Veggie-like",
+            "Soy-based"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Greens"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Asia-Inspired"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

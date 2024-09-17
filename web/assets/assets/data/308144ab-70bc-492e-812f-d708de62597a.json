@@ -1,0 +1,58 @@
+{
+    "name": "fr pineapple fried rice",
+    "Food_Item_UUID": "308144ab-70bc-492e-812f-d708de62597a",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "egg raisins onion and curry powder. ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC125",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free",
+            "Lacto-ovo vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-fry"
+        ],
+        "Course": [
+            "Side dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

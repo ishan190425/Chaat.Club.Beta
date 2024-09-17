@@ -1,0 +1,53 @@
+{
+    "name": "gyro fries",
+    "Food_Item_UUID": "60aca25f-ca81-4ba3-acd7-d152c5e6c898",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Frenchie",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Greece/USA"
+        ],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Finger Food"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

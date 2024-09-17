@@ -1,0 +1,56 @@
+{
+    "name": "y nam tok",
+    "Food_Item_UUID": "b436ee08-f013-4bac-8430-64ca808a1ed5",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "grilled sliced meat with rice powder shallots cilantro lime and yum sauce pork loin . beef top sirloin . ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Piquant",
+            "Sweety"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#E5E5EA"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

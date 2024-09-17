@@ -1,0 +1,56 @@
+{
+    "name": "sambar vada nos ",
+    "Food_Item_UUID": "33c3dfed-9f05-41cd-91a2-2e91cd8cbe78",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "deep fried lentil doughnut immersed in delicious regional lentil gravy garnished with onions and cilantro",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Warm",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFE0",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Deep Frying"
+        ],
+        "Course": [
+            "Snack",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

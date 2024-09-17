@@ -1,0 +1,57 @@
+{
+    "name": "channa batura",
+    "Food_Item_UUID": "a0a30d26-7bc9-4070-89ba-cc73633ec1f1",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "big fluffy fried bread served with chick peas masala",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fried",
+            "Indian spices"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#fff600",
+            "#ffee00"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Street food",
+            "Casual gathering"
+        ],
+        "Cooking_Method": [
+            "Frying"
+        ],
+        "Course": [
+            "Snack",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

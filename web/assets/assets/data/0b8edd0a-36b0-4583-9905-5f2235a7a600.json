@@ -1,0 +1,61 @@
+{
+    "name": "fried rice with tom yum sauce",
+    "Food_Item_UUID": "0b8edd0a-36b0-4583-9905-5f2235a7a600",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with tom yum sauce slightly spicy fresh sliced lemon grass and kaffir lime leaves.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Slightly Spicy",
+            "Fragrant"
+        ],
+        "Texture": [
+            "Soft",
+            "Gooey"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#32CD32"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork-Free",
+            "Shellfish-Free",
+            "VegetarianFriendly"
+        ],
+        "Nutrition": [
+            "Moderate Calories",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Thai/Chinese-Inspired"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Wok-Cooked"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

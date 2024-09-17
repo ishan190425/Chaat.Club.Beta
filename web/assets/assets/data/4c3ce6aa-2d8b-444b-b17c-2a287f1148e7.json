@@ -1,0 +1,56 @@
+{
+    "name": "e pad ka praw",
+    "Food_Item_UUID": "4c3ce6aa-2d8b-444b-b17c-2a287f1148e7",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "ground meat green bean onion in chili garlic and basil sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Herbaceous",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "Green"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-fry"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

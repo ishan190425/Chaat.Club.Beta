@@ -1,0 +1,60 @@
+{
+    "name": "e sweet sour sauce",
+    "Food_Item_UUID": "9bb70c0d-0c43-48e3-b5ad-d41861630a1c",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with pineapple cucumber tomato bell pepper and onion ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Veggie-like"
+        ],
+        "Texture": [
+            "Sauclike",
+            "Fresh"
+        ],
+        "Visual_Color": [
+            "Green",
+            "Yellow",
+            "Red"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Vegan-Friendly",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "American",
+            "Global"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Boiled"
+        ],
+        "Course": [
+            "Side Dish",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

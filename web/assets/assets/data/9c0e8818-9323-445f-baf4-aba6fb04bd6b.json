@@ -1,0 +1,40 @@
+{
+    "name": "spicy sauce",
+    "Food_Item_UUID": "9c0e8818-9323-445f-baf4-aba6fb04bd6b",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Savory"
+        ],
+        "Texture": [
+            "Thick"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#FF3737"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "e grilled thai teriyaki",
+    "Food_Item_UUID": "ffca7b1f-d2e0-4d01-af56-4b5f22669ee1",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with egg fried rice choice of chicken or salmon ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Teriyaki"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF",
+            "#666600"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "vegetable briyani",
+    "Food_Item_UUID": "c6c54c1e-87b7-4ef9-ba07-4f9b050a75ff",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "basmati rice cooked with vegetables and indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Aromatic",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Separate Grains"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFC499"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

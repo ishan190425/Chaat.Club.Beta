@@ -1,0 +1,55 @@
+{
+    "name": "green pepper beef ",
+    "Food_Item_UUID": "17d351aa-83ac-45ab-acc7-d4a74d3ac345",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef bell pepper pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Grassy",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Fleshy"
+        ],
+        "Visual_Color": [
+            "#8B4513",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

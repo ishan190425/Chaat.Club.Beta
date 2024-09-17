@@ -1,0 +1,55 @@
+{
+    "name": "vietti moscato d asti",
+    "Food_Item_UUID": "f86d3547-6cf5-4b7a-8002-7c70376f1114",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Buttery"
+        ],
+        "Texture": [
+            "Light",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "Yellow",
+            "Golden"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Wine"
+        ],
+        "Nutrition": [
+            "Calories"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Party",
+            "Social Gathering"
+        ],
+        "Cooking_Method": [
+            "Drinking"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

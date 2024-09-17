@@ -1,0 +1,55 @@
+{
+    "name": "onion and chili uthappam",
+    "Food_Item_UUID": "eb3deb77-5952-4dbb-a75d-3d2a357a2d2e",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake topped with onions green chilies",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#8B0A1A"
+        ],
+        "Spice_level": [
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

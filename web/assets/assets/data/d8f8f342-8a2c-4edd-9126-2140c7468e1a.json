@@ -1,0 +1,53 @@
+{
+    "name": "e a fried golden pompano",
+    "Food_Item_UUID": "d8f8f342-8a2c-4edd-9126-2140c7468e1a",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with flavors chili tamarind sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fishy"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Flaky"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFD700"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Seafood-Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "italian farm",
+    "Food_Item_UUID": "640308a9-8315-4128-9acb-d95de66462d8",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "salami speck provolone pepperoncini olive heirloom cherry tomato cucumber pickled red onion roasted pepper herb breadcrumb oregano vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Herby",
+            "Meaty",
+            "Vinegary"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#7F5D00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fresh"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

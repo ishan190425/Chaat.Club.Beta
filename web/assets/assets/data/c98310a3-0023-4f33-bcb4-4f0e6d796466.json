@@ -1,0 +1,28 @@
+{
+    "name": "green onion",
+    "Food_Item_UUID": "c98310a3-0023-4f33-bcb4-4f0e6d796466",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

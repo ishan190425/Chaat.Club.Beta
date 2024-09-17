@@ -1,0 +1,56 @@
+{
+    "name": "wild shrimp scampi",
+    "Food_Item_UUID": "fc023f1d-1dce-41b1-a206-a8633942e4c6",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "blistered tomato grana padano garlic confit herb butter charred lemon grilled bread",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Zesty",
+            "Herby"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFCC99",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

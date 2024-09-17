@@ -1,0 +1,60 @@
+{
+    "name": "egg fried rice",
+    "Food_Item_UUID": "fba65efe-9cff-4ea7-be3b-457a1b0aa358",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with crispy spring rolls.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Fried",
+            "Egg"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFCC33",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Pescetarian"
+        ],
+        "Nutrition": [
+            "High-Carb",
+            "Moderate-Protein"
+        ],
+        "Country_Origin": [
+            "China",
+            "Japan"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

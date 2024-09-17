@@ -1,0 +1,56 @@
+{
+    "name": " . chicken salad",
+    "Food_Item_UUID": "aa809199-6486-49b7-beb2-790ef0b87791",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Tangy"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Nutmeg-like"
+        ],
+        "Texture": [
+            "Creamy",
+            "Chunky"
+        ],
+        "Visual_Color": [
+            "Light Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Picnick"
+        ],
+        "Cooking_Method": [
+            "Mixed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "large oz fajitas",
+    "Food_Item_UUID": "fc31908e-87bb-466b-8e5d-3fdab74202f7",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "served with caramelized onions peppers rice beans sour cream shredded cheese guacamole and pico de gallo",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Cheesy",
+            "Savory"
+        ],
+        "Texture": [
+            "Tender",
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF",
+            "#00BFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose Intolerant"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

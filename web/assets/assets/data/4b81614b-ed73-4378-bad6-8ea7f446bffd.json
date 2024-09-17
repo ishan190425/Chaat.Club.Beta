@@ -1,0 +1,55 @@
+{
+    "name": "camarones rellenos",
+    "Food_Item_UUID": "4b81614b-ed73-4378-bad6-8ea7f446bffd",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "six jumbo bacon wrapped grilled shrimp stuffed with a slice of jalapeno and white cheese",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Smoky",
+            "Cheesy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crisp",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "DeepRed",
+            "#FF9900"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

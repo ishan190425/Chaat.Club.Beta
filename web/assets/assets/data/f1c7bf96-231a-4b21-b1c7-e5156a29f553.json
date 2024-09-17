@@ -1,0 +1,56 @@
+{
+    "name": "y .c som tum sua style with vermicelli noodles",
+    "Food_Item_UUID": "f1c7bf96-231a-4b21-b1c7-e5156a29f553",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh green papaya salad green bean cherry tomato flavored with lime garlic chili and fish sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Garlicky",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#F2E9FF",
+            "#99CC00"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pescetarian"
+        ],
+        "Nutrition": [
+            "High-Quality Protein"
+        ],
+        "Country_Origin": [
+            "Thai"
+        ],
+        "Occasions": [
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Marinated"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "y .b som tum lao style with fermented fish sauce",
+    "Food_Item_UUID": "bc238594-0fa7-469f-9223-e5b67661d7d3",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh green papaya salad green bean cherry tomato flavored with lime garlic chili and fish sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fishey",
+            "Garlicky",
+            "Chili"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Shellfish",
+            "Lactose intolerance"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Lao"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Fermented"
+        ],
+        "Course": [
+            "Entr\u00e9e"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "gobi ",
+    "Food_Item_UUID": "0dba32a7-4550-4516-9987-4c19478b03f7",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "deep fried of cauliflower florets with indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crispy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#CCCCFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

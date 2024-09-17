@@ -1,0 +1,57 @@
+{
+    "name": "spicy chicken cube ",
+    "Food_Item_UUID": "4379ab64-0280-41d5-b51e-266c13716dd4",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dark meat chicken dry red pepper peanuts peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Meal"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

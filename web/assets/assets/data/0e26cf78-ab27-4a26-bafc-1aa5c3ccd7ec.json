@@ -1,0 +1,54 @@
+{
+    "name": "japanese taquitos",
+    "Food_Item_UUID": "0e26cf78-ab27-4a26-bafc-1aa5c3ccd7ec",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "crispy fried spring rolls filled with veggies and served with a homemade sweet and sour sauce.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fried",
+            "Sweet"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFAF0",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Japan",
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep Frying"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

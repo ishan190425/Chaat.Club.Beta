@@ -1,0 +1,58 @@
+{
+    "name": "paneer pulao",
+    "Food_Item_UUID": "a962d600-4c17-45d5-8903-2b23941822bb",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "fluffy basmati rice sauteed with fresh cottage cheese and mild indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Mild"
+        ],
+        "Aroma": [
+            "Buttery",
+            ""
+        ],
+        "Texture": [
+            "Silky",
+            "Fluffy"
+        ],
+        "Visual_Color": [
+            "#C9E4CA",
+            ""
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

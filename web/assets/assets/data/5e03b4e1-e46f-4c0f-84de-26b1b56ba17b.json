@@ -1,0 +1,60 @@
+{
+    "name": "burritos escalante",
+    "Food_Item_UUID": "5e03b4e1-e46f-4c0f-84de-26b1b56ba17b",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "two fajita covered in chile con queso",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Cheesy"
+        ],
+        "Aroma": [
+            "Savory",
+            "Spicy",
+            "Buttery"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

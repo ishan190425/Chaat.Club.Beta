@@ -1,0 +1,28 @@
+{
+    "name": "c massamun curry",
+    "Food_Item_UUID": "bdd8f186-e2d9-4262-89d8-fd0fbc5aa916",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "thick sauce with a mild slightly sweet flavor with potato onion and peanut",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

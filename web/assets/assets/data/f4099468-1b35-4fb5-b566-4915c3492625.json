@@ -1,0 +1,58 @@
+{
+    "name": "add taco al carbon",
+    "Food_Item_UUID": "f4099468-1b35-4fb5-b566-4915c3492625",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Smoky"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#000000"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Beef"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

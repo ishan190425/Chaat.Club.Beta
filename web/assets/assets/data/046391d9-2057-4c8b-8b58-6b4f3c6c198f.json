@@ -1,0 +1,60 @@
+{
+    "name": "spicy tuna tacos pcs ",
+    "Food_Item_UUID": "046391d9-2057-4c8b-8b58-6b4f3c6c198f",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "spicy tuna in a crispy wonton taco shell topped with chilantro. pieces.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Spicy",
+            "Fresh"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#C5E2FF",
+            "#F57D30"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "{} or Gluten-free wonton shells required"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Good Source of Omega-3"
+        ],
+        "Country_Origin": [
+            "International fusion food"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

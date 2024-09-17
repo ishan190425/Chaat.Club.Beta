@@ -1,0 +1,55 @@
+{
+    "name": "spicy meatball",
+    "Food_Item_UUID": "2974e6f4-5793-4e86-8ddb-cee1ad892968",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "provolone picante house ricotta mozzarella pecorino romano red sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Meaty"
+        ],
+        "Texture": [
+            "Soft",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FF69B4"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Caseinfree",
+            "Lactoseintolerant",
+            "Glutenfree"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

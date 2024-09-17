@@ -1,0 +1,58 @@
+{
+    "name": "tex mex dinner",
+    "Food_Item_UUID": "08041f70-1efd-4597-a891-2977c538d515",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "two cheese enchiladas crispy beef taco guacamole",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Meaty",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Milk",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            " Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "quesadillas",
+    "Food_Item_UUID": "5380d7e6-0551-4ef6-8927-d740cf85736f",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "chicken fajita beef fajita or combo",
+    "Flavor_Profile": {
+        "Taste": [
+            "Beefy",
+            "Cheesy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#ffffff"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexican",
+            "Spanish"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

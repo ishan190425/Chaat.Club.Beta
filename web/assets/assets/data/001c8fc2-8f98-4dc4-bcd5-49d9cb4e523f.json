@@ -1,0 +1,51 @@
+{
+    "name": "to go soda",
+    "Food_Item_UUID": "001c8fc2-8f98-4dc4-bcd5-49d9cb4e523f",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Carbonated"
+        ],
+        "Visual_Color": [
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Protein",
+            "High-Carbonation"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Anytime",
+            "When You Need a Pick-Me-Up"
+        ],
+        "Cooking_Method": [
+            "Bottled"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

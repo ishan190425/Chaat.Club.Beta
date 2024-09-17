@@ -1,0 +1,55 @@
+{
+    "name": "onion chili dosa",
+    "Food_Item_UUID": "e6eb9cce-e840-42b4-a38d-8612c39f8f5a",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy rice and lentil crepe topped with onions and chilies",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Thin"
+        ],
+        "Visual_Color": [
+            "#FF8000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Meal",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

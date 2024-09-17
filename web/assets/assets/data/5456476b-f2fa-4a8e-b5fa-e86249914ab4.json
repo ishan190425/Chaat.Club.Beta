@@ -1,0 +1,56 @@
+{
+    "name": "cabo salad",
+    "Food_Item_UUID": "5456476b-f2fa-4a8e-b5fa-e86249914ab4",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "blackened salmon black bean salad over romaine leaf fiesta mango vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Fishy"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Savory"
+        ],
+        "Texture": [
+            "Crisp",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FF8C00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Glycemic"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA/Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Mixed Greens"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

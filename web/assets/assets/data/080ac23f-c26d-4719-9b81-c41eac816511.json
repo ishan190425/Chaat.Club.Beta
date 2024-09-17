@@ -1,0 +1,57 @@
+{
+    "name": "louis wonton",
+    "Food_Item_UUID": "080ac23f-c26d-4719-9b81-c41eac816511",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "crispy fried dumplings filled with chicken and veggies and served with a homemade sweet and sour sauce.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fried",
+            "Veggie"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork-Free",
+            "Shellfish-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Chinese-style"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

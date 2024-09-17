@@ -1,0 +1,62 @@
+{
+    "name": "rava dosa",
+    "Food_Item_UUID": "146810f8-61cc-43eb-ba5c-8f84926bbb43",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy wheat and rice crepe stuffed with mildly spiced mashed potatoes and onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Salted"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy",
+            "Smoky"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft",
+            "Mashed"
+        ],
+        "Visual_Color": [
+            "#F5F5DC",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Potatoes"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Moderate-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fermented",
+            "Pan-fried"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

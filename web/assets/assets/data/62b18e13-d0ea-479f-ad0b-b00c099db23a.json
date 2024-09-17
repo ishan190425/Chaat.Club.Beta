@@ -1,0 +1,59 @@
+{
+    "name": "spicy wood ear salad ",
+    "Food_Item_UUID": "62b18e13-d0ea-479f-ad0b-b00c099db23a",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "black ear peppercorn pickle pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Pungent"
+        ],
+        "Texture": [
+            "Tender",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Red-Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian",
+            "Kosher",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Pan-Roasted"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

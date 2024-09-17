@@ -1,0 +1,57 @@
+{
+    "name": "sauce",
+    "Food_Item_UUID": "42f9af63-872a-4f43-88f0-db92a69e76f6",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Tomatoey",
+            "Herby"
+        ],
+        "Texture": [
+            "Smooth",
+            "Thick"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Ap\u00e9ro",
+            "Lunch",
+            "Dinner",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Simmered",
+            "Reduced"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

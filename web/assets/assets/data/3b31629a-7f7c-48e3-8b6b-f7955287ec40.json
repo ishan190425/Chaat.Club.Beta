@@ -1,0 +1,53 @@
+{
+    "name": "coke sprite diet coke dr. pepper",
+    "Food_Item_UUID": "3b31629a-7f7c-48e3-8b6b-f7955287ec40",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Carbonated"
+        ],
+        "Visual_Color": [
+            "#03A9FC",
+            "#C7E6D4",
+            "#FF9400"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Sugar-Content",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "Calorie-Rich"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Anytime Snack",
+            "Party"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            ""
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

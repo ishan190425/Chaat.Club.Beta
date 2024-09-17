@@ -1,0 +1,58 @@
+{
+    "name": "z khao naem tod",
+    "Food_Item_UUID": "33b4cad9-7280-4aa0-a02c-c335c5b5b4a6",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crispy herb rice with fermented pork ginger peanut lime shallot and scallions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sour"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Herby"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "GoldenBrown"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Shellfish",
+            "Soy",
+            "Fish"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan Fried",
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

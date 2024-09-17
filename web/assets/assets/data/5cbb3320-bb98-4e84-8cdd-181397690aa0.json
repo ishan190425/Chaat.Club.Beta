@@ -1,0 +1,54 @@
+{
+    "name": "vegan red fire opal",
+    "Food_Item_UUID": "5cbb3320-bb98-4e84-8cdd-181397690aa0",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "yuzu flavored hot and sour soup tofu sauteed bamboo shoot simmered shiitake mushroom cilantro chili thread chili oil and lime. served with thick noodles.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Earthy"
+        ],
+        "Texture": [
+            "Creamy",
+            "#N/A (not applicable for non-edible food item)"
+        ],
+        "Visual_Color": [
+            "Fire Opal/Coral Color"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Protein (if tofu is included)"
+        ],
+        "Country_Origin": [
+            "Not Applicable"
+        ],
+        "Occasions": [
+            "Any Time of the Day or Night"
+        ],
+        "Cooking_Method": [
+            "Sauteed, Boiled, Simmered, etc."
+        ],
+        "Course": [
+            "Appetizer, Main Course, or Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

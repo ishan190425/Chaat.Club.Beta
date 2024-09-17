@@ -1,0 +1,57 @@
+{
+    "name": "add pico de gallo",
+    "Food_Item_UUID": "2ed31f7c-35fc-4d51-a490-941f1446e1e1",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Fresh"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium to High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Non",
+            "Dairy",
+            "Gluten",
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Cooked"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

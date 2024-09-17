@@ -1,0 +1,56 @@
+{
+    "name": "house salad",
+    "Food_Item_UUID": "3e9df17b-c75f-4e10-95be-dff9053a9a84",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "baby arugula kale and baby mix green with japanese dressing. vegetarian.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fresh"
+        ],
+        "Texture": [
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#8BC34A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Calorie",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Mixed",
+            "No-Cooking"
+        ],
+        "Course": [
+            "Side Dish",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

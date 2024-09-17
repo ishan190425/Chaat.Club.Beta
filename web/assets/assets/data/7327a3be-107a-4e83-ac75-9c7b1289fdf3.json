@@ -1,0 +1,57 @@
+{
+    "name": "ginger love fish ",
+    "Food_Item_UUID": "7327a3be-107a-4e83-ac75-9c7b1289fdf3",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "flounder ginger pepper peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Citrus"
+        ],
+        "Aroma": [
+            "Zesty",
+            "Herby"
+        ],
+        "Texture": [
+            "Firm",
+            "Delicate"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

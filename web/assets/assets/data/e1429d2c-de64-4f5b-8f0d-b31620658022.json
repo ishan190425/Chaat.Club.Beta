@@ -1,0 +1,54 @@
+{
+    "name": "z moo ping ",
+    "Food_Item_UUID": "e1429d2c-de64-4f5b-8f0d-b31620658022",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "grilled marinated pork on skewer served with jaew sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

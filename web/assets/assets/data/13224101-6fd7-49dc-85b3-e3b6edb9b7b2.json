@@ -1,0 +1,57 @@
+{
+    "name": "smoked prosciutto frittatine",
+    "Food_Item_UUID": "13224101-6fd7-49dc-85b3-e3b6edb9b7b2",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "bucatini speck mozzarella provolone english pea spicy vodka sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Cheesy",
+            "Spicy",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Medium-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Mixed (Fried/Baked)"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

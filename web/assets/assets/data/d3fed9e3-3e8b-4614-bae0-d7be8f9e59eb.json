@@ -1,0 +1,56 @@
+{
+    "name": "spice hot beef rice noodle ",
+    "Food_Item_UUID": "d3fed9e3-3e8b-4614-bae0-d7be8f9e59eb",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef parsley rice noodle .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Parsley-Like"
+        ],
+        "Texture": [
+            "Tender",
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC107"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten",
+            "Noodle-Based",
+            "Milk in Recipes"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Lunch'], ",
+            "Cooking_Method",
+            "."
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

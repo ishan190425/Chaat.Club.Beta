@@ -1,0 +1,45 @@
+{
+    "name": "jarritos",
+    "Food_Item_UUID": "8ae48a65-8204-44c4-8ada-7658e9c1d379",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "natural pineapple flavored soda with real sugar.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Pineapple"
+        ],
+        "Texture": [],
+        "Visual_Color": [
+            "Yellow",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

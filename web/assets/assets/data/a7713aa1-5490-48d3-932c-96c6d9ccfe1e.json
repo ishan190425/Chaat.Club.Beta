@@ -1,0 +1,55 @@
+{
+    "name": "hot sour pork silk ",
+    "Food_Item_UUID": "a7713aa1-5490-48d3-932c-96c6d9ccfe1e",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork ginger pepper peppercorn pickled string bean .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Ginger",
+            "Peppery"
+        ],
+        "Texture": [
+            "Savory",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#000000"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

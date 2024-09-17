@@ -1,0 +1,57 @@
+{
+    "name": "naples white",
+    "Food_Item_UUID": "c41449af-13db-4a02-9604-3cff868dae8f",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "house ricotta pecorino romano wild oregano evoo red onion",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Herby"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "White",
+            "#FFFFF0"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Low-Fat",
+            "Rich-in-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side dish"
+        ],
+        "Cooking_Method": [
+            "Mashed"
+        ],
+        "Course": [
+            "Cheese Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

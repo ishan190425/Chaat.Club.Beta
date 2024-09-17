@@ -1,0 +1,51 @@
+{
+    "name": "pepper vs potatoes ",
+    "Food_Item_UUID": "a4405fed-23fb-403f-8b04-3b54680ba4d3",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "bell pepper potato silk.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Smokey"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

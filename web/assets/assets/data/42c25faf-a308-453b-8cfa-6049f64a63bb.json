@@ -1,0 +1,57 @@
+{
+    "name": "add creamy cilantro",
+    "Food_Item_UUID": "42c25faf-a308-453b-8cfa-6049f64a63bb",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": " oz",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Herby"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Cilantro-flavored",
+            "Spicy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Thick",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#F7E9B8",
+            "#44A6E4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Anytime",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Blended"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

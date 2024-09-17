@@ -1,0 +1,55 @@
+{
+    "name": "hot sour beef ",
+    "Food_Item_UUID": "6bb5b8ce-c450-4c43-82dc-edc4737f6c70",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef ginger pepper pickled string bean .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Beefy"
+        ],
+        "Aroma": [
+            "Gingery",
+            "Peppery"
+        ],
+        "Texture": [
+            "Tough",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFAAAA",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

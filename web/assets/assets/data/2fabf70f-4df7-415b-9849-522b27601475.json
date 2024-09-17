@@ -1,0 +1,55 @@
+{
+    "name": "flautas de pollo",
+    "Food_Item_UUID": "2fabf70f-4df7-415b-9849-522b27601475",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "three shredded cheese sour cream guacamole",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Creamy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC394",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Lactose_intolerant"
+        ],
+        "Nutrition": [
+            "Medium-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Party",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep-fried"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

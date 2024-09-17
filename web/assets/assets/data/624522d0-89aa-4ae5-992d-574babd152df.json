@@ -1,0 +1,54 @@
+{
+    "name": " walnut shrimp",
+    "Food_Item_UUID": "624522d0-89aa-4ae5-992d-574babd152df",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "shrimp walnut",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Nutty"
+        ],
+        "Aroma": [
+            "Seafoody",
+            "Nutty"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Tree_nut"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep_frying"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

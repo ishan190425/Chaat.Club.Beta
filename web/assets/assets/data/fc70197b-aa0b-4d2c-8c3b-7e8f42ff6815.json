@@ -1,0 +1,54 @@
+{
+    "name": "spinach",
+    "Food_Item_UUID": "fc70197b-aa0b-4d2c-8c3b-7e8f42ff6815",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#008000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Calorie",
+            "High-Nutrient Density"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Anytime"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Steamed",
+            "Heated"
+        ],
+        "Course": [
+            "Side Dish",
+            "Salad"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

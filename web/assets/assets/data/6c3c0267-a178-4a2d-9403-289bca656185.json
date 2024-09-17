@@ -1,0 +1,54 @@
+{
+    "name": "spicy uramaki",
+    "Food_Item_UUID": "6c3c0267-a178-4a2d-9403-289bca656185",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "raw. mixed with our special spicy sauce and scallions. pick between spicy tuna spicy salmon or spicy yellowtail.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Silky"
+        ],
+        "Visual_Color": [
+            "Red",
+            ""
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japanese"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sashimi",
+            "Raw"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

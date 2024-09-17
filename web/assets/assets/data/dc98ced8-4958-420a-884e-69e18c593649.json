@@ -1,0 +1,54 @@
+{
+    "name": "extra chips and salsa ziplock ",
+    "Food_Item_UUID": "dc98ced8-4958-420a-884e-69e18c593649",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Crunchy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crisp",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#808080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack Time",
+            "Movie Night"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "name": "dracula",
+    "Food_Item_UUID": "bb3cd594-49ee-49ec-a6fe-0a66f78e2775",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "raw. spicy tuna avocado and cucumber rolled and topped with fresh salmon.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "FRESH"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#8BC34A",
+            "#FFFFFF",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Medium",
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten_free"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "JAPAN",
+            "KOREA"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Lunch",
+            "Dinner",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Rolled",
+            "Topped"
+        ],
+        "Course": [
+            "APPETIZER",
+            "SNACK",
+            "STREET FOOD"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

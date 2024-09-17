@@ -1,0 +1,59 @@
+{
+    "name": "brussels sprouts tempura",
+    "Food_Item_UUID": "8929bd58-5d7a-4dd6-a0ea-423f51fcea48",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "crispy tempura brussels sprouts with white truffle oil. vegetarian.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Buttery",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#454545",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Seafood-free"
+        ],
+        "Nutrition": [
+            "Low-Fat",
+            "High-in-Vitamins"
+        ],
+        "Country_Origin": [
+            "Global",
+            "Contemporary"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

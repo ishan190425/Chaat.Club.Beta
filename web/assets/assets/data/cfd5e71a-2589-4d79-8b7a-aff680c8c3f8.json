@@ -1,0 +1,61 @@
+{
+    "name": "butter dosa",
+    "Food_Item_UUID": "cfd5e71a-2589-4d79-8b7a-aff680c8c3f8",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin long rice and lenti crepe sprinkled with butter",
+    "Flavor_Profile": {
+        "Taste": [
+            "Buttery"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Savory"
+        ],
+        "Texture": [
+            "Creasy"
+        ],
+        "Visual_Color": [
+            "Gold"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose-intolerant-friendly",
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-carb",
+            "Low-protein",
+            "Rich-in-fats"
+        ],
+        "Country_Origin": [
+            "India",
+            "South Asia"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Pan-seared"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

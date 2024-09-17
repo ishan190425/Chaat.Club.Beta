@@ -1,0 +1,60 @@
+{
+    "name": "paneer manchurian",
+    "Food_Item_UUID": "eea8b90c-cdd9-4f8c-95c9-8517e8631d12",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Eggy",
+            "Savory"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India",
+            "Chinese-Style"
+        ],
+        "Occasions": [
+            "Party Food",
+            "Dinner Party"
+        ],
+        "Cooking_Method": [
+            "Stir-fried",
+            "Deep-fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

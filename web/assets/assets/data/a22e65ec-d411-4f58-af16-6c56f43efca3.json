@@ -1,0 +1,60 @@
+{
+    "name": "chicken wonton pcs ",
+    "Food_Item_UUID": "a22e65ec-d411-4f58-af16-6c56f43efca3",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Fatty",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry",
+            "Gluten-Free",
+            "Seafood-Free"
+        ],
+        "Nutrition": [
+            "Low-Price"
+        ],
+        "Country_Origin": [
+            "China",
+            "United States"
+        ],
+        "Occasions": [
+            "Snack",
+            "Meal"
+        ],
+        "Cooking_Method": [
+            "Deep-Frying",
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

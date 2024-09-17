@@ -1,0 +1,57 @@
+{
+    "name": "alambres",
+    "Food_Item_UUID": "194999e6-6bdd-43c1-ae0c-af0892f37c21",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "three skewers shrimp beef and chicken basted with a chimichurri sauce and char broiled",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Herby",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Argentina",
+            "Global"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

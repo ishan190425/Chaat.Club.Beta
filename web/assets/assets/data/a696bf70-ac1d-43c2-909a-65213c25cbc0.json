@@ -1,0 +1,59 @@
+{
+    "name": " . combo gyro",
+    "Food_Item_UUID": "a696bf70-ac1d-43c2-909a-65213c25cbc0",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#F5DEB3",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Wrapped"
+        ],
+        "Course": [
+            "Snack",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

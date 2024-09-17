@@ -1,0 +1,50 @@
+{
+    "name": "kikurage",
+    "Food_Item_UUID": "4a819ea9-a44c-45ff-a298-6bc2deced7c5",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Mild"
+        ],
+        "Aroma": [
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Clear",
+            "#0000FF"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

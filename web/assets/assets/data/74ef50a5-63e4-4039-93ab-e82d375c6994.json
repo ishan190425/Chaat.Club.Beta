@@ -1,0 +1,55 @@
+{
+    "name": "norteno",
+    "Food_Item_UUID": "74ef50a5-63e4-4039-93ab-e82d375c6994",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "beef enchilada beef taco al carbon queso blanco puff guacamole",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Rich",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Soft",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFFF99"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Northen Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Seared"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

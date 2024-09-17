@@ -1,0 +1,64 @@
+{
+    "name": "escalante especial",
+    "Food_Item_UUID": "702884ce-657a-4dcf-bfeb-7cc23bedd789",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "beef empanada cheese enchilada three camarones rellenos guacamole",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Dairy",
+            "Gluten",
+            "Seafood"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico",
+            "Latin America"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep-fried"
+        ],
+        "Course": [
+            "Snack",
+            "Starter"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "spicy chicken ramen",
+    "Food_Item_UUID": "6e017f41-aaa4-462f-b1bd-947a96102372",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "chicken broth chicken chashu spinach spicy bean sprouts green onion served with thin noodles choose your spice level mild spicy or hot.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Brothy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Slurpy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Korea"
+        ],
+        "Occasions": [
+            "All Day",
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

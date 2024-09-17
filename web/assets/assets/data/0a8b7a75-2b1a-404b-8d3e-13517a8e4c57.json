@@ -1,0 +1,56 @@
+{
+    "name": "crab puffs",
+    "Food_Item_UUID": "0a8b7a75-2b1a-404b-8d3e-13517a8e4c57",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "experience the creamy indulgence of our fried cheesy puffs filled with a delectable crab mixture. each bite unveils a harmonious blend of flavors leaving you craving for more. served with sweet and sour sauce.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Cheesy"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Creamy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish ",
+            "Gluten (assuming no gluten in the puffs)"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan/USA (assuming crab from Japan, fried and served from USA)"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer/Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "tuscan half chicken",
+    "Food_Item_UUID": "429aa1a5-56f1-48de-8721-b1ecce36ab2f",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "sweet corn broccolini piquillo pepper roasted cipollini white polenta roasted chicken jus",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Roasted",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#C6E2B5",
+            "#FFFFFF",
+            "#FF9900"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": null,
+        "Country_Origin": [
+            "Italy/Tuscany"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

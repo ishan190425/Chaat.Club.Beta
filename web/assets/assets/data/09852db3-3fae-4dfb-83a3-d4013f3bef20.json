@@ -1,0 +1,58 @@
+{
+    "name": "house special mixture fried rice ",
+    "Food_Item_UUID": "09852db3-3fae-4dfb-83a3-d4013f3bef20",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef chicken thigh pineapple rice shrimp.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Fishy"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Crispy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF",
+            "#F2E6DA"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein",
+            "Healthy-Oil"
+        ],
+        "Country_Origin": [
+            "Universal"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-fried"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

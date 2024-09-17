@@ -1,0 +1,59 @@
+{
+    "name": "milagaipodi masala dosa",
+    "Food_Item_UUID": "2c53e944-a72a-40fe-b9d7-108efc29e1a0",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin rice and lentil crepe filled with mixture of grounded dry spices containing dry chilies lentil and sesame seeds potatoes and onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Earthy"
+        ],
+        "Texture": [
+            "Thin",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FF9933",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Good-Source-of-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-frying"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "gold peak sweet tea",
+    "Food_Item_UUID": "c5fabbce-ec56-4ba9-bd33-f68bec903423",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "brewed tea sweetened with cane sugar.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Slightly Tannic"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Brewy"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten Free",
+            "Sugar Containing"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Brewed"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

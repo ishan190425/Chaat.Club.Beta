@@ -1,0 +1,48 @@
+{
+    "name": "steamed rice",
+    "Food_Item_UUID": "e156217f-8ed1-48eb-b25c-271b1ff07ac2",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "vegetarian and gluten free.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy"
+        ],
+        "Aroma": [
+            "Nutty"
+        ],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "White",
+            "#F2E7CE"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": null,
+        "Country_Origin": null,
+        "Occasions": [
+            "Side dish"
+        ],
+        "Cooking_Method": [
+            "Steaming"
+        ],
+        "Course": [
+            "Side Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

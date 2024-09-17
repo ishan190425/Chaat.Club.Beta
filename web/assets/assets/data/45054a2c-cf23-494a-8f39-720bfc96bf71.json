@@ -1,0 +1,53 @@
+{
+    "name": "french macarons",
+    "Food_Item_UUID": "45054a2c-cf23-494a-8f39-720bfc96bf71",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Buttery"
+        ],
+        "Texture": [
+            "Light",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "France"
+        ],
+        "Occasions": [
+            "Special Occasion",
+            "Celebration"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

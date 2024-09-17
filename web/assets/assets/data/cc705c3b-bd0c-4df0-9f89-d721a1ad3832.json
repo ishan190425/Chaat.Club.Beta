@@ -1,0 +1,55 @@
+{
+    "name": "whatachicken ",
+    "Food_Item_UUID": "cc705c3b-bd0c-4df0-9f89-d721a1ad3832",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "cagefree chicken pepper sesame .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Earthly"
+        ],
+        "Texture": [
+            "Juicy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "White"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Kosher-Certified"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunchbox",
+            "Picnicking"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Snack",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

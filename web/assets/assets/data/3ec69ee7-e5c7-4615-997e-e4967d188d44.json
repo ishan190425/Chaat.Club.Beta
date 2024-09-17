@@ -1,0 +1,54 @@
+{
+    "name": "add sour cream",
+    "Food_Item_UUID": "3ec69ee7-e5c7-4615-997e-e4967d188d44",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Sour"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "White"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose Intolerant Friendly",
+            "Gluten Free"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "USA/International"
+        ],
+        "Occasions": [
+            "Snack",
+            "Entertaining"
+        ],
+        "Cooking_Method": [
+            "Simple"
+        ],
+        "Course": [
+            "Dessert",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

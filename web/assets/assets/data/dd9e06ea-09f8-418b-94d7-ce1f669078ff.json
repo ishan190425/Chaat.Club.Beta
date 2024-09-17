@@ -1,0 +1,56 @@
+{
+    "name": "n pad kee mao",
+    "Food_Item_UUID": "dd9e06ea-09f8-418b-94d7-ce1f669078ff",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh rice noodle with bamboo onions bell pepper chili basil and touch of rice wine",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Herbal",
+            "Pungent"
+        ],
+        "Texture": [
+            "Slurry",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Casual",
+            "Lunch-Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-fry"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

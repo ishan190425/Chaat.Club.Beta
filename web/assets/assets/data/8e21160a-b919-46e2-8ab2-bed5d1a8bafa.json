@@ -1,0 +1,55 @@
+{
+    "name": "peas uthappam",
+    "Food_Item_UUID": "8e21160a-b919-46e2-8ab2-bed5d1a8bafa",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake with pease",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Nutty"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFC400"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Puffed"
+        ],
+        "Course": [
+            "Side dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

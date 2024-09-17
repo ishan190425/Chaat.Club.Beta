@@ -1,0 +1,57 @@
+{
+    "name": "fr original fried rice",
+    "Food_Item_UUID": "b7e2ed6f-efff-4a33-831d-6d3855a39275",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "egg onion tomato pea carrot scallop and chinese broccoli",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Eggy",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Fried"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Carbohydrate-rich"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Stir-fry"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

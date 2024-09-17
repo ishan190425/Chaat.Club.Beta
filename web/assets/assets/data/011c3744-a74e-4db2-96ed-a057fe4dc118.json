@@ -1,0 +1,56 @@
+{
+    "name": "mango lassi",
+    "Food_Item_UUID": "011c3744-a74e-4db2-96ed-a057fe4dc118",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Tart"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Mild"
+        ],
+        "Texture": [
+            "Smooth",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "After-Dinner-Drink",
+            "Pre-workout-snack"
+        ],
+        "Cooking_Method": [
+            "Blend"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

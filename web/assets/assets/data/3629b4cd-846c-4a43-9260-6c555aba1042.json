@@ -1,0 +1,42 @@
+{
+    "name": "sangria",
+    "Food_Item_UUID": "3629b4cd-846c-4a43-9260-6c555aba1042",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "serves . fz abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Texture": [
+            "Cold",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Pink",
+            "#FF69B4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

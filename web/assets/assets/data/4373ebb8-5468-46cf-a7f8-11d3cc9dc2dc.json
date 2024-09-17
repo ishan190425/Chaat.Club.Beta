@@ -1,0 +1,55 @@
+{
+    "name": "chicken soboro ground chicken ",
+    "Food_Item_UUID": "4373ebb8-5468-46cf-a7f8-11d3cc9dc2dc",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Meaty",
+            "Savory"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Savory"
+        ],
+        "Texture": [
+            "Coarse",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#FFD700",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grounded"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

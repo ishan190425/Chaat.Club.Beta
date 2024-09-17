@@ -1,0 +1,59 @@
+{
+    "name": "spicy umami miso ramen",
+    "Food_Item_UUID": "e7629767-04b6-4fa2-b5d8-c0f5a7790290",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "pork broth ground pork soboro bean sprouts green onion bok choy and chili oil served with thick noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Brothy",
+            "Savory",
+            "Umami"
+        ],
+        "Texture": [
+            "Creamy",
+            "Springy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#008000",
+            "#F2B30F"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

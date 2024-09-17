@@ -1,0 +1,42 @@
+{
+    "name": "seasoned egg ",
+    "Food_Item_UUID": "41dabbb4-fb0d-4669-9f32-7c66e4c5b050",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Egg-like",
+            "Savory"
+        ],
+        "Aroma": [
+            "Eggy",
+            "Savory"
+        ],
+        "Texture": [
+            "Crema",
+            "Firm"
+        ],
+        "Visual_Color": [
+            "#FFD700",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

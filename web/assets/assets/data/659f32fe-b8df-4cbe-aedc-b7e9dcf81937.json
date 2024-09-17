@@ -1,0 +1,57 @@
+{
+    "name": "orange chicken ",
+    "Food_Item_UUID": "659f32fe-b8df-4cbe-aedc-b7e9dcf81937",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dark meat chicken dried tangerine peel fresh orange.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Orangy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FF69B4",
+            "#FFFFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep Frying"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

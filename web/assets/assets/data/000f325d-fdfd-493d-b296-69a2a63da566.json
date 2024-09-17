@@ -1,0 +1,46 @@
+{
+    "name": "to go mexican soda",
+    "Food_Item_UUID": "000f325d-fdfd-493d-b296-69a2a63da566",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fizzy"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Carbonated"
+        ],
+        "Visual_Color": [
+            "Multi-Color"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Afternoon",
+            "Evening"
+        ],
+        "Cooking_Method": [
+            "Manufactured"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

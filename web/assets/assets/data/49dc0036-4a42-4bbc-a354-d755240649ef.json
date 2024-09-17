@@ -1,0 +1,56 @@
+{
+    "name": "crispy chicken strips",
+    "Food_Item_UUID": "49dc0036-4a42-4bbc-a354-d755240649ef",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "served with crispy fries",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Crunchy"
+        ],
+        "Aroma": [
+            "Fried"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

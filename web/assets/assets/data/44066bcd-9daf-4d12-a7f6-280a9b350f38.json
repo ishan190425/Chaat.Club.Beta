@@ -1,0 +1,51 @@
+{
+    "name": "coke",
+    "Food_Item_UUID": "44066bcd-9daf-4d12-a7f6-280a9b350f38",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Slightly Sweet"
+        ],
+        "Texture": [
+            "Smooth",
+            "Carbonated"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "United States"
+        ],
+        "Occasions": [
+            "Any"
+        ],
+        "Cooking_Method": [
+            "Bottled"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

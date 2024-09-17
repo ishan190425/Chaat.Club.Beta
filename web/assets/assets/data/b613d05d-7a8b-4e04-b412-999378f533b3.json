@@ -1,0 +1,46 @@
+{
+    "name": "sweet sour fish ",
+    "Food_Item_UUID": "b613d05d-7a8b-4e04-b412-999378f533b3",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "flounder bell pepper",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fruity"
+        ],
+        "Texture": [
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

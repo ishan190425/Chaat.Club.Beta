@@ -1,0 +1,55 @@
+{
+    "name": "carne asada escalante",
+    "Food_Item_UUID": "ed16d67d-be06-47cd-a021-106ec2874959",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "grilled to temp skirt steak tequila peppercorn sauce or chimichurri grilled cotija",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "GlutenFree"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

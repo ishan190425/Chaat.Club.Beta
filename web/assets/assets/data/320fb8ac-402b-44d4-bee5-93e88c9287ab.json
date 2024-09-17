@@ -1,0 +1,50 @@
+{
+    "name": "barone fini pinot grigio",
+    "Food_Item_UUID": "320fb8ac-402b-44d4-bee5-93e88c9287ab",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Dry"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Crunchy"
+        ],
+        "Texture": [
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "Pale Yellow/Golden #F2E4CC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wine Tasting",
+            "Ap\u00e9ritif"
+        ],
+        "Cooking_Method": [
+            "Not applicable"
+        ],
+        "Course": [
+            "None"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

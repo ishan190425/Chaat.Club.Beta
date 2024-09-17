@@ -1,0 +1,57 @@
+{
+    "name": "add chalupa",
+    "Food_Item_UUID": "b9437b23-e94a-473c-a103-15d1bbc9f027",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Savory",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Food-Allergy-Friendly",
+            "Gluten-Free",
+            "Vegan-Implications-No"
+        ],
+        "Nutrition": [
+            "High-Calorie",
+            "Moderate-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Boiled'], "
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

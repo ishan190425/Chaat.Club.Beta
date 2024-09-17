@@ -1,0 +1,57 @@
+{
+    "name": " layers of tofu",
+    "Food_Item_UUID": "608c4d54-26a3-47cf-b3b8-5887e08e4dec",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork dry red pepper garlic ginger green onion tofu ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Pungent"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Asian-Inspired"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Seared",
+            "Saut\u00e9ed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

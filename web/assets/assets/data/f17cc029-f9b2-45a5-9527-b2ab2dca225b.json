@@ -1,0 +1,28 @@
+{
+    "name": "c red curry",
+    "Food_Item_UUID": "f17cc029-f9b2-45a5-9527-b2ab2dca225b",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "the hottest with bamboo shoots and eggplant",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

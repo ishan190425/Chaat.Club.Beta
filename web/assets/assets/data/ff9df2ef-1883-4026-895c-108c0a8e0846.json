@@ -1,0 +1,57 @@
+{
+    "name": "nachos escalante",
+    "Food_Item_UUID": "ff9df2ef-1883-4026-895c-108c0a8e0846",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "beef or chicken fajita black beans chile con queso blanco guacamole sour cream jalape os",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fatty",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "White",
+            "Beige"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose intolerance"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Snack",
+            "Picnic"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

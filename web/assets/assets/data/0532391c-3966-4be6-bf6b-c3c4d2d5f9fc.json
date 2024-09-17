@@ -1,0 +1,55 @@
+{
+    "name": "n lo mein",
+    "Food_Item_UUID": "0532391c-3966-4be6-bf6b-c3c4d2d5f9fc",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "soft wheat noodle with cabbage onions mushrooms",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Delicate"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Mushroomy"
+        ],
+        "Texture": [
+            "Soft",
+            "Velvety"
+        ],
+        "Visual_Color": [
+            "#FFFF99",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

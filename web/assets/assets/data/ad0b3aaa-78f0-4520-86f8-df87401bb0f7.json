@@ -1,0 +1,53 @@
+{
+    "name": "whatafish ",
+    "Food_Item_UUID": "ad0b3aaa-78f0-4520-86f8-df87401bb0f7",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dry red pepper flounder peppercorn sichuan pickles .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Spicy"
+        ],
+        "Texture": [
+            "Delicate"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "China",
+            "Various"
+        ],
+        "Occasions": [
+            "Anytime"
+        ],
+        "Cooking_Method": [
+            "Pan-Seared",
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

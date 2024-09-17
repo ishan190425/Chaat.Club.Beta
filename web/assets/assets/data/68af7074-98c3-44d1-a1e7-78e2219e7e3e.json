@@ -1,0 +1,54 @@
+{
+    "name": " kung pao shrimp",
+    "Food_Item_UUID": "68af7074-98c3-44d1-a1e7-78e2219e7e3e",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dry red pepper garlic ginger green onion peanuts shrimp",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Savory",
+            "Peanutty"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FF69B4",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Stir-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

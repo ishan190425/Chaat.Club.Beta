@@ -1,0 +1,60 @@
+{
+    "name": "chile con queso blanco bowl",
+    "Food_Item_UUID": "58895b9c-7abb-432c-9a74-c6c68ccb3629",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "chile con queso escalante s style original recipe. add pico de gallo roasted poblano and taco meat",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Cheesy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Smooth",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFFF00",
+            "#FFC080",
+            "#FFFF99"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Mexico",
+            "USA"
+        ],
+        "Occasions": [
+            "Snack",
+            "Social Gathering"
+        ],
+        "Cooking_Method": [
+            "Mixed (heated and blended)"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

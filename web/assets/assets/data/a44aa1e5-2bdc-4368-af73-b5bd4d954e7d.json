@@ -1,0 +1,58 @@
+{
+    "name": "grilled branzino",
+    "Food_Item_UUID": "a44aa1e5-2bdc-4368-af73-b5bd4d954e7d",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "roasted fennel broccolini snap pea rainbow cauliflower fingerling potatoes cipollini lemon caper butter",
+    "Flavor_Profile": {
+        "Taste": [
+            "Buttery",
+            "Savory"
+        ],
+        "Aroma": [
+            "Herbaceous",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFFFFF",
+            "#8888FF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

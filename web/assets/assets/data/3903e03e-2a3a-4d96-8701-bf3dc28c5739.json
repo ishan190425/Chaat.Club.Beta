@@ -1,0 +1,59 @@
+{
+    "name": "jinya chicken ramen",
+    "Food_Item_UUID": "3903e03e-2a3a-4d96-8701-bf3dc28c5739",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "chicken broth chicken chashu spinach green onion and fried onion served with thin noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Savory"
+        ],
+        "Aroma": [
+            "Savory",
+            "Fruity"
+        ],
+        "Texture": [
+            "Slurpy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC494",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Broth",
+            "Noodle"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

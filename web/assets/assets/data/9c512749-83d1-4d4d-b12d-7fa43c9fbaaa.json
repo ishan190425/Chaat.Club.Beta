@@ -1,0 +1,57 @@
+{
+    "name": "y yum nuer",
+    "Food_Item_UUID": "9c512749-83d1-4d4d-b12d-7fa43c9fbaaa",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "grilled silced meat top sirloin steak mixed with tomato cucumber shallots cilantro lime chili and fish sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Grilled",
+            "Fruity",
+            "Herbal"
+        ],
+        "Texture": [
+            "Tender",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF",
+            "#008000"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thai"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

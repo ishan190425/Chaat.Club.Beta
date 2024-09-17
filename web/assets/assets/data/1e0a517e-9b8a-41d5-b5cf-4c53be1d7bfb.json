@@ -1,0 +1,62 @@
+{
+    "name": " . shrimp salad",
+    "Food_Item_UUID": "1e0a517e-9b8a-41d5-b5cf-4c53be1d7bfb",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Light"
+        ],
+        "Texture": [
+            "Chewy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFFFCC",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Seafood-Friendly"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "America",
+            "Other"
+        ],
+        "Occasions": [
+            "Brunch",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Boiled",
+            "Grilled"
+        ],
+        "Course": [
+            "Starters",
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

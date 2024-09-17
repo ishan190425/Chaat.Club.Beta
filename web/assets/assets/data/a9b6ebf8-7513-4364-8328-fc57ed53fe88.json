@@ -1,0 +1,58 @@
+{
+    "name": "paneer ",
+    "Food_Item_UUID": "a9b6ebf8-7513-4364-8328-fc57ed53fe88",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "paneer cubes marinated and deep fried and mixed with south indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fried",
+            "Indian-Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Golden_Yellow"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Non-veg for non-vegetarians"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat",
+            "Moderate-Carb"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Party",
+            "Appetizer/ Snack",
+            "Street Food"
+        ],
+        "Cooking_Method": [
+            "Frying"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

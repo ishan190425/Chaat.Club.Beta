@@ -1,0 +1,55 @@
+{
+    "name": "billionaire pork ",
+    "Food_Item_UUID": "149f5332-c229-4230-aa08-122084c02dda",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork dry red pepper ginger peppercorn tofu.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Gingerly"
+        ],
+        "Texture": [
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Brown"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Tofu"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

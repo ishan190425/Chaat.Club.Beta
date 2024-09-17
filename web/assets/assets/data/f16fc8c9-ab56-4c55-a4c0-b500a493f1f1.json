@@ -1,0 +1,61 @@
+{
+    "name": "hello kitty marshmallows",
+    "Food_Item_UUID": "f16fc8c9-ab56-4c55-a4c0-b500a493f1f1",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "enjoy the adorable and delicious hello kitty marshmallows this marshmallow has a jelly center.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Vanilla"
+        ],
+        "Texture": [
+            "Light and Fluffy",
+            "Jelly-like"
+        ],
+        "Visual_Color": [
+            "Pink",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free",
+            "Kosher",
+            "Halal"
+        ],
+        "Nutrition": [
+            "High-Carb",
+            "Low-Protein",
+            "Rich in Fiber"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Snack time",
+            "Party Favors",
+            "Gift"
+        ],
+        "Cooking_Method": [
+            "No cooking required"
+        ],
+        "Course": [
+            "Desert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

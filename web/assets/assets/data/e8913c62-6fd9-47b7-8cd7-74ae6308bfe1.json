@@ -1,0 +1,61 @@
+{
+    "name": "broccoli beef ",
+    "Food_Item_UUID": "e8913c62-6fd9-47b7-8cd7-74ae6308bfe1",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef broccoli.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Bitter"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Friendly"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA",
+            "Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Braised"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

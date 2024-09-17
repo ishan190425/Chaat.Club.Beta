@@ -1,0 +1,58 @@
+{
+    "name": "mysore dosa",
+    "Food_Item_UUID": "8ad65103-c629-4a14-8f28-ddb0b6f2d464",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "red chili chutney spread on thin rice and lentil crepe",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Chili-like"
+        ],
+        "Texture": [
+            "Thin",
+            "Crepe-like"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium to Spicy"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Protein-rich"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fermented rice and lentil dough rolled in thin sheets"
+        ],
+        "Course": [
+            "Appetizer",
+            "Sides"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

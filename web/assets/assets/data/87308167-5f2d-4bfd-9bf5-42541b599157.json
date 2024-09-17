@@ -1,0 +1,58 @@
+{
+    "name": "fr crab fried rice",
+    "Food_Item_UUID": "87308167-5f2d-4bfd-9bf5-42541b599157",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": " oz. of dungeness crab meat with egg batter onion and scallions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Delicious"
+        ],
+        "Aroma": [
+            "Oceanic",
+            "Rich"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#F7D2C4",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

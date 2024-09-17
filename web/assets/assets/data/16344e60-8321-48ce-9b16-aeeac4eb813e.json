@@ -1,0 +1,54 @@
+{
+    "name": "palak mutter",
+    "Food_Item_UUID": "16344e60-8321-48ce-9b16-aeeac4eb813e",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "paste of spinach and peas cooked with yellow gravy",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthly"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Green"
+        ],
+        "Texture": [
+            "Smooth",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#32CD32",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stewed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

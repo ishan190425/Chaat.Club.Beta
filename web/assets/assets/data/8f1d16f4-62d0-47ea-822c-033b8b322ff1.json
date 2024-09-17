@@ -1,0 +1,58 @@
+{
+    "name": "y nam sod",
+    "Food_Item_UUID": "8f1d16f4-62d0-47ea-822c-033b8b322ff1",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "ground pork or chicken with peanut ginger red onions cilantro lime and chillies.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peanuty",
+            "Ginger",
+            "Oniony",
+            "Chilli"
+        ],
+        "Texture": [
+            "Grounded"
+        ],
+        "Visual_Color": [
+            "Red",
+            "White",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "SoutheastAsia",
+            "Thai"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fry"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

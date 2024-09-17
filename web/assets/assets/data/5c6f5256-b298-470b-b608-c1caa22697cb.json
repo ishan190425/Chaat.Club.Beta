@@ -1,0 +1,51 @@
+{
+    "name": "iced green tea",
+    "Food_Item_UUID": "5c6f5256-b298-470b-b608-c1caa22697cb",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter"
+        ],
+        "Aroma": [
+            "Grassy",
+            ""
+        ],
+        "Texture": [
+            "Cool"
+        ],
+        "Visual_Color": [
+            "#8BC34A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Any Time",
+            "Everywhere"
+        ],
+        "Cooking_Method": [
+            "Steeped",
+            "Boiled"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

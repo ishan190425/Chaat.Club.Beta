@@ -1,0 +1,58 @@
+{
+    "name": "chili cheese uthappam",
+    "Food_Item_UUID": "f98f9c24-314a-43fd-afcc-a5fa4cd93b0c",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake sprinkled with cheese and filled with potatoes",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Earthy"
+        ],
+        "Texture": [
+            "Soft",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#F7D2C4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Brunch",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": " color nigiri",
+    "Food_Item_UUID": "851c2784-bcfb-4c88-a56a-24b2dc9ac0a2",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "raw. thinly sliced raw fish laid over a cluster of sweet and salty vinegared rice tuna salmon yellowtails.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Fishy"
+        ],
+        "Texture": [
+            "Raw",
+            "Fishy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#000000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Naturally-Derived-Only"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Raw"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "feta cheese",
+    "Food_Item_UUID": "3b82f80f-4382-4405-a347-138bf5d5b94a",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salty"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crumbly"
+        ],
+        "Visual_Color": [
+            "White"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

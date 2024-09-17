@@ -1,0 +1,48 @@
+{
+    "name": "a a veggie curry puff each ",
+    "Food_Item_UUID": "a4c9b652-14a9-4080-b527-1044f605a6c8",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "puff pastry folded with potato onion carrot and curry powder",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Earthly"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crunchy",
+            "Flaky"
+        ],
+        "Visual_Color": [],
+        "Spice_level": [
+            "Spicy"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "crispy eggplant parmesan",
+    "Food_Item_UUID": "e3372ad6-3ee0-4899-b01e-c15b93da7f47",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "fresh mozzarella calabrian tomato sauce torn basil",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Bitter",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Tomatoey",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F2C6CE",
+            "#FFFFFF",
+            "#8E0F5D"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Vegetarian",
+            "Vegan (eggplant)"
+        ],
+        "Nutrition": [
+            "Low-Protein"
+        ],
+        "Country_Origin": [
+            "Italy (Italian-Italian cuisine)",
+            "Sicily (eggplant parmigiana)"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer/Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

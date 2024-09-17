@@ -1,0 +1,60 @@
+{
+    "name": "rack of tacos",
+    "Food_Item_UUID": "84dec917-92e1-414f-a8c0-9967a1cefa19",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "three chicken or ground beef crispy of soft",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Herby",
+            "Spicy",
+            "Smoky"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free-",
+            "Meat-Based",
+            "Beef- or Chicken-Optionable",
+            "Shellfish-free"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexican"
+        ],
+        "Occasions": [
+            "Snack-Time",
+            "Main-Course"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Tossed"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

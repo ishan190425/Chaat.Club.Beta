@@ -1,0 +1,63 @@
+{
+    "name": "fresh garlic",
+    "Food_Item_UUID": "40c6eb39-3c97-47e8-af23-42bd55dca0ea",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Pungent"
+        ],
+        "Aroma": [
+            "Strong",
+            "Pungent"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Sharp"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#888800"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Rich-in-Vitamins",
+            "High-in-Antioxidants",
+            "Low-in-Ca"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Everyday",
+            "Holidays",
+            "Any-time-of-day"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Roasted",
+            "Sauteed"
+        ],
+        "Course": [
+            "Condiment",
+            "Sauce",
+            "Ingestible"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

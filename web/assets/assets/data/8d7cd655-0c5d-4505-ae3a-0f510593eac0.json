@@ -1,0 +1,57 @@
+{
+    "name": "y yum woonsen",
+    "Food_Item_UUID": "8d7cd655-0c5d-4505-ae3a-0f510593eac0",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crystal noodle with shrimp ground pork tomato shallots cilantro chili and yum sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Umami",
+            "Fruity"
+        ],
+        "Texture": [
+            "Springy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#F2DEE8"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Shrimp"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Asia",
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

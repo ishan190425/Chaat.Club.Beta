@@ -1,0 +1,55 @@
+{
+    "name": "jinya tonkotsu black ",
+    "Food_Item_UUID": "0d33ba32-9433-4019-8ad1-e679f0008373",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "pork broth pork chashu kikurage may be substituted with spinach based on availability. green onion nori dried seaweed seasoned egg garlic chips garlic oil fried onion and spicy sauce served with thin noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Umami",
+            "Savory"
+        ],
+        "Aroma": [
+            "Rich",
+            "Brothy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Sourish"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFC300"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Anytime"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

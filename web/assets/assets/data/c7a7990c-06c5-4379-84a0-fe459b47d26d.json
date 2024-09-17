@@ -1,0 +1,54 @@
+{
+    "name": "mushroom",
+    "Food_Item_UUID": "c7a7990c-06c5-4379-84a0-fe459b47d26d",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy"
+        ],
+        "Aroma": [
+            "Fungal",
+            "Earthly"
+        ],
+        "Texture": [
+            "Meaty"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Rich in Fiber"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Anytime Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Sauteed"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "spicy fried cabbage ",
+    "Food_Item_UUID": "3fd70c00-98a5-4537-bd58-bf7857d5511c",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "chinese cabbage pepper peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Savory"
+        ],
+        "Texture": [
+            "Crispy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Greenish-White",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-frying"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

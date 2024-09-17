@@ -1,0 +1,62 @@
+{
+    "name": "z fried pork spare ribs ",
+    "Food_Item_UUID": "3cbc0233-26b7-4f06-bd35-cdf4e3d3d75b",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Smoky",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Gluten",
+            "Nuts"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Birthday Parties",
+            "Game Day",
+            "Festive gatherings"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "spicy creamy shrimp tempura",
+    "Food_Item_UUID": "5c00399e-5ef8-4cc7-8fd0-2cf834f63eb3",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "crispy shrimp tempura tossed in jinya s original spicy mayonnaise done in the classic ebi mayo style",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Creamy",
+            "Mayonnaise"
+        ],
+        "Texture": [
+            "Crispy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FF69B4"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None"
+        ],
+        "Nutrition": [
+            "Low in Calories"
+        ],
+        "Country_Origin": [
+            "Japanese-inspired"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep Frying"
+        ],
+        "Course": [
+            "Appetizer/Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

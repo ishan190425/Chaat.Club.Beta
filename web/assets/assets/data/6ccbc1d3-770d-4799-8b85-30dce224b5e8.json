@@ -1,0 +1,55 @@
+{
+    "name": "grilled chicken",
+    "Food_Item_UUID": "6ccbc1d3-770d-4799-8b85-30dce224b5e8",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "with alfredo noodles or sauteed vegetables",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Chicken-like",
+            "Buttery"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#F5F6FA",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global (inspired by various international cuisines)"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-seared"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

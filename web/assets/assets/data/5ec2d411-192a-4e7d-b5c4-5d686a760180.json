@@ -1,0 +1,58 @@
+{
+    "name": "colorful beef ",
+    "Food_Item_UUID": "5ec2d411-192a-4e7d-b5c4-5d686a760180",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef bell pepper mushroom pepper peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Earthy"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#8B4513",
+            "#F5F5DC"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Stir-fried"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

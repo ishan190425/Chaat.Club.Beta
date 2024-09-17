@@ -1,0 +1,55 @@
+{
+    "name": "roasted seasonal vegetables",
+    "Food_Item_UUID": "61665404-2377-41e6-b7eb-0c0c8d4c26a0",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Earthly"
+        ],
+        "Aroma": [
+            "Vegetal",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Multi-Cultural"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

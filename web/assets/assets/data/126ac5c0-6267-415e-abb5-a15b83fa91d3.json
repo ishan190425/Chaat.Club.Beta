@@ -1,0 +1,57 @@
+{
+    "name": "vavasour sauvignon blanc",
+    "Food_Item_UUID": "126ac5c0-6267-415e-abb5-a15b83fa91d3",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Crunchy",
+            "Fresh"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Crisp",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#D7E5B1",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Non-vegetarian",
+            "Wine"
+        ],
+        "Nutrition": [
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "France",
+            "New Zealand"
+        ],
+        "Occasions": [
+            "Social Event",
+            "Cocktail Party"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Aperitif"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

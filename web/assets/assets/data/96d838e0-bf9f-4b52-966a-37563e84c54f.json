@@ -1,0 +1,57 @@
+{
+    "name": "e pad garlic eggplant",
+    "Food_Item_UUID": "96d838e0-bf9f-4b52-966a-37563e84c54f",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with japanese eggplant saut ed with garlic and black bean sauce ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#333300"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Fat",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "sweet and sour ribs ",
+    "Food_Item_UUID": "94587b6f-007e-41a3-9e1b-e5bba89a03d6",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "bell pepper onion ribs.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Savory"
+        ],
+        "Texture": [
+            "Tender",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FF6347",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Sodium"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Party",
+            "Barbecue"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "n khao soi",
+    "Food_Item_UUID": "3c07d69d-fd9f-488b-87e5-7c1b7a2bb4a1",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "famous chicken curry soup with egg noodle from norther region",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Curry-like",
+            "Eggy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Thick"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Pork-free"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Slow-Cooked"
+        ],
+        "Course": [
+            "Main Course or Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

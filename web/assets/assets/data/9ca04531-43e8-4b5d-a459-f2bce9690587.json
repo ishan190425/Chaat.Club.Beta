@@ -1,0 +1,28 @@
+{
+    "name": "skinny enchiladas",
+    "Food_Item_UUID": "9ca04531-43e8-4b5d-a459-f2bce9690587",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "two fresh leaf spinach with mushrooms rolled in handmade corn tortillas espa ola sauce muenster cheese sliced avocado black beans grilled vegetables",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

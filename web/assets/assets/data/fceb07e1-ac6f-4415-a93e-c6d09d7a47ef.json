@@ -1,0 +1,57 @@
+{
+    "name": "salmon don",
+    "Food_Item_UUID": "fceb07e1-ac6f-4415-a93e-c6d09d7a47ef",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "poke marinated salmon and onion served over steamed rice and garnished with green onion and sesame seed.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Umami"
+        ],
+        "Texture": [
+            "Soft",
+            "Melt-in-mouth"
+        ],
+        "Visual_Color": [
+            "Pinkish-Red",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Hawaiian-Style"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw (Poke)",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "mushroom biryani",
+    "Food_Item_UUID": "350e9b26-8ffe-4819-867c-e9698cd9a87b",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "basmati rice cooked with garden fresh mushroom and indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Spicy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#964B00",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

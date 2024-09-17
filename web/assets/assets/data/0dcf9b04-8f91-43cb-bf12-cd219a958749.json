@@ -1,0 +1,57 @@
+{
+    "name": "masala dosa",
+    "Food_Item_UUID": "0dcf9b04-8f91-43cb-bf12-cd219a958749",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin rice and lentil crepe filled with mildly spiced mashed potatoes and onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Mild"
+        ],
+        "Aroma": [
+            "Indian-inspired",
+            "Potatoey"
+        ],
+        "Texture": [
+            "Thin Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

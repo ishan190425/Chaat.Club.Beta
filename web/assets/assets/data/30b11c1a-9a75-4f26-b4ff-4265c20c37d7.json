@@ -1,0 +1,55 @@
+{
+    "name": "bolognese",
+    "Food_Item_UUID": "30b11c1a-9a75-4f26-b4ff-4265c20c37d7",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "house specialty. traditional meat sauce pappardelle grana padano wild oregano evoo",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Savory",
+            "Herbal"
+        ],
+        "Texture": [
+            "Thick",
+            "Hearty"
+        ],
+        "Visual_Color": [
+            "#F2F2F2",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

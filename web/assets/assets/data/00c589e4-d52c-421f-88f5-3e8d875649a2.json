@@ -1,0 +1,52 @@
+{
+    "name": "sweet sour sauce oz",
+    "Food_Item_UUID": "00c589e4-d52c-421f-88f5-3e8d875649a2",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Vinegary"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FF69B4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Any Time"
+        ],
+        "Cooking_Method": [
+            "Thickened With Starch"
+        ],
+        "Course": [
+            "Condiment",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

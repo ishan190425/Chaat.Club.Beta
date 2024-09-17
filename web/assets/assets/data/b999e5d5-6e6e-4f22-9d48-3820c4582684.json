@@ -1,0 +1,55 @@
+{
+    "name": "hot honey smoked prosciutto",
+    "Food_Item_UUID": "b999e5d5-6e6e-4f22-9d48-3820c4582684",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "scamorza speck calabrian honey arugula pecorino toscano",
+    "Flavor_Profile": {
+        "Taste": [
+            "sweet",
+            "savory"
+        ],
+        "Aroma": [
+            "peppery",
+            "honeyed"
+        ],
+        "Texture": [
+            "tender",
+            "crispy"
+        ],
+        "Visual_Color": [
+            "yellow",
+            "brown"
+        ],
+        "Spice_level": [
+            "medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Smoked"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

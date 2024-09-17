@@ -1,0 +1,51 @@
+{
+    "name": "bottega pinot noir",
+    "Food_Item_UUID": "36c88c00-660e-4720-ae7c-9442992922f0",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthy"
+        ],
+        "Texture": [],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Sulfites"
+        ],
+        "Nutrition": [
+            "Low-Calorie",
+            "High-Resveratrol"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Romantic Dinner"
+        ],
+        "Cooking_Method": [
+            "Red Wine Vinegar"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

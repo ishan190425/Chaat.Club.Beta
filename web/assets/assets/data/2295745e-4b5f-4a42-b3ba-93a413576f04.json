@@ -1,0 +1,52 @@
+{
+    "name": "baklava",
+    "Food_Item_UUID": "2295745e-4b5f-4a42-b3ba-93a413576f04",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Cinnamon",
+            "Nutmeg"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFD700"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Middle East/Asia"
+        ],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Layered-Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

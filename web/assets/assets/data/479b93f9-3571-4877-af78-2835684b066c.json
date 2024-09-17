@@ -1,0 +1,53 @@
+{
+    "name": "combo ",
+    "Food_Item_UUID": "479b93f9-3571-4877-af78-2835684b066c",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "sweet idly medhu vada ghee pongal",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fragrant",
+            "Sweet"
+        ],
+        "Texture": [
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Golden"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Veg"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetize"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

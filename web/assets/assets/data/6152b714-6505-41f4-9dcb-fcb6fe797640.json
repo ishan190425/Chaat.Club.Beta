@@ -1,0 +1,56 @@
+{
+    "name": "paneer butter masala",
+    "Food_Item_UUID": "6152b714-6505-41f4-9dcb-fcb6fe797640",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "cottage cheese cooked with rich butter gravy",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Creamy"
+        ],
+        "Aroma": [
+            "Richly Flavored",
+            "Buttery"
+        ],
+        "Texture": [
+            "Creamy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#CCFFBC",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose Intolerant"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

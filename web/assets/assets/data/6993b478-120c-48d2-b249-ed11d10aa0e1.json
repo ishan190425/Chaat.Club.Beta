@@ -1,0 +1,51 @@
+{
+    "name": "apple carrot orange",
+    "Food_Item_UUID": "6993b478-120c-48d2-b249-ed11d10aa0e1",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [],
+        "Aroma": [
+            "Fresh"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#008000",
+            "#FFA07A"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "USA",
+            "Multiple"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Steamed"
+        ],
+        "Course": [
+            "Fruit Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

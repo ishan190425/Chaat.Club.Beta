@@ -1,0 +1,53 @@
+{
+    "name": "extra shrimps",
+    "Food_Item_UUID": "99e29a60-6ec5-4d7d-a341-d490ea384525",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Succulent"
+        ],
+        "Aroma": [
+            ""
+        ],
+        "Texture": [
+            "Soft",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "White",
+            "#F7D2C4"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "unknown"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

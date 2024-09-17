@@ -1,0 +1,52 @@
+{
+    "name": "tmd shrimp ",
+    "Food_Item_UUID": "3fd555bb-5cef-4be8-98aa-c40104cdab71",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "ginger pepper peppercorn shrimp .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Ginger"
+        ],
+        "Texture": [
+            "Crispy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "White",
+            "#FF99CC"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Crustacean"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Various (Global Seafood)"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course'], 'Course': ["
+        ],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

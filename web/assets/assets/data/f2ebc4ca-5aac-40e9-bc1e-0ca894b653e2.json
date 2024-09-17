@@ -1,0 +1,58 @@
+{
+    "name": " . chicken gyro",
+    "Food_Item_UUID": "f2ebc4ca-5aac-40e9-bc1e-0ca894b653e2",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Fruity"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            ""
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten",
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Rotisserie"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

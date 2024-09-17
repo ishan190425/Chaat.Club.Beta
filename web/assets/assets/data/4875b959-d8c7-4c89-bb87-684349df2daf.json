@@ -1,0 +1,55 @@
+{
+    "name": " . combo salad",
+    "Food_Item_UUID": "4875b959-d8c7-4c89-bb87-684349df2daf",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fresh",
+            "Tangy"
+        ],
+        "Aroma": [
+            "Herby",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Multi-Regional"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Assembly"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

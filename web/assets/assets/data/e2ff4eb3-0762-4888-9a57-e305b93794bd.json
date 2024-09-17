@@ -1,0 +1,50 @@
+{
+    "name": "hot green tea",
+    "Food_Item_UUID": "e2ff4eb3-0762-4888-9a57-e305b93794bd",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter"
+        ],
+        "Aroma": [
+            "Grassy",
+            "Fresh"
+        ],
+        "Texture": [
+            "Light-bodied"
+        ],
+        "Visual_Color": [
+            "#32CD32"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Caffeine"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Afternoon",
+            "Evening"
+        ],
+        "Cooking_Method": [
+            "Steeped"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

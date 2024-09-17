@@ -1,0 +1,53 @@
+{
+    "name": "steamed white rice",
+    "Food_Item_UUID": "f9cabc9f-3408-4647-a67f-47a0181125c3",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Neutral"
+        ],
+        "Aroma": [
+            "Mild"
+        ],
+        "Texture": [
+            "Lightly-Steamed",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Carbohydrate"
+        ],
+        "Country_Origin": [
+            "Asia",
+            "South Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steaming"
+        ],
+        "Course": [
+            "Side Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

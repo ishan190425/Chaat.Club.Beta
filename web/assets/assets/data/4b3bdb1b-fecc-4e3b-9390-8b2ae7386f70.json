@@ -1,0 +1,57 @@
+{
+    "name": "empanadas",
+    "Food_Item_UUID": "4b3bdb1b-fecc-4e3b-9390-8b2ae7386f70",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "three white cheese south america style chicken ground beef or shrimp",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Cheesy"
+        ],
+        "Aroma": [
+            "Rich",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Moist"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFD7BE"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Moderate-Protein"
+        ],
+        "Country_Origin": [
+            "South America"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Mid-Morning Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-Seared",
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

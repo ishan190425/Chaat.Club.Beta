@@ -1,0 +1,63 @@
+{
+    "name": " . lamb chop salad",
+    "Food_Item_UUID": "7a5445a6-8ea0-44eb-b51f-ff1d51e4c688",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Meaty"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#E5D8B6",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "None",
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb",
+            "Good-Fat"
+        ],
+        "Country_Origin": [
+            "Ottoman Empire",
+            "Middle East",
+            " Mediterranean"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

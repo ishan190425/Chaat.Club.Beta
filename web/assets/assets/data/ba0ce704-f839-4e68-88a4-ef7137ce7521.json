@@ -1,0 +1,58 @@
+{
+    "name": "peas pulao",
+    "Food_Item_UUID": "ba0ce704-f839-4e68-88a4-ef7137ce7521",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "fluffy basmati rice cooked with green peas and mild indian spices",
+    "Flavor_Profile": {
+        "Taste": [
+            "Mild"
+        ],
+        "Aroma": [
+            "Lightly Spiced",
+            "Green Pea-like"
+        ],
+        "Texture": [
+            "Fluffy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#C6E2B5"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose-Free",
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Stir-fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

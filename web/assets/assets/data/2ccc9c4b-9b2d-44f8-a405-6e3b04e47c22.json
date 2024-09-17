@@ -1,0 +1,52 @@
+{
+    "name": "delille d red blend",
+    "Food_Item_UUID": "2ccc9c4b-9b2d-44f8-a405-6e3b04e47c22",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#D43E3E",
+            "#333333"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            ""
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "California"
+        ],
+        "Occasions": [
+            "Social Gathering"
+        ],
+        "Cooking_Method": [
+            "Bottled"
+        ],
+        "Course": [
+            "Wine"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

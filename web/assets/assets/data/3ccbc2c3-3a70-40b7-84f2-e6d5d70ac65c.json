@@ -1,0 +1,57 @@
+{
+    "name": "jinya quinoa salad",
+    "Food_Item_UUID": "3ccbc2c3-3a70-40b7-84f2-e6d5d70ac65c",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "baby greens kale broccoli white quinoa kidney beans and garbanzo beans tossed with sesame dressing garnished with corn and cherry tomatoes. vegetarian.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crisp",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#34C759",
+            "#FFFFFF",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "International"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Tossed"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

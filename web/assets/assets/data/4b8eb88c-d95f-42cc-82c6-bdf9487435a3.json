@@ -1,0 +1,55 @@
+{
+    "name": " . broken heart jelly ",
+    "Food_Item_UUID": "4b8eb88c-d95f-42cc-82c6-bdf9487435a3",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "jelly pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Texture": [
+            "Smooth",
+            "Jelly-like"
+        ],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Protein"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "None"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

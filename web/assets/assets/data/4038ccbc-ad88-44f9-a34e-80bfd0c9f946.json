@@ -1,0 +1,66 @@
+{
+    "name": "corn",
+    "Food_Item_UUID": "4038ccbc-ad88-44f9-a34e-80bfd0c9f946",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Earthy"
+        ],
+        "Aroma": [
+            "Grainy",
+            "Earthly"
+        ],
+        "Texture": [
+            "Cornlike",
+            "Crunchable"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Good-Source-Protein"
+        ],
+        "Country_Origin": [
+            "USA",
+            "Mexico",
+            "South America"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted",
+            "Boiled",
+            "Steamed"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

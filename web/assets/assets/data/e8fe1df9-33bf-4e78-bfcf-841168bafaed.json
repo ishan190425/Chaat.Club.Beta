@@ -1,0 +1,60 @@
+{
+    "name": "tonkotsu spicy",
+    "Food_Item_UUID": "e8fe1df9-33bf-4e78-bfcf-841168bafaed",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "pork broth pork chashu spicy bean sprouts kikurage may be substituted with spinach based on availability. green onion and spicy sauce served with thick noodles choose your spice level mild spicy or hot ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Rich",
+            "Porky"
+        ],
+        "Texture": [
+            "Creamy",
+            "Slurpy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium",
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten",
+            "Spicy"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Fat"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Stir-fry"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

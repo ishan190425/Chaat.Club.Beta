@@ -1,0 +1,52 @@
+{
+    "name": "pork milanese",
+    "Food_Item_UUID": "e4c60b5c-e069-45a6-a178-914c83b275c9",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "smoked prosciutto pepperoncini red onion bagna cauda aioli arugula fresh lemon",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fatty"
+        ],
+        "Aroma": [
+            "Smoky",
+            "Herby"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-frying"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

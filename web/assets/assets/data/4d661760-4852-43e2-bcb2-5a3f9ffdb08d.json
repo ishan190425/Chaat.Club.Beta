@@ -1,0 +1,59 @@
+{
+    "name": "a roti ",
+    "Food_Item_UUID": "4d661760-4852-43e2-bcb2-5a3f9ffdb08d",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "flat wheat bread curry sauce for dipping ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Earty"
+        ],
+        "Texture": [
+            "Soft",
+            "Flexible"
+        ],
+        "Visual_Color": [
+            "#F5DEB3",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Meal"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

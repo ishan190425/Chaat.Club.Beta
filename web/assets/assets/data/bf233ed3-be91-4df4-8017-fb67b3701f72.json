@@ -1,0 +1,58 @@
+{
+    "name": "spaghetti meatballs",
+    "Food_Item_UUID": "bf233ed3-be91-4df4-8017-fb67b3701f72",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "traditional tomato sauce basil olive oil pecorino",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Tomatoey"
+        ],
+        "Aroma": [
+            "Fresh Basil",
+            "Meaty"
+        ],
+        "Texture": [
+            "Tender",
+            "Chunky"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich in Vitamins"
+        ],
+        "Country_Origin": [
+            "Italy/USA"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed",
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

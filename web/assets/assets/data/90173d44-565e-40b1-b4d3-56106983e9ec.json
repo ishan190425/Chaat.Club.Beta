@@ -1,0 +1,55 @@
+{
+    "name": "little gem caesar",
+    "Food_Item_UUID": "90173d44-565e-40b1-b4d3-56106983e9ec",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "grated grana padano herb breadcrumb cracked pepper",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Herbal",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "Greenish",
+            "#8B9467"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Salad",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Grating"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

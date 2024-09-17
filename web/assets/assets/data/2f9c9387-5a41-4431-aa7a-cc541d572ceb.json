@@ -1,0 +1,58 @@
+{
+    "name": "grilled cheese",
+    "Food_Item_UUID": "2f9c9387-5a41-4431-aa7a-cc541d572ceb",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "choice of green salad or crispy fries",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Buttery"
+        ],
+        "Texture": [
+            "Creamy",
+            "Melty"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#F7D2C6"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Calcium"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

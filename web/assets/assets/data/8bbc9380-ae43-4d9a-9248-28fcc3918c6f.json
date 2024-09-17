@@ -1,0 +1,57 @@
+{
+    "name": "kids cheeseburger",
+    "Food_Item_UUID": "8bbc9380-ae43-4d9a-9248-28fcc3918c6f",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "choice of green salad or crispy fries",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Cheesy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Fries_like"
+        ],
+        "Texture": [
+            "Juicy",
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            ""
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

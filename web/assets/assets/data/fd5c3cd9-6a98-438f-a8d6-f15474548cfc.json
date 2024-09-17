@@ -1,0 +1,54 @@
+{
+    "name": "n pad se eaw",
+    "Food_Item_UUID": "fd5c3cd9-6a98-438f-a8d6-f15474548cfc",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh flat rice noodle with black soya sauce egg batter and chinese broccoli",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Soy",
+            "Egg"
+        ],
+        "Texture": [
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#666666"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-fry"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

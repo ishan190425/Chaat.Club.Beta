@@ -1,0 +1,53 @@
+{
+    "name": " . shrimp over rice",
+    "Food_Item_UUID": "8e23fb6f-43aa-4c37-94b5-b93af3dab3b9",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "house seasoned fried shrimps.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Seafood"
+        ],
+        "Aroma": [
+            "Fried",
+            "Seafood"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC300"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Asian"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

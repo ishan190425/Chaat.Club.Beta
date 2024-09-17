@@ -1,0 +1,59 @@
+{
+    "name": "wonton chicken ramen",
+    "Food_Item_UUID": "046b025e-1a18-46e3-8d48-ed2e71272ec6",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "chicken broth wonton spinach green onion served with thin noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Chickeny",
+            "Brothy"
+        ],
+        "Texture": [
+            "Soft",
+            "Slurpy"
+        ],
+        "Visual_Color": [
+            "#F2CDCD",
+            "#8F9779"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Calorie",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Japan",
+            "Chinese"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

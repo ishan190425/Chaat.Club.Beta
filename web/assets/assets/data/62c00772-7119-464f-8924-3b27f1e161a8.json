@@ -1,0 +1,54 @@
+{
+    "name": "e veggie lovers",
+    "Food_Item_UUID": "62c00772-7119-464f-8924-3b27f1e161a8",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "mixed vegetables chinese broccoli or vegetable of the day ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Vegetal"
+        ],
+        "Aroma": [
+            "Herbal"
+        ],
+        "Texture": [
+            "Crisp",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#8B9467",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-fry"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

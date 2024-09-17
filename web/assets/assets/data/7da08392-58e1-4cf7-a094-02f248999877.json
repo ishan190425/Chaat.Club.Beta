@@ -1,0 +1,56 @@
+{
+    "name": "pescado fresco",
+    "Food_Item_UUID": "7da08392-58e1-4cf7-a094-02f248999877",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "simply grilled blackened striped bass or salmon atop saut ed spinach medley sliced avocado chimichurri",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fishy"
+        ],
+        "Aroma": [
+            "Oceanic",
+            "Herby"
+        ],
+        "Texture": [
+            "Fresh",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#F7DC6F"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "None/Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

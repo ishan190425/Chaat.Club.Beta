@@ -1,0 +1,53 @@
+{
+    "name": "tuscan kale spinach",
+    "Food_Item_UUID": "cc8c9515-fa6b-49f9-8d7e-d434e355f65d",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            "Green"
+        ],
+        "Texture": [
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#8BC34A",
+            "#2E865F"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Salad Course"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

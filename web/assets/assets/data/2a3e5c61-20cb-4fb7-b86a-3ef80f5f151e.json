@@ -1,0 +1,56 @@
+{
+    "name": "mysore masala dosa",
+    "Food_Item_UUID": "2a3e5c61-20cb-4fb7-b86a-3ef80f5f151e",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "red chili chutney spread on thin rice and lentil crepe filled with mashed potatoes and onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy"
+        ],
+        "Aroma": [
+            "Chili-Like",
+            "Earthly"
+        ],
+        "Texture": [
+            "Soft",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-Free",
+            "Low-Carb"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Fermented"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

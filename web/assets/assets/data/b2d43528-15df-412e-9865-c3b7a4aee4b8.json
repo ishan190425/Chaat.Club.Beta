@@ -1,0 +1,58 @@
+{
+    "name": "chicken chashu bowl ",
+    "Food_Item_UUID": "b2d43528-15df-412e-9865-c3b7a4aee4b8",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "slow braised chicken breast chashu ground chicken soboro simmered shiitake mushroom kikurage namul may be substituted with spinach based on availability. green onion seasoned egg and sesame seeds.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Savory"
+        ],
+        "Texture": [
+            "Soft",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#808000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steaming",
+            "Boiling"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

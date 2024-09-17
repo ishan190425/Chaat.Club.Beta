@@ -1,0 +1,55 @@
+{
+    "name": "cheese dosa",
+    "Food_Item_UUID": "3b873977-c0d9-4629-9392-0b1aa9244e26",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin long rice and lentil crepe filled with grated cheese.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Buttery"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Nutty"
+        ],
+        "Texture": [
+            "Crepy",
+            "Cheesy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFC499"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Fermented"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

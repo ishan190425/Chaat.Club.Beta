@@ -1,0 +1,56 @@
+{
+    "name": "feudo montoni timpa grillo",
+    "Food_Item_UUID": "7e6f0ba5-406a-4f7f-84c7-44b651967ec9",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Golden"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Organic",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Sunday Brunch",
+            "Wine and Cheese Night"
+        ],
+        "Cooking_Method": [
+            "Fermentation"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

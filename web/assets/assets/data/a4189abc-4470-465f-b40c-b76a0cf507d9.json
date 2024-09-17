@@ -1,0 +1,50 @@
+{
+    "name": "pala soprasole vermentino",
+    "Food_Item_UUID": "a4189abc-4470-465f-b40c-b76a0cf507d9",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity"
+        ],
+        "Aroma": [
+            "Vineous",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crisp",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#FFD7BE",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Chilled"
+        ],
+        "Course": [
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

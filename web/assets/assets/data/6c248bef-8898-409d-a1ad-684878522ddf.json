@@ -1,0 +1,50 @@
+{
+    "name": "sicilian margarita",
+    "Food_Item_UUID": "6c248bef-8898-409d-a1ad-684878522ddf",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "serves . fz abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#8BC34A",
+            "#F5F5F5"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Wine",
+            "Spirits"
+        ],
+        "Nutrition": [
+            "Calories"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Cocktail Party",
+            "Special Occasion"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "After Meal"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

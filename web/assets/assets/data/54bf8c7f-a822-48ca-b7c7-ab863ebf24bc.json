@@ -1,0 +1,55 @@
+{
+    "name": "e b crispy tilapia",
+    "Food_Item_UUID": "54bf8c7f-a822-48ca-b7c7-ab863ebf24bc",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with flavors chili tamarind sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Citrusy"
+        ],
+        "Aroma": [
+            "Savory",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crispy",
+            "Moist"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FF99CC"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Breaded and Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

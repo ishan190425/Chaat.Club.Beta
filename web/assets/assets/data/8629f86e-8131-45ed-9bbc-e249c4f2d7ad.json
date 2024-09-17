@@ -1,0 +1,55 @@
+{
+    "name": "tres leches",
+    "Food_Item_UUID": "8629f86e-8131-45ed-9bbc-e249c4f2d7ad",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Vanilla",
+            "Creamy"
+        ],
+        "Texture": [
+            "Sponge-Like"
+        ],
+        "Visual_Color": [
+            "#CCCCFF",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "None"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Lacto-Ovo Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Carbs"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Party",
+            "Celebration"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

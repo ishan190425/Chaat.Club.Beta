@@ -1,0 +1,55 @@
+{
+    "name": "n pad woonsen",
+    "Food_Item_UUID": "2aee9fd9-08cc-4c44-a023-8d1511a0c09a",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crystal noodle with egg batter carrot onion tomato and mushroom",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Herby",
+            "Earthy"
+        ],
+        "Texture": [
+            "Springy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stirred"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "onion dosa",
+    "Food_Item_UUID": "429f8d6e-d6e7-4d3f-a15f-cc14a811b640",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy rice and lentil crepe topped with onions.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            "Oniony",
+            "Earthy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Thin"
+        ],
+        "Visual_Color": [
+            "Yellow-Brown",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Pan- Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

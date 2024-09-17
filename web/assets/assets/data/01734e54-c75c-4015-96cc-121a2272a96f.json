@@ -1,0 +1,54 @@
+{
+    "name": "broccolini",
+    "Food_Item_UUID": "01734e54-c75c-4015-96cc-121a2272a96f",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            ""
+        ],
+        "Texture": [
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb",
+            "Gluten-Free",
+            "Low-Calorie",
+            "Vegan"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Snack",
+            "Salad"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Roasted"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

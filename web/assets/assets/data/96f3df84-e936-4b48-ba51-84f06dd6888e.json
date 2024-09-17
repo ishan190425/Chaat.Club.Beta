@@ -1,0 +1,59 @@
+{
+    "name": "italian meatballs",
+    "Food_Item_UUID": "96f3df84-e936-4b48-ba51-84f06dd6888e",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "creamy polenta rustic marinara grana padano",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Tomatoey",
+            "Cheesy",
+            "Creamy",
+            "Herby"
+        ],
+        "Texture": [
+            "Soft",
+            "Cremaous"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

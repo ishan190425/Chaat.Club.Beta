@@ -1,0 +1,59 @@
+{
+    "name": "dandan noodle ",
+    "Food_Item_UUID": "302565e9-f702-4389-a705-706a1df6174c",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "ground berkshire pork noodle peanuts pepper sesame sichuan pickles .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Sesame-y",
+            "Peppery",
+            "Sesame"
+        ],
+        "Texture": [
+            "Springy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#F5DEB3",
+            "#E6DAC3"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China",
+            "United States"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

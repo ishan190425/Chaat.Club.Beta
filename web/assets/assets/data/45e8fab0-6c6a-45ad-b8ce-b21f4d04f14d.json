@@ -1,0 +1,55 @@
+{
+    "name": "rasam",
+    "Food_Item_UUID": "45e8fab0-6c6a-45ad-b8ce-b21f4d04f14d",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "a south indian special mild spicy lentil soup.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Mildly_Spicy"
+        ],
+        "Aroma": [
+            "Tannic"
+        ],
+        "Texture": [
+            "Velvety"
+        ],
+        "Visual_Color": [
+            "Golden_Brown",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Glutenfree"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stewed"
+        ],
+        "Course": [
+            "Side_Dish",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

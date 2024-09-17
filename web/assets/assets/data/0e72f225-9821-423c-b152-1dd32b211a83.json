@@ -1,0 +1,55 @@
+{
+    "name": "saravana special meals",
+    "Food_Item_UUID": "0e72f225-9821-423c-b152-1dd32b211a83",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "sweet poori side dish rice sambar special kuzhambu rasam vegetable curries raitha curd appalam pickle.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fragrant"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F3E0C9",
+            "#C7C2B5",
+            "#F8F4F1"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Meals",
+            "Parties"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Fried"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

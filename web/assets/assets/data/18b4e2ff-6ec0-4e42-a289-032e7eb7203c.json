@@ -1,0 +1,60 @@
+{
+    "name": "el super shaggy",
+    "Food_Item_UUID": "18b4e2ff-6ec0-4e42-a289-032e7eb7203c",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "cooked. shrimp tempura cream cheese and jalape o rolled and topped with kani drizzled with spicy mayo sweet unagi and sriracha.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Rich",
+            "Spicy",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#,ffffff",
+            "#ccccff"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Seafood"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Japan",
+            "USA"
+        ],
+        "Occasions": [
+            "Party",
+            "Special Occasion"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

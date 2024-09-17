@@ -1,0 +1,48 @@
+{
+    "name": "brookie sundae",
+    "Food_Item_UUID": "c8bcd42c-af05-4665-8f88-70c7662dc631",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "pistachio chocolate strawberry gelato dark chocolate banana strawberry pecan chocolate pearls",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Rich"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Chocolatey",
+            "Nutty"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#964B00",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [
+            "Sweets-only"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

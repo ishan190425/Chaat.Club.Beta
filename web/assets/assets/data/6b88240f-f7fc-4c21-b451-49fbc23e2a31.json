@@ -1,0 +1,52 @@
+{
+    "name": "aloo pepper fry",
+    "Food_Item_UUID": "6b88240f-f7fc-4c21-b451-49fbc23e2a31",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "steamed potato sauteed with onion and crushed pepper corn",
+    "Flavor_Profile": {
+        "Taste": [
+            "Ssavory",
+            "Umami"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crunchy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

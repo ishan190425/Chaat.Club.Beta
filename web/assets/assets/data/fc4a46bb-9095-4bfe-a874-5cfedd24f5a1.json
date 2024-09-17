@@ -1,0 +1,56 @@
+{
+    "name": "e chili garlic sea snail",
+    "Food_Item_UUID": "fc4a46bb-9095-4bfe-a874-5cfedd24f5a1",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "snail in shell sauteed with coconut cream chili and garlic",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Spicy"
+        ],
+        "Texture": [
+            "Velvety"
+        ],
+        "Visual_Color": [
+            "Orange",
+            "#FFFFF0"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Seafood",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            ""
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Sauteed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "kids chile con queso puff",
+    "Food_Item_UUID": "80f99e4e-aa51-45e5-8139-e40edfe80801",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Cheesy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Cheese-like",
+            "Spicy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Cilantro-free",
+            "Gluten_free"
+        ],
+        "Nutrition": [
+            "Moderate-Ca"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "y .d som tum communal temple tray",
+    "Food_Item_UUID": "26757a04-f1ff-4fbb-b843-3951699611aa",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "combination of papaya salad salad thai or lao style charcoal chicken leg quarter stemed pork meat loaf fried pork rind vermicelli noodles boiled egg and sticky rice",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#666600"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Energy"
+        ],
+        "Country_Origin": [
+            "Thailand",
+            "Laos"
+        ],
+        "Occasions": [
+            "Communal Gathering",
+            "Street Food"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

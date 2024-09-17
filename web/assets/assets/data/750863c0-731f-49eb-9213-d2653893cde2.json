@@ -1,0 +1,57 @@
+{
+    "name": "palak paneer",
+    "Food_Item_UUID": "750863c0-731f-49eb-9213-d2653893cde2",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "cottage cheese cooked with a paste of spinach seasoned with indian herbs",
+    "Flavor_Profile": {
+        "Taste": [
+            "Creamy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#8BC34A",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

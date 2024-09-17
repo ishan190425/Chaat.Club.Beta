@@ -1,0 +1,59 @@
+{
+    "name": " fired rice noodle with vegetables",
+    "Food_Item_UUID": "22362b12-9430-4933-91f5-229dc2f3e1fa",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "broccoli green bean rice",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Veggie"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Green"
+        ],
+        "Texture": [
+            "Soft",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#8B4513",
+            "#6B5A1D",
+            "#4E5338"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Asian"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Steamed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

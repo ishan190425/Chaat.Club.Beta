@@ -1,0 +1,34 @@
+{
+    "name": "need utensils",
+    "Food_Item_UUID": "e532aaef-8d33-4722-83fe-fb79cf177203",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": null,
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": null,
+        "Occasions": [
+            "Various"
+        ],
+        "Cooking_Method": [
+            "Utensils"
+        ],
+        "Course": [
+            "Variable"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

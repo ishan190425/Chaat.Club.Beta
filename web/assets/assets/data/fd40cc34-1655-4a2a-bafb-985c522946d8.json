@@ -1,0 +1,57 @@
+{
+    "name": "roasted corn bisque bowl",
+    "Food_Item_UUID": "fd40cc34-1655-4a2a-bafb-985c522946d8",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "grilled chicken poblano bacon sherry wine",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Smoky"
+        ],
+        "Aroma": [
+            "Savory",
+            "Wine-like"
+        ],
+        "Texture": [
+            "Creamy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#FFC400",
+            "#969696"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "United States"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

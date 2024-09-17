@@ -1,0 +1,57 @@
+{
+    "name": "a summer fresh rolls ",
+    "Food_Item_UUID": "007ae6c6-3398-4c5a-861b-8b11e7008f54",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh vegetable vermicelli shrimp tofu or chicken served with peanut and sweet sour sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Sour"
+        ],
+        "Texture": [
+            "Chewy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Green",
+            "White",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Southeast Asian"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

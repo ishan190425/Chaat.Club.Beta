@@ -1,0 +1,58 @@
+{
+    "name": "flying vegan harvest",
+    "Food_Item_UUID": "73d7ba6e-0819-4809-bfdc-221aa712536a",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "vegan miso broth impossible meat made from plants tofu bean sprouts broccolini green onion corn red onion crispy garlic chili seasoning served with thick noodles. vegetarian",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Umami"
+        ],
+        "Aroma": [
+            "Savory",
+            "Herbal"
+        ],
+        "Texture": [
+            "Firm",
+            "Velvety"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#008000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Any Time of Day"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

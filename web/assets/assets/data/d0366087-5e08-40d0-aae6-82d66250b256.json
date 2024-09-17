@@ -1,0 +1,56 @@
+{
+    "name": "silk on the tree ",
+    "Food_Item_UUID": "d0366087-5e08-40d0-aae6-82d66250b256",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "cabbage chinese bean noodles .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Bitter"
+        ],
+        "Aroma": [
+            "Semi-Automatic",
+            "Familiarity"
+        ],
+        "Texture": [
+            "Slippery",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#8B2E11",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Blended"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

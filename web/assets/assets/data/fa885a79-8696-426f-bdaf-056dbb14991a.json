@@ -1,0 +1,53 @@
+{
+    "name": "braised short rib lumache",
+    "Food_Item_UUID": "fa885a79-8696-426f-bdaf-056dbb14991a",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "parmesan fonduta fresh horseradish wilted arugula herb breadcrumb",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Umami"
+        ],
+        "Aroma": [
+            "Savory",
+            "Wheaty"
+        ],
+        "Texture": [
+            "Tender",
+            "Fall-Apart"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Brown"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

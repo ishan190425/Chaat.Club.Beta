@@ -1,0 +1,59 @@
+{
+    "name": "takoyaki",
+    "Food_Item_UUID": "1dbc10ff-53b5-43e2-b320-a6cf56fa03fd",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "octopus balls. battered octopus over egg tartar topped with mayonnaise okonomiyaki sauce fresh cut green onion and smoked bonito flakes.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Fresh"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft",
+            "Melted"
+        ],
+        "Visual_Color": [
+            "#FF8C00",
+            "#8B4513",
+            "#999999",
+            "#FFFFFF",
+            "#964B00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

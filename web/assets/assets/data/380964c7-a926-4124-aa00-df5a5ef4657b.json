@@ -1,0 +1,56 @@
+{
+    "name": " . lamb gyro",
+    "Food_Item_UUID": "380964c7-a926-4124-aa00-df5a5ef4657b",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Herby",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Juicy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lamb"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Greece"
+        ],
+        "Occasions": [
+            "Street Food",
+            "Festival",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pita Baked"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

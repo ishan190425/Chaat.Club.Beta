@@ -1,0 +1,56 @@
+{
+    "name": "brussels sprouts",
+    "Food_Item_UUID": "fd7cdbdb-3014-4336-b2eb-4d77a23ae796",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Earthly"
+        ],
+        "Aroma": [
+            "Vegetal"
+        ],
+        "Texture": [
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#8B4513",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free",
+            "Low-carb"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side Dish",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

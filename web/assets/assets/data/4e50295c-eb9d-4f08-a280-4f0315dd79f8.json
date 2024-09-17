@@ -1,0 +1,56 @@
+{
+    "name": " mala beef shank noodle",
+    "Food_Item_UUID": "4e50295c-eb9d-4f08-a280-4f0315dd79f8",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "beef shank cliantro garlic ginger green onion noodle pepper peppercorn ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Herby",
+            "Pungent"
+        ],
+        "Texture": [
+            "Tender",
+            "Fiberous"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFF0F0"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "impossible tacos pcs ",
+    "Food_Item_UUID": "58a97116-d239-4371-881c-83178c4aa1e6",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "plant based tacos impossible meat made from plants and guacamole on bite size crispy taco shells topped with cilantro. vegetarian",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Mexican-Inspired",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC500",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Saturated-Fat"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Assembled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

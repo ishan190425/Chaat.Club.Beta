@@ -1,0 +1,61 @@
+{
+    "name": "jaew sauce oz",
+    "Food_Item_UUID": "9a21696a-eefd-412a-99f4-014798851a4d",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Fermented"
+        ],
+        "Texture": [
+            "Thick",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "BROWN"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free",
+            "Vegan-friendly",
+            "Vegetarian-friendly"
+        ],
+        "Nutrition": [
+            "High-in-Polyunsaturated-Fat",
+            "Good-Source-Of-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand",
+            "Laos"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side dish",
+            "Dip",
+            "Main course"
+        ],
+        "Cooking_Method": [
+            "Ferment",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

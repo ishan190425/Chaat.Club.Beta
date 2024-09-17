@@ -1,0 +1,56 @@
+{
+    "name": "lemon olive oil cake",
+    "Food_Item_UUID": "3cc9e8bb-d111-47fd-aeff-b1414378872c",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "lemon curd wild blueberry compote",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Buttery"
+        ],
+        "Texture": [
+            "Moist",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#FFFF99",
+            "#66CC00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Europe"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

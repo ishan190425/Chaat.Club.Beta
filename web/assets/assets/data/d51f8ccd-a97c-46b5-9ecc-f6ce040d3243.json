@@ -1,0 +1,56 @@
+{
+    "name": "e c steamed tilapia",
+    "Food_Item_UUID": "d51f8ccd-a97c-46b5-9ecc-f6ce040d3243",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with fresh chili garlic lime sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Citrusy"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Fruity"
+        ],
+        "Texture": [
+            "Flaky",
+            "Moist"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild",
+            "Tingly"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish"
+        ],
+        "Nutrition": [
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "International (Various)"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

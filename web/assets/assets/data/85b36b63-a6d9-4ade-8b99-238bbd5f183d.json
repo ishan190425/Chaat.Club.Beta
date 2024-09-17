@@ -1,0 +1,57 @@
+{
+    "name": "a a tempura calamari",
+    "Food_Item_UUID": "85b36b63-a6d9-4ade-8b99-238bbd5f183d",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with ground peanut sweet sour sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Peanuts",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich in Fat"
+        ],
+        "Country_Origin": [
+            "JAPAN"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep Frying"
+        ],
+        "Course": [
+            "Starter"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

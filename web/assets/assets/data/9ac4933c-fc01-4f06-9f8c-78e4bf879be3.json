@@ -1,0 +1,55 @@
+{
+    "name": "cashew nut pulao",
+    "Food_Item_UUID": "9ac4933c-fc01-4f06-9f8c-78e4bf879be3",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "fluffy basmati rice sauteed with golden fried cashew nuts.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Nutty"
+        ],
+        "Aroma": [
+            "Warm",
+            "Fragrant"
+        ],
+        "Texture": [
+            "Fluffy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#0000FF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

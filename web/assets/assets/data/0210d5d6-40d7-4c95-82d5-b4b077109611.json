@@ -1,0 +1,58 @@
+{
+    "name": "fajita poblano",
+    "Food_Item_UUID": "0210d5d6-40d7-4c95-82d5-b4b077109611",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "cheese stuffed roasted poblano pepper wrapped in a skirt steak topped with espanola sauce and creamy queso blanco",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Rich",
+            "Smoky"
+        ],
+        "Texture": [
+            "Tender",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFF800"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

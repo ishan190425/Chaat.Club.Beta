@@ -1,0 +1,57 @@
+{
+    "name": "kara dosa",
+    "Food_Item_UUID": "39b289b3-8bc8-45b2-b377-a5dac4c4dea0",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "spicy thin rice crepe with spices onions and potatoes",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Fruity"
+        ],
+        "Texture": [
+            "Thin",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#F2BCE4",
+            "#FFC499"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "India/South Asia"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

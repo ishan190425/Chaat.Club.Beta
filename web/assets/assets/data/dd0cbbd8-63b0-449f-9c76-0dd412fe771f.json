@@ -1,0 +1,54 @@
+{
+    "name": "c panang curry",
+    "Food_Item_UUID": "dd0cbbd8-63b0-449f-9c76-0dd412fe771f",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "sweeter and thicker than other curry wuth yam topped with coconut cream",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Rich"
+        ],
+        "Aroma": [
+            "Spicy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Thick"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium-Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Sesame-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fry"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

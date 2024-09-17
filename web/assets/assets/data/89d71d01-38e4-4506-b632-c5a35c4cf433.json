@@ -1,0 +1,54 @@
+{
+    "name": "tiramisu",
+    "Food_Item_UUID": "89d71d01-38e4-4506-b632-c5a35c4cf433",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "espresso soaked lady fingers mascarpone mousse",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Milk"
+        ],
+        "Aroma": [
+            "Coffee",
+            "Sweet"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Lactose"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Desert"
+        ],
+        "Cooking_Method": [
+            "Assembled"
+        ],
+        "Course": [
+            "Desert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "e zap style cashew nut",
+    "Food_Item_UUID": "38de0d2e-7162-4350-b094-266148c07b7b",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "onion red bell pepper dried chili cashew nut and carrot ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#8B4513",
+            "#FFC080",
+            "#E5E5EA"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Nut-Free",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

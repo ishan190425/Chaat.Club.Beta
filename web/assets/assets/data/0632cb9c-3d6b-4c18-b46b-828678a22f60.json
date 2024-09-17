@@ -1,0 +1,55 @@
+{
+    "name": "can coke",
+    "Food_Item_UUID": "0632cb9c-3d6b-4c18-b46b-828678a22f60",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "carbonated soft drink with a classic cola flavor.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Bitter"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Vanilla"
+        ],
+        "Texture": [
+            "Syrupy"
+        ],
+        "Visual_Color": [
+            "#0000FF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork-Free",
+            "Lactose-Free",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "Low-Protein"
+        ],
+        "Country_Origin": [
+            "United States"
+        ],
+        "Occasions": [
+            "Everyday Consumption"
+        ],
+        "Cooking_Method": [
+            "Bottled at Manufacturer"
+        ],
+        "Course": [
+            "No specific course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

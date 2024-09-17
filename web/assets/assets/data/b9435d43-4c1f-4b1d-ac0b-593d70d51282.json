@@ -1,0 +1,57 @@
+{
+    "name": "fr thai style fried rice",
+    "Food_Item_UUID": "b9435d43-4c1f-4b1d-ac0b-593d70d51282",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with red curry paste ginger sshallot and fried egg",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Earthy"
+        ],
+        "Texture": [
+            "Crispy",
+            "Fluffy"
+        ],
+        "Visual_Color": [
+            "#FFA07A",
+            "#F2DEE7"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Sesame",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Side dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

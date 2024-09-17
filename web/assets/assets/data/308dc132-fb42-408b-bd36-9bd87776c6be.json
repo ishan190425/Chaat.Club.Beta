@@ -1,0 +1,52 @@
+{
+    "name": "a chicken curry puff each ",
+    "Food_Item_UUID": "308dc132-fb42-408b-bd36-9bd87776c6be",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "puff pastry folded with potato onion carrot and curry powder",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Curry-like",
+            "Egg-like"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India/Asia-Style"
+        ],
+        "Occasions": [
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

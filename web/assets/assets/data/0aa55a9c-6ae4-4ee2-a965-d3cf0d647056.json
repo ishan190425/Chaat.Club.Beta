@@ -1,0 +1,56 @@
+{
+    "name": "ss steamed chicken with garlic rice",
+    "Food_Item_UUID": "0aa55a9c-6ae4-4ee2-a965-d3cf0d647056",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "served with ginger soya sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Gingerly",
+            "Sweet"
+        ],
+        "Texture": [
+            "Juicy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#F2DE4C",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Chinese"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

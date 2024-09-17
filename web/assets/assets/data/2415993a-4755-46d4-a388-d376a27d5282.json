@@ -1,0 +1,55 @@
+{
+    "name": "the pig",
+    "Food_Item_UUID": "2415993a-4755-46d4-a388-d376a27d5282",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "salumi pepperoni spicy sopressatta italian sausage",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Meaty"
+        ],
+        "Texture": [
+            "Crispy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "Red",
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Party Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Cured",
+            "Smoked"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

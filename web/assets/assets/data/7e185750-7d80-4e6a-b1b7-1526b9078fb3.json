@@ -1,0 +1,60 @@
+{
+    "name": "margherita",
+    "Food_Item_UUID": "7e185750-7d80-4e6a-b1b7-1526b9078fb3",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "mozzarella fresh basil olive oil red sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Tangy"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Herby"
+        ],
+        "Texture": [
+            "Creamy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#008000"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "Good-Fat",
+            "High-Calcium"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Skillet"
+        ],
+        "Course": [
+            "Starter"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

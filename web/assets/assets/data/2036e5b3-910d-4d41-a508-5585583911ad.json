@@ -1,0 +1,54 @@
+{
+    "name": "onion rava dosa",
+    "Food_Item_UUID": "2036e5b3-910d-4d41-a508-5585583911ad",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy wheat and rice crepe sprinkled with sliced onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Oniony"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Crispy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Fragile"
+        ],
+        "Visual_Color": [
+            "Golden Brown",
+            "#FFD700"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Breakfast, Snack",
+            "Lunch and Dinner"
+        ],
+        "Cooking_Method": [
+            "Griddled/Fried"
+        ],
+        "Course": [
+            "Snack",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

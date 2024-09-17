@@ -1,0 +1,58 @@
+{
+    "name": "pyramid rib ",
+    "Food_Item_UUID": "1f138d73-5932-4f40-bc25-cdf1720e84e6",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "black ear garlic ginger pepper peppercorn potato ribs white broccoli .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Earthly",
+            "Pungent"
+        ],
+        "Texture": [
+            "Tender",
+            "Fall-Apart"
+        ],
+        "Visual_Color": [
+            "#F5DEB3",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "International/Global"
+        ],
+        "Occasions": [
+            "Dinner",
+            "Casual Supper"
+        ],
+        "Cooking_Method": [
+            "Grilled or Baked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

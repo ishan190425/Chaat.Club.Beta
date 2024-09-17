@@ -1,0 +1,58 @@
+{
+    "name": "cali",
+    "Food_Item_UUID": "39aac181-565f-4c17-8c7d-b79a1eb24f01",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "cooked. snow crab cucumber and avocado rolled and topped with masago.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Crabby"
+        ],
+        "Texture": [
+            "Tender",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#32CD32",
+            "#FFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Seafood"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Rolled Sushi"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": " . lamb salad",
+    "Food_Item_UUID": "509f020a-0327-4ade-95ff-803eb386d75d",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fleshy"
+        ],
+        "Aroma": null,
+        "Texture": [
+            "Juicy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFD700"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich in Vitamins"
+        ],
+        "Country_Origin": [
+            "United Kingdom or Middle East (depending on preparation and culture)"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Raw or Cooked (Grilled, Pan-Seared etc.)"
+        ],
+        "Course": [
+            "Appetizer or Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

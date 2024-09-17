@@ -1,0 +1,55 @@
+{
+    "name": "s tom zap",
+    "Food_Item_UUID": "c55c4a3e-d651-4a78-803e-a66e7f405394",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "spicy and sour with pork rib",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pork-Rib-like",
+            "Sour-Asian-Fusion"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Meaty"
+        ],
+        "Visual_Color": [
+            "#E5B4D4",
+            "#8B0A1A"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Asian-Inspired"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Braised"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

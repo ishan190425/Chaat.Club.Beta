@@ -1,0 +1,57 @@
+{
+    "name": "seasonal vegetable",
+    "Food_Item_UUID": "569559d7-ac63-46d6-af3c-f13b19f0be24",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "grilled asparagus avocado broccolini sweet corn heirloom cherry tomato fregola goat cheese pistachio italian herb vinaigrette",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fresh"
+        ],
+        "Aroma": [
+            "Herby",
+            "Earthy"
+        ],
+        "Texture": [
+            "Crisp",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FF9900"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side dish"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Salad",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

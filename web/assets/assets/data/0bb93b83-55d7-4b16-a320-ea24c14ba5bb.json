@@ -1,0 +1,57 @@
+{
+    "name": "baingan bartha",
+    "Food_Item_UUID": "0bb93b83-55d7-4b16-a320-ea24c14ba5bb",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "minced of roasted brinjal sauteed with vegetables and flavored indian herbs",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Soft",
+            "Mushy"
+        ],
+        "Visual_Color": [
+            "#964B00",
+            "#666600"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Good-Source-Vitamin-K",
+            "Antioxidant-Rich"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

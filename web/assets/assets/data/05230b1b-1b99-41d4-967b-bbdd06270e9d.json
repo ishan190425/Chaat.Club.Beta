@@ -1,0 +1,51 @@
+{
+    "name": "spicy creamy vegan ramen",
+    "Food_Item_UUID": "05230b1b-1b99-41d4-967b-bbdd06270e9d",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "vegetable broth tofu onion green onion spinach crispy onion garlic chips garlic oil chili oil and sesame seeds served with thick noodles",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Creamy"
+        ],
+        "Aroma": [
+            "Savory",
+            "Umami"
+        ],
+        "Texture": [
+            "Thick",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#CCCCCC"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "Nutrition": null,
+        "Country_Origin": null,
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Stir-Fried"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

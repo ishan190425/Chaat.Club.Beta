@@ -1,0 +1,57 @@
+{
+    "name": "cabbage",
+    "Food_Item_UUID": "c43e4edd-096f-4fc1-99a9-62f32f258330",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Crushy",
+            "Earthly"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Slippery"
+        ],
+        "Visual_Color": [
+            "#7FFD00",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Snack",
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Steamed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

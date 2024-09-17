@@ -1,0 +1,60 @@
+{
+    "name": "pollo escalante",
+    "Food_Item_UUID": "3de5e270-cda2-47a2-9e8c-e43cd9ba4cd5",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "marinated grilled chicken breast topped with sauteed mushrooms and melted chihuaha cheese atop our tequila peppercorn sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Meaty",
+            "Minty"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#660000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium",
+            "Spicy"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico, USA"
+        ],
+        "Occasions": [
+            "Social Gathering",
+            "Casual Dinner",
+            "Barbecue"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

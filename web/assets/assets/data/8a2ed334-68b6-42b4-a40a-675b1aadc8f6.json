@@ -1,0 +1,52 @@
+{
+    "name": "duckhorn sauvignon blanc",
+    "Food_Item_UUID": "8a2ed334-68b6-42b4-a40a-675b1aadc8f6",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Crunchy"
+        ],
+        "Aroma": [
+            "Citrus",
+            "Green"
+        ],
+        "Texture": [
+            "Crisp",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#C3F4E7",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Grape"
+        ],
+        "Nutrition": [
+            "Moderate-Calories"
+        ],
+        "Country_Origin": [
+            "California"
+        ],
+        "Occasions": [
+            "Wine-And-Dinner"
+        ],
+        "Cooking_Method": [
+            "Not applicable"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "a shrimp flavored chips",
+    "Food_Item_UUID": "f634f75c-7b9d-4a72-8579-055c236f75e9",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salty",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Crunchy",
+            "Faintly Shrimp-like"
+        ],
+        "Texture": [
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFFA7F",
+            "#CCCCCC"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Multiple (Global)"
+        ],
+        "Occasions": [
+            "Snack Time"
+        ],
+        "Cooking_Method": [
+            "No Cooking Required"
+        ],
+        "Course": [
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

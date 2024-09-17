@@ -1,0 +1,56 @@
+{
+    "name": "dry fruit rava",
+    "Food_Item_UUID": "6bae365a-629b-4ab6-83ce-9687307a682b",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crepe from cream of wheat garnished with dry nuts and raisins",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Nutty"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Nutmeggy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#008000",
+            "#E5D8B7"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Healthy"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

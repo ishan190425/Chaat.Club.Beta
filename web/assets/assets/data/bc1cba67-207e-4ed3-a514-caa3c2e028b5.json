@@ -1,0 +1,54 @@
+{
+    "name": "tacos de pescado",
+    "Food_Item_UUID": "bc1cba67-207e-4ed3-a514-caa3c2e028b5",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "two grilled srtiped bass or shrimp tacos topeed with cabbage and avocados on corn or flour tortillas.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fresh"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Seafood"
+        ],
+        "Texture": [
+            "Soft",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#000080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

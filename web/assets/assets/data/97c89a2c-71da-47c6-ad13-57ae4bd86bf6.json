@@ -1,0 +1,54 @@
+{
+    "name": "z zap wing ",
+    "Food_Item_UUID": "97c89a2c-71da-47c6-ad13-57ae4bd86bf6",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crispy chicken wing saut ed with sweet sour tamarind sauce add chili upon request",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Soupy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC400",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Wheat"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Asian",
+            "American"
+        ],
+        "Occasions": [
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "s tom pho tak",
+    "Food_Item_UUID": "e1acc3d9-7abb-4e6d-8fbd-e334cf983996",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "spicy seafood soup with shrimp squid mussel lime chilies and basil",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Zesty",
+            "Fishy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Succulent"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Vietnam-Style"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Simmered"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

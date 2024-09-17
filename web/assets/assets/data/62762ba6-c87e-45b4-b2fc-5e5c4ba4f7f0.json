@@ -1,0 +1,59 @@
+{
+    "name": "viva las vegas",
+    "Food_Item_UUID": "62762ba6-c87e-45b4-b2fc-5e5c4ba4f7f0",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "fried. smoked salmon cream cheese and avocado rolled fried and topped with jalape o crunchy bits drizzled with spicy mayo sriracha and sweet unagi.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Creamy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Rich"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pescetarian",
+            "Gluten-Free",
+            "Kosher"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Japan",
+            "Mexico"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

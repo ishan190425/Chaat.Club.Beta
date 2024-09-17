@@ -1,0 +1,53 @@
+{
+    "name": "la follette chardonnay",
+    "Food_Item_UUID": "7928ad1d-63b6-4bf1-bf0a-485c42aa45fe",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Buttery",
+            "Oaky"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Caramel"
+        ],
+        "Texture": [
+            "Smooth",
+            "Rich"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Slightly Sweet"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Ap\u00e9ritif",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "N/A"
+        ],
+        "Course": [
+            "Wine Pairing"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

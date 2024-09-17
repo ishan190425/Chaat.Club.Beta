@@ -1,0 +1,56 @@
+{
+    "name": "kadai paneer",
+    "Food_Item_UUID": "ad43e097-0cb7-4da9-8833-ce8dee921b41",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "roasted cottage cheese cooked with rich butter gravy",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Savory"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Creamy"
+        ],
+        "Texture": [
+            "Crisp",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Calcium"
+        ],
+        "Country_Origin": [
+            "Indian"
+        ],
+        "Occasions": [
+            "Party",
+            "Family_Gathering"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

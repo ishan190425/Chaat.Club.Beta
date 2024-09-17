@@ -1,0 +1,56 @@
+{
+    "name": "prosciutto",
+    "Food_Item_UUID": "312990d9-8baa-4667-9556-d29a6778c3b7",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "mission fig goat cheese arugula",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Salted"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Honeyed"
+        ],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFB6C1",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Moderate-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Antipasto"
+        ],
+        "Cooking_Method": [
+            "Air-dried"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

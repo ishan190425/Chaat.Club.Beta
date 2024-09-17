@@ -1,0 +1,51 @@
+{
+    "name": "cumin lamb ",
+    "Food_Item_UUID": "7b6fb50f-8a51-4376-9d14-a44d21aaab25",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "cumin lamb onion .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Cumin-like"
+        ],
+        "Texture": [
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Brown"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "India",
+            "Middle East"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

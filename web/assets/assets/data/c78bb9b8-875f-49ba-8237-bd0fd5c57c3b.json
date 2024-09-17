@@ -1,0 +1,60 @@
+{
+    "name": "enchiladas de espinacas",
+    "Food_Item_UUID": "c78bb9b8-875f-49ba-8237-bd0fd5c57c3b",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "fresh leaf spinach and mushroom rolled in hand made flour tortillas topped with espanola sauce or roasted corn sauce and chihuahua cheese.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Earthy"
+        ],
+        "Aroma": [
+            "Rich",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Soft",
+            "Rolled"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#C9E4CA"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Lactose"
+        ],
+        "Nutrition": [
+            "Low-Cholesterol",
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Rolled"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

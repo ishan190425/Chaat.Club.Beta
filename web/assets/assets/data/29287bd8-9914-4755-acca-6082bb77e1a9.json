@@ -1,0 +1,58 @@
+{
+    "name": "juice f",
+    "Food_Item_UUID": "29287bd8-9914-4755-acca-6082bb77e1a9",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "apple cucumber parsley ginger lime celery.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Herbaceous"
+        ],
+        "Texture": [
+            "Juicy",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "#FFF599",
+            "#C6E2B5"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack",
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Blended"
+        ],
+        "Course": [
+            "Refreshing Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

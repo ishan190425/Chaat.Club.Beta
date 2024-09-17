@@ -1,0 +1,60 @@
+{
+    "name": "y .a som tum thai style with peanut dried shrimp",
+    "Food_Item_UUID": "979a0d8f-6d00-43e8-91a9-7b9efa575429",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "fresh green papaya salad green bean cherry tomato flavored with lime garlic chili and fish sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Citrusy",
+            "Peanutty",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Fresh"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#0000FF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Lactose-Free",
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Vitamin C"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Ap\u00e9ro-Hour",
+            "Picnic"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Marinated"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

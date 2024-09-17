@@ -1,0 +1,55 @@
+{
+    "name": "sweet corn fontina polenta",
+    "Food_Item_UUID": "040cd8d3-13c4-46b8-8efb-a13e4c74467e",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Buttery",
+            "Corn-like"
+        ],
+        "Texture": [
+            "Creamy",
+            "Coarse"
+        ],
+        "Visual_Color": [
+            "Yellow"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

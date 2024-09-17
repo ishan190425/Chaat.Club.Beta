@@ -1,0 +1,52 @@
+{
+    "name": "white truffle garlic bread",
+    "Food_Item_UUID": "f968f960-f79b-4cda-a7af-6549d8d3429e",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "house made ricotta mozzarella grana padano herbs",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Creamy"
+        ],
+        "Aroma": [
+            "Herby",
+            "Cheesy"
+        ],
+        "Texture": [
+            "Smooth",
+            "Fresh"
+        ],
+        "Visual_Color": [
+            "#F7FFFA",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner'], "
+        ],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

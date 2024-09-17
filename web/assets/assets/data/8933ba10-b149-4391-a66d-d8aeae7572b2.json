@@ -1,0 +1,50 @@
+{
+    "name": "funghi",
+    "Food_Item_UUID": "8933ba10-b149-4391-a66d-d8aeae7572b2",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "roasted mushroom cipollini smoked mozzarella",
+    "Flavor_Profile": {
+        "Taste": [
+            "Earthy"
+        ],
+        "Aroma": [
+            "Mushroom"
+        ],
+        "Texture": [
+            "Tender",
+            "Savory"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFD700"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Italia"
+        ],
+        "Occasions": [
+            "Snack",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Roasted"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

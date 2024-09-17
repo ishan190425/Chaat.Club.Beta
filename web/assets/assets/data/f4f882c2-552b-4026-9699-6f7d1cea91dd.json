@@ -1,0 +1,52 @@
+{
+    "name": "a seaweed salad",
+    "Food_Item_UUID": "f4f882c2-552b-4026-9699-6f7d1cea91dd",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salty",
+            "Bitter"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Slimy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "Greenish-Brown",
+            "#8BC34A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Japan/Korea/Worldwide"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Washed/Rinsed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

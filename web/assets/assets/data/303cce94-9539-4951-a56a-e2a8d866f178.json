@@ -1,0 +1,62 @@
+{
+    "name": "beef love tofu ",
+    "Food_Item_UUID": "303cce94-9539-4951-a56a-e2a8d866f178",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "angus beef pepper peppercorn and tofu.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Peppery"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Mushroomy",
+            "Peppery"
+        ],
+        "Texture": [
+            "Tender",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FF9900",
+            "#FFFFFF",
+            "#E0E0D1"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Vegan",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA",
+            "Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Pan-Seared"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

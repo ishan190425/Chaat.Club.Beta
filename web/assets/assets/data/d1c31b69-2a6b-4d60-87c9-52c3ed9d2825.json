@@ -1,0 +1,55 @@
+{
+    "name": "onion uthappam",
+    "Food_Item_UUID": "d1c31b69-2a6b-4d60-87c9-52c3ed9d2825",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thick rice and lentil pancake topped with onions",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Oniony",
+            "Savory"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F2C464",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Glutenfree"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "India/South Indian"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grilled/Pan-fried'], ",
+            "Course': ['Breakfast/Starters']"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

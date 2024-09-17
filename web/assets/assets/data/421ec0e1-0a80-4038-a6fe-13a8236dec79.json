@@ -1,0 +1,59 @@
+{
+    "name": "n pad mama",
+    "Food_Item_UUID": "421ec0e1-0a80-4038-a6fe-13a8236dec79",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "mama wheat flour noodle egg batter onion cabbage carrot and chinese broccoli ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Wheat",
+            "Eggish"
+        ],
+        "Texture": [
+            "Chewy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFF599",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Side dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

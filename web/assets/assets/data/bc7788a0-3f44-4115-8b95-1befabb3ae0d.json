@@ -1,0 +1,56 @@
+{
+    "name": "guacamole",
+    "Food_Item_UUID": "bc7788a0-3f44-4115-8b95-1befabb3ae0d",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": " propriety seasonings tomato cilantro onion and jalapeno.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Herbaceous",
+            "Peppery"
+        ],
+        "Texture": [
+            "Smooth",
+            "Fresh"
+        ],
+        "Visual_Color": [
+            "#008000"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer"
+        ],
+        "Cooking_Method": [
+            "Mashed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

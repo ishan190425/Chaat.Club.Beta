@@ -1,0 +1,56 @@
+{
+    "name": "kids meal",
+    "Food_Item_UUID": "b5e634c5-770b-406e-9b44-297e65b43350",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "chicken ramen with green onion and corn chicken chashu rice crispy chicken french fries orange slice candy and vanilla ice cream.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Savory",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crispy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork-free",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Carb"
+        ],
+        "Country_Origin": [
+            "Asian"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

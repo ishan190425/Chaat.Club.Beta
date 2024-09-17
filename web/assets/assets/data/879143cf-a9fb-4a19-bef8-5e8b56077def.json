@@ -1,0 +1,54 @@
+{
+    "name": "rock roll",
+    "Food_Item_UUID": "879143cf-a9fb-4a19-bef8-5e8b56077def",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "an exquisite composition of masago shrimp tempura avocado and cucumber all elegantly encased. delight in the creamy mayo and satisfying crunch harmoniously crowned with a touch of unagi.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Creamy"
+        ],
+        "Aroma": [
+            "Rich",
+            "Delicate"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Fish",
+            "Shellfish"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "Asian"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

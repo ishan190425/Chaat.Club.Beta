@@ -1,0 +1,36 @@
+{
+    "name": "add sides",
+    "Food_Item_UUID": "2a6ead28-a24e-4605-8ff9-420d2ad8a8ae",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": null,
+        "Aroma": null,
+        "Texture": [
+            "Fried",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FF0000",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

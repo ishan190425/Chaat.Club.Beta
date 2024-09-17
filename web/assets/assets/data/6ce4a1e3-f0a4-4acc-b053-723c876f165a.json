@@ -1,0 +1,54 @@
+{
+    "name": "lemonade",
+    "Food_Item_UUID": "6ce4a1e3-f0a4-4acc-b053-723c876f165a",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "minute maid ml",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Tart"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Slightly Sweet"
+        ],
+        "Texture": [
+            "Thick",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Transparent",
+            "#FFFF00"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Calorie-Dense"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Anytime",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Bottled",
+            "Shelf-Stable"
+        ],
+        "Course": [
+            "Beverage"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

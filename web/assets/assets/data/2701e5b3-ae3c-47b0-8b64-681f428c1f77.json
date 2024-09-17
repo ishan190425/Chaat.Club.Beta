@@ -1,0 +1,58 @@
+{
+    "name": "black mediterranean mussels",
+    "Food_Item_UUID": "2701e5b3-ae3c-47b0-8b64-681f428c1f77",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "spicy salumi white wine garlic butter fresh herbs grilled bread",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Garlicky",
+            "Buttery"
+        ],
+        "Texture": [
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "France",
+            "Itlay",
+            "Greece"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course",
+            "Celebration"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

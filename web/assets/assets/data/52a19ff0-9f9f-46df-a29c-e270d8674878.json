@@ -1,0 +1,53 @@
+{
+    "name": "borgo scopeto chianti classico",
+    "Food_Item_UUID": "52a19ff0-9f9f-46df-a29c-e270d8674878",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " . abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Wine-like"
+        ],
+        "Texture": [
+            "Soft",
+            "Complex"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#E4D6A3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Antioxidants"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wine Tasting",
+            "Romantic Dinner"
+        ],
+        "Cooking_Method": [
+            "Aged"
+        ],
+        "Course": [
+            "Wine"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "general tso s chicken ",
+    "Food_Item_UUID": "75e0a3c3-d892-47c1-8594-121a47e85f72",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "broccoli dark meat chicken .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Sweet"
+        ],
+        "Texture": [
+            "Crispy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Spicy"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "GlutenFree",
+            "Vegetarian",
+            "PeanutFree"
+        ],
+        "Nutrition": [
+            "LowFat",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "DeepFried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

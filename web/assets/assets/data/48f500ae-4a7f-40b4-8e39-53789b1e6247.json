@@ -1,0 +1,54 @@
+{
+    "name": "soya vinaigrette sauce oz",
+    "Food_Item_UUID": "48f500ae-4a7f-40b4-8e39-53789b1e6247",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Soy"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Fruity"
+        ],
+        "Texture": [
+            "Thin",
+            "Liquid"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#F2C464"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Not Provided"
+        ],
+        "Occasions": [
+            "None"
+        ],
+        "Cooking_Method": [
+            "Not Provided"
+        ],
+        "Course": [
+            "Condiment",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

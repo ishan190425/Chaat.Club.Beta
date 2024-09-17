@@ -1,0 +1,55 @@
+{
+    "name": "dark chocolate budino",
+    "Food_Item_UUID": "b8c008f9-5393-44fd-9a34-267370f120cd",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "whipped cr me fraiche chocolate pearls amarena cherries pine nut wedding cookie",
+    "Flavor_Profile": {
+        "Taste": [
+            "Rich",
+            "Swoon"
+        ],
+        "Aroma": [
+            "Sweet",
+            "Chocolaty"
+        ],
+        "Texture": [
+            "Smooth",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#964B00",
+            "#330000"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Fatty",
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Wedding"
+        ],
+        "Cooking_Method": [
+            "Mixed"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

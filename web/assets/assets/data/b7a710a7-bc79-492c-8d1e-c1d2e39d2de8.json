@@ -1,0 +1,56 @@
+{
+    "name": "calamari fritti",
+    "Food_Item_UUID": "b7a710a7-bc79-492c-8d1e-c1d2e39d2de8",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "house giardiniera sugo calabrian aioli grilled lemon",
+    "Flavor_Profile": {
+        "Taste": [
+            "Salty",
+            "Savory"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "Low-Vitamin A"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried",
+            "Grilled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

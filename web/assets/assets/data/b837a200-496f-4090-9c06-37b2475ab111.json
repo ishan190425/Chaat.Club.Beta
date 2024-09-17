@@ -1,0 +1,63 @@
+{
+    "name": "family oz fajitas",
+    "Food_Item_UUID": "b837a200-496f-4090-9c06-37b2475ab111",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "served with caramelized onions peppers rice beans sour cream shredded cheese guacamole and pico de gallo",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF",
+            "#8B4513",
+            "#8B0A1A"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Lactose intolerance",
+            "Gluten-free",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexican"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Panned"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

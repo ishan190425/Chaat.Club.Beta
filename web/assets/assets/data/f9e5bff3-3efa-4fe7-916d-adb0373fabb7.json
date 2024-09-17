@@ -1,0 +1,59 @@
+{
+    "name": "bisi belabath",
+    "Food_Item_UUID": "f9e5bff3-3efa-4fe7-916d-adb0373fabb7",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "riced cooked with lentils mixed vegetables",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Savory"
+        ],
+        "Texture": [
+            "Smooth",
+            "Thick"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free",
+            "Lactose-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Sodium"
+        ],
+        "Country_Origin": [
+            "India",
+            "Sri Lanka"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Potlucks"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Steaming"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

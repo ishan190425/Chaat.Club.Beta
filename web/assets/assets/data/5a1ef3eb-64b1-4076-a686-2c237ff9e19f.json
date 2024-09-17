@@ -1,0 +1,55 @@
+{
+    "name": "e pad peanut sauce",
+    "Food_Item_UUID": "5a1ef3eb-64b1-4076-a686-2c237ff9e19f",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with green bean broccoli cabbage onion and carrot",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Nutty",
+            "Sweet"
+        ],
+        "Texture": [
+            "Smooth",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#C6E3C0",
+            "#66B9FF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled-Stirred"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

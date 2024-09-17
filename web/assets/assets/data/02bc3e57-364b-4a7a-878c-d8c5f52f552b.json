@@ -1,0 +1,52 @@
+{
+    "name": "extra chicken",
+    "Food_Item_UUID": "02bc3e57-364b-4a7a-878c-d8c5f52f552b",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Meaty"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Juicy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#FFC0CB"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Poultry"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Snack",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted",
+            "Baked"
+        ],
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "hot diving fish ",
+    "Food_Item_UUID": "947e702e-425f-4825-8c49-2e7f7b8384e8",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "flounder green onion pepper peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Citrusy",
+            "Savory"
+        ],
+        "Aroma": [
+            "Fishy",
+            "Peppery"
+        ],
+        "Texture": [
+            "Flaky"
+        ],
+        "Visual_Color": [
+            "#FFC0CB",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Seafood"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "USA/International"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Baked",
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

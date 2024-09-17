@@ -1,0 +1,60 @@
+{
+    "name": "c green curry",
+    "Food_Item_UUID": "73e2a8f4-5d3f-4c57-946c-7a45b1d1d158",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "freshness with fresh herb bamboo shoots green bean and eggplant",
+    "Flavor_Profile": {
+        "Taste": [
+            "Zesty",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Fragrant",
+            "Green"
+        ],
+        "Texture": [
+            "Creamy",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#008000",
+            "#33CC99"
+        ],
+        "Spice_level": [
+            "High"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Calorie",
+            "Rich-in-Antioxidants"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Stir-Frying",
+            "Braising"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "ensalada fajita",
+    "Food_Item_UUID": "73a9e44f-5fe5-4f85-ad17-e248919e6d8c",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "marinated chopped chicken fajita mixed greens avocado bacon cotija cheese roasted corn tomato onions creamy cilantro",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Fruity"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

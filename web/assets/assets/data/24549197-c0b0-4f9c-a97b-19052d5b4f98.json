@@ -1,0 +1,62 @@
+{
+    "name": "colorful shredded pork ",
+    "Food_Item_UUID": "24549197-c0b0-4f9c-a97b-19052d5b4f98",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "bamboo shoots berkshire pork black ear green onion pepper peppercorn .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Savory"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Shredded"
+        ],
+        "Visual_Color": [
+            "#FFC040",
+            "#FFFF99",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Meat-Based"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "USA",
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Roasted",
+            "Stewed"
+        ],
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": " organic cauliflower pot ",
+    "Food_Item_UUID": "ffe62b64-4cf7-44eb-916f-b65e49707f22",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "berkshire pork cauliflower garlic ginger green onion thai chili ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Pungent",
+            "Savory"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FFC400"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "International/Global"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Side Dish",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Roasted"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

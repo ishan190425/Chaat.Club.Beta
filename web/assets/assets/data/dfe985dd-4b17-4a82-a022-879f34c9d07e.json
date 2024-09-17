@@ -1,0 +1,46 @@
+{
+    "name": "ghee podi uthappam",
+    "Food_Item_UUID": "dfe985dd-4b17-4a82-a022-879f34c9d07e",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Musty",
+            "Earthy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Savory"
+        ],
+        "Texture": [
+            "Crumbly",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F5F5DC",
+            "#E6DAC3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

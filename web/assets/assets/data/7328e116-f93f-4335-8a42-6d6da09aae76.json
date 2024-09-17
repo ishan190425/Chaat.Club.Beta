@@ -1,0 +1,59 @@
+{
+    "name": "n tom yum noodle soup",
+    "Food_Item_UUID": "7328e116-f93f-4335-8a42-6d6da09aae76",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "with shrimp squid and minced pork in a spicy broth topped with peanut",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Peanutty"
+        ],
+        "Texture": [
+            "Creamy",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "#",
+            "#"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Gluten",
+            "Milk",
+            "Soy",
+            "Tree Nuts"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

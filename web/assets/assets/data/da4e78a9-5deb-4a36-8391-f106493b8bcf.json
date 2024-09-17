@@ -1,0 +1,51 @@
+{
+    "name": "portillo malbec",
+    "Food_Item_UUID": "da4e78a9-5deb-4a36-8391-f106493b8bcf",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Slightly Sweet"
+        ],
+        "Aroma": [
+            "Wine-like",
+            "Berries"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Dark Red"
+        ],
+        "Spice_level": [
+            "Low"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Calories"
+        ],
+        "Country_Origin": [
+            "Argentina"
+        ],
+        "Occasions": [
+            "Wine Evening",
+            "Dinner Party"
+        ],
+        "Cooking_Method": [
+            "Bottle"
+        ],
+        "Course": [
+            "After Dinner"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

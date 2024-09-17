@@ -1,0 +1,54 @@
+{
+    "name": "plain dosa",
+    "Food_Item_UUID": "fe595a22-bc27-473e-8e1c-7b8d601ce87a",
+    "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
+    "Description": "thin crispy rice and lentil crepe",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#F2DEDE"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Calorie"
+        ],
+        "Country_Origin": [
+            "India",
+            "Southeast Asia"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Pan-fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

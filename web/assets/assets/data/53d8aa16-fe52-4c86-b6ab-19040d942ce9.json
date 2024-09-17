@@ -1,0 +1,53 @@
+{
+    "name": "villa matilde greco di tufo",
+    "Food_Item_UUID": "53d8aa16-fe52-4c86-b6ab-19040d942ce9",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": " abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Fruity",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fruity",
+            "Floral"
+        ],
+        "Texture": [
+            "Soft",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Yellowish"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb",
+            "Refreshing"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Brunch",
+            "Picnic"
+        ],
+        "Cooking_Method": [
+            "Bottle Opened"
+        ],
+        "Course": [
+            "Aperitif"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

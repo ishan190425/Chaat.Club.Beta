@@ -1,0 +1,56 @@
+{
+    "name": "y larb",
+    "Food_Item_UUID": "94040f36-5b3b-40a7-a341-e36ecc4393c5",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "choice of ground chicken pork or beef with rice powder shallot cilantro lime chili and fish sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Herby"
+        ],
+        "Texture": [
+            "Chunky",
+            "Crisp"
+        ],
+        "Visual_Color": [
+            "#FF69B4",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Meat",
+            "Shellfish"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

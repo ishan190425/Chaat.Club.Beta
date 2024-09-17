@@ -1,0 +1,56 @@
+{
+    "name": "add cheese",
+    "Food_Item_UUID": "4e980cd7-48f0-48ee-85ff-0ed01ee70ca2",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Rich",
+            "Creamy"
+        ],
+        "Texture": [
+            "Melty",
+            "Velvety"
+        ],
+        "Visual_Color": [
+            "Golden",
+            "#F8E231"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy"
+        ],
+        "Nutrition": [
+            "Calorie-Dense",
+            "High-Carb"
+        ],
+        "Country_Origin": [
+            "Universal"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Melting"
+        ],
+        "Course": [
+            "Sides"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

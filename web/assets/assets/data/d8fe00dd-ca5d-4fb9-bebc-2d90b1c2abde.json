@@ -1,0 +1,61 @@
+{
+    "name": "add camarones rellenos",
+    "Food_Item_UUID": "d8fe00dd-ca5d-4fb9-bebc-2d90b1c2abde",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Peppery",
+            "Meaty"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#F7C4B8",
+            "#999900"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Gluten"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Healthy"
+        ],
+        "Country_Origin": [
+            "Mixed",
+            "Mexican"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Saut\u00e9ed"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

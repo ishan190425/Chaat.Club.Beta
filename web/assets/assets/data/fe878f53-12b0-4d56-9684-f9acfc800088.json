@@ -1,0 +1,57 @@
+{
+    "name": "tampiquena",
+    "Food_Item_UUID": "fe878f53-12b0-4d56-9684-f9acfc800088",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "cheese enchilada petite carne asada steak tequila peppercorn sauce grilled cotija guacamole",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Rich"
+        ],
+        "Aroma": [
+            "Cheesy",
+            "Meaty",
+            "Herby"
+        ],
+        "Texture": [
+            "Tender",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FF7F3A",
+            "#6495ED"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Dairy"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

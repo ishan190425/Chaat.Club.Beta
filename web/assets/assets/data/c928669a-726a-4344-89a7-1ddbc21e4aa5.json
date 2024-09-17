@@ -1,0 +1,58 @@
+{
+    "name": "vegan kids meal",
+    "Food_Item_UUID": "c928669a-726a-4344-89a7-1ddbc21e4aa5",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "vegan rice bowl vegan ramen vegan tacos edamame green salad mix boiled vegetables orange slice",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Vegetarian"
+        ],
+        "Aroma": [
+            "Earthly",
+            "Fresh"
+        ],
+        "Texture": [
+            "Smooth",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Brown",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Fiber",
+            "Low-Cholesterol"
+        ],
+        "Country_Origin": [
+            "Global Fare"
+        ],
+        "Occasions": [
+            "Quick Meal",
+            "Family Dinner"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Grilled"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

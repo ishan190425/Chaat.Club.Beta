@@ -1,0 +1,55 @@
+{
+    "name": "hot eda mommy",
+    "Food_Item_UUID": "75cd868a-3e7f-4f88-b74e-da44f110442f",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "edamame with a kick saut ed with garlic and chili paste.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Pungent",
+            "Garlicky"
+        ],
+        "Texture": [
+            "Soft",
+            "Tender"
+        ],
+        "Visual_Color": [
+            "Green",
+            "#FF69B4"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan-Friendly"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Appetizer",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Sauted",
+            "Stir-Fried"
+        ],
+        "Course": [
+            "Starters"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

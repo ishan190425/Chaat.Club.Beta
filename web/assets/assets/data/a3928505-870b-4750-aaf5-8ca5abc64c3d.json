@@ -1,0 +1,54 @@
+{
+    "name": "a autumn shrimp rolls ",
+    "Food_Item_UUID": "a3928505-870b-4750-aaf5-8ca5abc64c3d",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crispy roll with shrimp and potato served with sweet sour sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Sour"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crispy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC499",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten",
+            "Shellfish"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

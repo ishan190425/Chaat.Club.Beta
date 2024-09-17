@@ -1,0 +1,56 @@
+{
+    "name": "tiramisu cake",
+    "Food_Item_UUID": "631738c4-fad3-47dd-83ed-fa67284e94c8",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet"
+        ],
+        "Aroma": [
+            "Vanilla",
+            "Cocoa"
+        ],
+        "Texture": [
+            "Creamy",
+            "Light"
+        ],
+        "Visual_Color": [
+            "#F5DEB3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Dairy",
+            "Gluten",
+            "Milk"
+        ],
+        "Nutrition": [
+            "High-Calorie"
+        ],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch",
+            "Dessert"
+        ],
+        "Cooking_Method": [
+            "Assembly"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

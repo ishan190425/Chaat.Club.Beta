@@ -1,0 +1,56 @@
+{
+    "name": "downtown",
+    "Food_Item_UUID": "a2553840-c033-44a2-beb7-53325cd76bcb",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "raw. masago scallions tuna salmon yellowtail avocado.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Delicious",
+            "Savory"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Fishy"
+        ],
+        "Texture": [
+            "Creamy",
+            "Rich"
+        ],
+        "Visual_Color": [
+            "#FFFFF0",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Unknown"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Entertaining"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Fresh"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

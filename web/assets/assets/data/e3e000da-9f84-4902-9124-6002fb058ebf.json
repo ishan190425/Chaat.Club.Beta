@@ -1,0 +1,53 @@
+{
+    "name": "c yellow curry",
+    "Food_Item_UUID": "e3e000da-9f84-4902-9124-6002fb058ebf",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "the mild set with potato and carrot ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Mild",
+            "Creamy"
+        ],
+        "Aroma": [
+            "Fragrant",
+            "Spicy"
+        ],
+        "Texture": [
+            "Smooth",
+            "Crispy"
+        ],
+        "Visual_Color": [
+            "#FFD700",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Southeast Asia"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Stir-Fried"
+        ],
+        "Course": []
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

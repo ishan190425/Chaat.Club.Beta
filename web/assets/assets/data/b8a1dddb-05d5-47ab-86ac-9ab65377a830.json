@@ -1,0 +1,55 @@
+{
+    "name": "fish love tofu ",
+    "Food_Item_UUID": "b8a1dddb-05d5-47ab-86ac-9ab65377a830",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "dry red pepper flounder peppercorn tofu ",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Fishy"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Mildly Firm"
+        ],
+        "Visual_Color": [
+            "Red"
+        ],
+        "Spice_level": [
+            "Moderate"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [
+            "High-Protein"
+        ],
+        "Country_Origin": [
+            "Various"
+        ],
+        "Occasions": [
+            "Any Time"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Baked"
+        ],
+        "Course": [
+            "Appetizer",
+            "Entree"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

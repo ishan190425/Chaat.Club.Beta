@@ -1,0 +1,63 @@
+{
+    "name": "s thai wonton soup",
+    "Food_Item_UUID": "b5e5faad-5826-4adb-9926-74cc37381452",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "homemade hand stuffed with shrimp and chicken",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Savory",
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft",
+            "Delicate",
+            "Soup-like"
+        ],
+        "Visual_Color": [
+            "White",
+            "Bisque"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Chicken",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Sodium",
+            "Heart-Healthy"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Special Event"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Pan-Fried",
+            "Wok-Cooked"
+        ],
+        "Course": [
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

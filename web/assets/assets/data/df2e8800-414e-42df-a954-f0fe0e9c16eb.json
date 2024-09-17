@@ -1,0 +1,60 @@
+{
+    "name": "new orleans",
+    "Food_Item_UUID": "df2e8800-414e-42df-a954-f0fe0e9c16eb",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "cooked. fried crawfish cream cheese and snow crab rolled and topped with crunchy bits drizzled with sweet unagi.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Rich",
+            "Spicy"
+        ],
+        "Aroma": [
+            "Seafood",
+            "Spicy",
+            "Rich"
+        ],
+        "Texture": [
+            "Crunchy",
+            "Soft",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "MediumHot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Shellfish",
+            "Gluten"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [
+            "United States"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Snack",
+            "Party Food"
+        ],
+        "Cooking_Method": [
+            "Fried",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

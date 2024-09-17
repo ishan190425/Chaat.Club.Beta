@@ -1,0 +1,54 @@
+{
+    "name": "espresso martini",
+    "Food_Item_UUID": "4f36164b-28b6-4102-9bfc-91ae2d8a55b8",
+    "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
+    "Description": "serves . fz abv",
+    "Flavor_Profile": {
+        "Taste": [
+            "Bitter",
+            "Rich"
+        ],
+        "Aroma": [
+            "Coffeelike",
+            "Sweet"
+        ],
+        "Texture": [
+            "Creamy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "#333",
+            "#444"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low-Calorie",
+            "High-Protein"
+        ],
+        "Country_Origin": [],
+        "Occasions": [
+            "Party",
+            "Social Gathering"
+        ],
+        "Cooking_Method": [
+            "Shake"
+        ],
+        "Course": [
+            "Dessert"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

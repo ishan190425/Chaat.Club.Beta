@@ -1,0 +1,57 @@
+{
+    "name": "a spring rolls ",
+    "Food_Item_UUID": "4dc57b1a-d2fb-4618-8def-53561dc492cb",
+    "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
+    "Description": "crispy roll stuffed with vegetables crystal noodles served with sweet sour sauce",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [
+            "Veggie-Forward",
+            "Fruity"
+        ],
+        "Texture": [
+            "Crispy",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "#FFC107",
+            "#8BC34A"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Gluten-free",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Party"
+        ],
+        "Cooking_Method": [
+            "Deep Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

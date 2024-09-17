@@ -1,0 +1,56 @@
+{
+    "name": "dry fried green beans ",
+    "Food_Item_UUID": "03fc79cc-845e-4fc6-b965-9ec48cf0acd8",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "garlic green bean.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Garlicky"
+        ],
+        "Aroma": [
+            "Pungent"
+        ],
+        "Texture": [
+            "Firm",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#33CC33",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Worldwide"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Pan-Fried"
+        ],
+        "Course": [
+            "Side dish"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

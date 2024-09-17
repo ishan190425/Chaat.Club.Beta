@@ -1,0 +1,60 @@
+{
+    "name": "medium oz fajitas",
+    "Food_Item_UUID": "71c82982-db1c-4c7e-9952-e88e915bf135",
+    "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
+    "Description": "served with caramelized onions peppers rice beans sour cream shredded cheese guacamole and pico de gallo",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Beefy"
+        ],
+        "Aroma": [
+            "Meaty",
+            "Spicy"
+        ],
+        "Texture": [
+            "Tender",
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF",
+            "#8B4513"
+        ],
+        "Spice_level": [
+            "Medium"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Low-Fat"
+        ],
+        "Country_Origin": [
+            "Mexican"
+        ],
+        "Occasions": [
+            "Appetizer",
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Saut\u00e9ed"
+        ],
+        "Course": [
+            "Main Course",
+            "Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

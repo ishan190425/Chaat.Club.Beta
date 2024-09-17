@@ -1,0 +1,44 @@
+{
+    "name": "pocky tasty chocolate ",
+    "Food_Item_UUID": "1909a86a-d6ea-42ae-a32a-15e903546e29",
+    "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
+    "Description": "pocky is about sharing happiness and bringing people together. the perfect balance of high quality creamy chocolate and the crunch of a biscuit stick gives pocky its irresistible taste",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sweet",
+            "Creamy"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Crunchy",
+            "Creamy"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#FFFFFF"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Gluten-Free"
+        ],
+        "Nutrition": [],
+        "Country_Origin": null,
+        "Occasions": [
+            "Snack",
+            "Party"
+        ],
+        "Cooking_Method": null,
+        "Course": null
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

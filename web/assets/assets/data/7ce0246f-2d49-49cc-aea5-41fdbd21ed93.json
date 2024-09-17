@@ -1,0 +1,58 @@
+{
+    "name": "pork soboro spicy ground pork ",
+    "Food_Item_UUID": "7ce0246f-2d49-49cc-aea5-41fdbd21ed93",
+    "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
+    "Description": "No Description Provided",
+    "Flavor_Profile": {
+        "Taste": [
+            "Spicy",
+            "Meaty"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Savory"
+        ],
+        "Texture": [
+            "Tender",
+            "Crumbly"
+        ],
+        "Visual_Color": [
+            "Light Brown",
+            "#E5DEB7"
+        ],
+        "Spice_level": [
+            "Hot"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Pork"
+        ],
+        "Nutrition": [
+            "High-Protein",
+            "Rich in Fat"
+        ],
+        "Country_Origin": [
+            "Various (Can be from multiple countries depending on the variation of ground pork)"
+        ],
+        "Occasions": [
+            "Snack",
+            "Appetizer",
+            "Main Course"
+        ],
+        "Cooking_Method": [
+            "Pan-fry"
+        ],
+        "Course": [
+            "Main Course",
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

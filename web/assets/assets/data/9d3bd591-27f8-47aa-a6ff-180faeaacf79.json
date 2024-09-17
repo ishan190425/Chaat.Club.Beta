@@ -1,0 +1,53 @@
+{
+    "name": " . mama s dumplings vegetable ",
+    "Food_Item_UUID": "9d3bd591-27f8-47aa-a6ff-180faeaacf79",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "vegetable. chinese cabbage vermicelli fungus and carrot.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Savory",
+            "Umami"
+        ],
+        "Aroma": [],
+        "Texture": [
+            "Vinegar",
+            "Mushy",
+            "Soft"
+        ],
+        "Visual_Color": [
+            "#FFC080",
+            "#E5D8B6"
+        ],
+        "Spice_level": []
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "China"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Special Occasion"
+        ],
+        "Cooking_Method": [
+            "Steamed",
+            "Boiled"
+        ],
+        "Course": [
+            "Side Course"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

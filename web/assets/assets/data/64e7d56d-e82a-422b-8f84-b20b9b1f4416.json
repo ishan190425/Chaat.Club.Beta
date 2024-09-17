@@ -1,0 +1,56 @@
+{
+    "name": "juice a",
+    "Food_Item_UUID": "64e7d56d-e82a-422b-8f84-b20b9b1f4416",
+    "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
+    "Description": "apple kale celery and lemon.",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Green"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Citrusy"
+        ],
+        "Texture": [
+            "Thin",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "#FF69B4",
+            "#E6DAC3"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "High-Fiber"
+        ],
+        "Country_Origin": [
+            "USA"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Snack"
+        ],
+        "Cooking_Method": [
+            "Blended"
+        ],
+        "Course": [
+            "Healthy Snack"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}

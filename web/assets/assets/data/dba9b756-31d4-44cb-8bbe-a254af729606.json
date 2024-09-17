@@ -1,0 +1,56 @@
+{
+    "name": "sweetsour cucumber ",
+    "Food_Item_UUID": "dba9b756-31d4-44cb-8bbe-a254af729606",
+    "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
+    "Description": "cucumber pepper .",
+    "Flavor_Profile": {
+        "Taste": [
+            "Sour",
+            "Sweet"
+        ],
+        "Aroma": [
+            "Fresh",
+            "Green"
+        ],
+        "Texture": [
+            "Crisp",
+            "Refreshing"
+        ],
+        "Visual_Color": [
+            "#FFFFFF",
+            "#34C759"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
+    },
+    "Societal_Properties": {
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
+        "Nutrition": [
+            "Low-Carb"
+        ],
+        "Country_Origin": [
+            "Global"
+        ],
+        "Occasions": [
+            "Snack",
+            "Salad"
+        ],
+        "Cooking_Method": [
+            "Raw",
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
+    },
+    "Food_History": {
+        "Likes": [],
+        "Comments": [],
+        "Reviews": [],
+        "Amt_bought": [],
+        "Promoted": []
+    }
+}
