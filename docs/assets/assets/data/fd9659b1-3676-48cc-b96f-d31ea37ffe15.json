@@ -6,42 +6,30 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Savory"
+            "Salty"
         ],
         "Aroma": [
-            "Citrusy",
-            "Meaty"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Stringy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Orange",
-            "#FFA07A"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Pan-Fry"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

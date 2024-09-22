@@ -5,27 +5,26 @@
     "Description": "pork broth pork chashu spicy bean sprouts kikurage may be substituted with spinach based on availability. green onion and spicy sauce served with thick noodles choose your spice level mild spicy or hot ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
             "Spicy"
         ],
         "Texture": [
-            "Starchy",
-            "Thick"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC400"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Spicy"
+            "Mild",
+            "Hot",
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Calorie"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
@@ -34,8 +33,7 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Served"
+            "Boiled"
         ],
         "Course": [
             "Main Course"

@@ -4,52 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "apple parsley jalapeno celery lemon orange.",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fresh",
-            "Citrusy",
-            "Spicy"
+            "Fruity"
         ],
-        "Texture": [
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#FBEFCE",
-            "#8B9467",
-            "#FFC080",
-            "#F7DE3E"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Refreshing",
-            "Rejuvenating"
-        ],
-        "Country_Origin": [
-            "USA",
-            "Other Countries"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack",
-            "Any Time"
-        ],
-        "Cooking_Method": [
-            "Squeezed",
-            "Blended"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Palate Cleanser"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,31 +5,26 @@
     "Description": " abv",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet"
         ],
         "Aroma": [
-            "Savory",
+            "Earthy",
             "Fruity"
         ],
         "Texture": [
-            "Rich",
-            "Buttery"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Burgundy",
-            "#FFC080"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Wheat",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Carb"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Italy"
@@ -39,10 +34,9 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Slow Cooked"
+            "Boiled"
         ],
         "Course": [
-            "Main Course",
             "Side Dish"
         ]
     },

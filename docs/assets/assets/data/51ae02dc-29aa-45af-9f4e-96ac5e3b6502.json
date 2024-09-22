@@ -5,38 +5,18 @@
     "Description": "serves . fz abv",
     "Flavor_Profile": {
         "Taste": null,
-        "Aroma": [
-            "Sweet",
-            "Fruity"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FFFF00",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": null,
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Party",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "None"
-        ],
-        "Course": [
-            "Dessert"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

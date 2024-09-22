@@ -4,45 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Sweet"
-        ],
-        "Aroma": null,
-        "Texture": [
-            "Tender",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "#F2C464",
-            "#FF9900",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Spicy",
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Thailand"
-        ],
-        "Occasions": [
-            "Snack",
-            "Travel"
-        ],
-        "Cooking_Method": [
-            "Air-dried"
-        ],
-        "Course": [
-            "Snack"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

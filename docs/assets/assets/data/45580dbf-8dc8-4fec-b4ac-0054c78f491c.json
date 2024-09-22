@@ -5,42 +5,29 @@
     "Description": " . abv",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Honeyed"
+            "Floral"
         ],
         "Texture": [
-            "Crunchy",
-            " Refreshing"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Golden",
-            "Caramel"
+            "White"
         ],
-        "Spice_level": [
-            "Mellow"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Not specified"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
-        "Occasions": [
-            "Appetizer",
-            "After Dinner"
-        ],
-        "Cooking_Method": [
-            "Chilled"
-        ],
-        "Course": [
-            "Dessert"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

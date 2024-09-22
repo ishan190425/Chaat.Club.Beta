@@ -7,42 +7,25 @@
         "Taste": [
             "Sweet"
         ],
-        "Aroma": [
-            "Fruity"
-        ],
-        "Texture": [
-            "Thick",
-            "Refreshing"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "Transparent",
-            "#C5D7E3"
+            "Brown"
         ],
-        "Spice_level": [
-            "None"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "USA"
         ],
         "Occasions": [
-            "Anytime",
-            "Party"
+            "Anytime"
         ],
-        "Cooking_Method": [
-            "Blend",
-            "Bottled"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Drink"
+            "Side Dish"
         ]
     },
     "Food_History": {

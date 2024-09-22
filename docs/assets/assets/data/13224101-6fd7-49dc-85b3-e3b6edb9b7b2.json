@@ -5,47 +5,39 @@
     "Description": "bucatini speck mozzarella provolone english pea spicy vodka sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami",
+            "Salty"
         ],
-        "Aroma": [
-            "Meaty",
-            "Cheesy",
-            "Spicy",
-            "Herbaceous"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Crunchy",
-            "Soft"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FFC080"
+            "White",
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Medium-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course",
-            "Brunch"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Mixed (Fried/Baked)"
+            "Boiled"
         ],
-        "Course": []
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

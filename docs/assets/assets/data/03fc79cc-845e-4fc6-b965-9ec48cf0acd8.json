@@ -4,46 +4,30 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "garlic green bean.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Garlicky"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Pungent"
+            "Earthy"
         ],
         "Texture": [
-            "Firm",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#33CC33",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Worldwide"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Side Dish"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Frying"
         ],
         "Course": [
-            "Side dish"
+            "Side Dish"
         ]
     },
     "Food_History": {

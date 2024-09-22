@@ -5,45 +5,35 @@
     "Description": "italian sausage crispy pancetta shaved garlic torn basil grana padano",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Meaty",
-            "Cheesy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Chewy",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "White"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
+            "Pan fried",
             "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

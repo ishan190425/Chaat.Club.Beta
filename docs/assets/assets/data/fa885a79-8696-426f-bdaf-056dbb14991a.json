@@ -4,44 +4,19 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "parmesan fonduta fresh horseradish wilted arugula herb breadcrumb",
     "Flavor_Profile": {
-        "Taste": [
-            "Rich",
-            "Umami"
-        ],
-        "Aroma": [
-            "Savory",
-            "Wheaty"
-        ],
-        "Texture": [
-            "Tender",
-            "Fall-Apart"
-        ],
-        "Visual_Color": [
-            "Red",
-            "Brown"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Braised"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

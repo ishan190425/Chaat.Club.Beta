@@ -5,44 +5,38 @@
     "Description": "fluffy basmati rice cooked with green peas and mild indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Mild"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Lightly Spiced",
-            "Green Pea-like"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Fluffy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#C6E2B5"
+            "White",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose-Free",
-            "Vegan",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
             "Boiled",
-            "Stir-fried"
+            "Steamed"
         ],
         "Course": [
             "Main Course"

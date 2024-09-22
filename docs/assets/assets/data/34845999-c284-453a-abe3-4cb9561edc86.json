@@ -4,48 +4,19 @@
     "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
     "Description": "raw. spicy tuna avocado and cucumber rolled and topped with fresh salmon.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Fishy",
-            "Fruity"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#5C3B9A",
-            "#FFFFFF",
-            "#8EC63E"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Raw"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japanese"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Rolloed"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

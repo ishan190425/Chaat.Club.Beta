@@ -4,24 +4,21 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": null,
-        "Aroma": null,
-        "Texture": null,
-        "Visual_Color": null,
-        "Spice_level": null
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": null,
-        "Occasions": [
-            "Various"
-        ],
-        "Cooking_Method": [
-            "Utensils"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Variable"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

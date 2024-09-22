@@ -4,46 +4,32 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty"
-        ],
-        "Aroma": [
-            "Herby",
-            "Spicy"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Juicy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lamb"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Greece"
         ],
         "Occasions": [
-            "Street Food",
-            "Festival",
-            "Party"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pita Baked"
+            "Grilled"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

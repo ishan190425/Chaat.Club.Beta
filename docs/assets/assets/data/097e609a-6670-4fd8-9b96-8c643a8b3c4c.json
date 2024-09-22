@@ -4,42 +4,22 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "with smoked chili sauce and green bean",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Chili-Like",
-            "Smoky"
-        ],
-        "Texture": [
-            "Crispy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#FF0000",
-            "#008000"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Thailand"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Stir fry"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

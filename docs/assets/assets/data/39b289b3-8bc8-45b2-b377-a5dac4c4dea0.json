@@ -5,46 +5,37 @@
     "Description": "spicy thin rice crepe with spices onions and potatoes",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Salty"
         ],
         "Aroma": [
-            "Pungent",
-            "Fruity"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Thin",
-            "Crispy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#F2BCE4",
-            "#FFC499"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium-Hot"
+            "Hot"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegan"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "India/South Asia"
+            "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Snack"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

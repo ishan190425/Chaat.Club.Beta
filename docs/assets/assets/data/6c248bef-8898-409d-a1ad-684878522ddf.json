@@ -4,40 +4,20 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "serves . fz abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Sweet"
-        ],
+        "Taste": [],
         "Aroma": [],
-        "Texture": [
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#8BC34A",
-            "#F5F5F5"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Wine",
-            "Spirits"
-        ],
-        "Nutrition": [
-            "Calories"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Cocktail Party",
-            "Special Occasion"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [],
         "Course": [
-            "After Meal"
+            "Appetizer"
         ]
     },
     "Food_History": {

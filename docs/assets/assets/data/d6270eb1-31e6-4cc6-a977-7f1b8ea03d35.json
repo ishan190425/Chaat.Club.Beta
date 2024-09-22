@@ -4,46 +4,31 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "chicken and lamb with fries.",
     "Flavor_Profile": {
-        "Taste": [
-            "Meaty"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Mild"
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lamb",
-            "Chicken"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Greece",
-            "Middle East"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Dinner"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Baked"
+            "Grilled, Fries"
         ],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

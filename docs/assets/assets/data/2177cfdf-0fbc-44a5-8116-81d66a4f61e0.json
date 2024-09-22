@@ -5,46 +5,34 @@
     "Description": "batter fried mushrooms cooked in red chili paste and herbs",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Earthy",
-            "Fruity",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Appetizer",
-            "Party"
+            "Meal"
         ],
         "Cooking_Method": [
-            "Deep Frying"
+            "Frying"
         ],
         "Course": [
-            "App Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

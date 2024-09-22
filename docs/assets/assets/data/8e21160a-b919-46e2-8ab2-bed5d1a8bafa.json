@@ -5,7 +5,8 @@
     "Description": "thick rice and lentil pancake with pease",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet",
+            "Salty"
         ],
         "Aroma": [
             "Earthy",
@@ -16,33 +17,27 @@
             "Smooth"
         ],
         "Visual_Color": [
-            "Green",
-            "#FFC400"
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Snack"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Puffed"
+            "Pan-fried"
         ],
         "Course": [
-            "Side dish"
+            "Side Dish"
         ]
     },
     "Food_History": {

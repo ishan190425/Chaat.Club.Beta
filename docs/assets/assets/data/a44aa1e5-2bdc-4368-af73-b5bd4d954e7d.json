@@ -5,37 +5,26 @@
     "Description": "roasted fennel broccolini snap pea rainbow cauliflower fingerling potatoes cipollini lemon caper butter",
     "Flavor_Profile": {
         "Taste": [
-            "Buttery",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Herbaceous",
-            "Citrusy"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Smooth"
         ],
         "Visual_Color": [
             "Green",
-            "#FFFFFF",
-            "#8888FF"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"

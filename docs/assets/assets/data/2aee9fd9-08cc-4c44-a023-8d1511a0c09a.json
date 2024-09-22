@@ -5,43 +5,30 @@
     "Description": "crystal noodle with egg batter carrot onion tomato and mushroom",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Herby",
-            "Earthy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Springy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Unknown"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Stirred"
+            "Fried"
         ],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

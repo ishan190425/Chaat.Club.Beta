@@ -5,39 +5,69 @@
     "Description": " abv",
     "Flavor_Profile": {
         "Taste": [
-            "Fruity"
+            "Sweet",
+            "Sour",
+            "Salty",
+            "Bitter",
+            "Umami"
         ],
         "Aroma": [
-            "Vineous",
-            "Fruity"
+            "Fruity",
+            "Floral",
+            "Earthy",
+            "Spicy",
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Crisp",
-            "Light"
+            "Crunchy",
+            "Soft",
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFD7BE",
-            "#FFFFFF"
+            "Red",
+            "Yellow",
+            "Green",
+            "Brown",
+            "White"
         ],
         "Spice_level": [
-            "Mild"
+            "Mild",
+            "Medium",
+            "Hot",
+            "Extra Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [],
+        "Dietary_restrictions": [
+            "Vegan",
+            "Vegetarian",
+            "Halal",
+            "Kosher"
+        ],
         "Nutrition": [],
         "Country_Origin": [
-            "Italy"
+            "USA",
+            "Japan",
+            "India",
+            "China"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Birthday",
+            "Wedding",
+            "Anniversary",
+            "Holiday"
         ],
         "Cooking_Method": [
-            "Chilled"
+            "Grilling",
+            "Frying",
+            "Steaming",
+            "Roasting"
         ],
         "Course": [
-            "Entree"
+            "Appetizer",
+            "Main Course"
         ]
     },
     "Food_History": {

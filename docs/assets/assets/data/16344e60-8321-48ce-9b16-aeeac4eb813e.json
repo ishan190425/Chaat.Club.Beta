@@ -5,42 +5,39 @@
     "Description": "paste of spinach and peas cooked with yellow gravy",
     "Flavor_Profile": {
         "Taste": [
-            "Earthly"
+            "Umami"
         ],
         "Aroma": [
-            "Fresh",
-            "Green"
+            "Earthy",
+            "Fruity"
         ],
         "Texture": [
             "Smooth",
             "Soft"
         ],
         "Visual_Color": [
-            "#32CD32",
-            "#FFFFFF"
+            "Green",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Stewed"
+            "Boiled"
         ],
         "Course": [
+            "Side Dish",
             "Main Course"
         ]
     },

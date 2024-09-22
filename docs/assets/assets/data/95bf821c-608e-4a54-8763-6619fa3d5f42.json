@@ -5,45 +5,29 @@
     "Description": " . abv",
     "Flavor_Profile": {
         "Taste": [
-            "Fruity",
-            "Smokey"
+            "Sweet"
         ],
         "Aroma": [
-            "Tropical",
-            "Earthly"
+            "Earthy",
+            "Fruity"
         ],
-        "Texture": [
-            "Light",
-            "Refreshing"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#8B0A1A",
-            "#454534"
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose_Free",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Appetizer"
+            "Wine"
         ],
-        "Cooking_Method": [
-            "Chilled"
-        ],
-        "Course": [
-            "Desert"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

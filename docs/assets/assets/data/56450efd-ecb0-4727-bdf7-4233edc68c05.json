@@ -5,42 +5,36 @@
     "Description": "three chicken or ground beef crispy of soft",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Umami"
         ],
-        "Aroma": [
-            "Meaty",
-            "Fruity"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
+            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FFC400",
-            "#8B4513"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten"
+            "Vegetarian",
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Brunch",
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Pan-Seared"
+            "Baked"
         ],
         "Course": [
             "Main Course"

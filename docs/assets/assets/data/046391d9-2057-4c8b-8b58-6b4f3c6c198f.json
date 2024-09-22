@@ -5,50 +5,33 @@
     "Description": "spicy tuna in a crispy wonton taco shell topped with chilantro. pieces.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fishy",
-            "Spicy",
-            "Fresh"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#C5E2FF",
-            "#F57D30"
+            "White",
+            "Red"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "{} or Gluten-free wonton shells required"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Good Source of Omega-3"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "International fusion food"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course",
-            "Party Food"
-        ],
-        "Cooking_Method": [
-            "Pan-fried"
-        ],
-        "Course": [
-            "Appetizer",
-            "Main Course"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

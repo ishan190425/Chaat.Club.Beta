@@ -4,46 +4,24 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "bok choy.",
     "Flavor_Profile": {
-        "Taste": [
-            "Vegetal"
-        ],
-        "Aroma": [
-            "Earthly",
-            "Sweet"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Mild"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#34C759",
-            "#FFFFFF"
+            "Green"
         ],
-        "Spice_level": [
-            "None"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Side Dish"
-        ],
-        "Cooking_Method": [
-            "Steamed"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Side Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

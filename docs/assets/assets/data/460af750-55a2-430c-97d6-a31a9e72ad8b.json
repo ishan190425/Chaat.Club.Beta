@@ -5,38 +5,27 @@
     "Description": "fluffy basmati rice sauteed with mushroom and mild indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Mushy",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Fluffy",
-            "Slightly-Crisp"
+            "Chewy",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#F5DEB3"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Good-Fiber"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],

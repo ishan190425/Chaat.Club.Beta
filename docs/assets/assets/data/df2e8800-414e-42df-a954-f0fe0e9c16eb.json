@@ -5,49 +5,28 @@
     "Description": "cooked. fried crawfish cream cheese and snow crab rolled and topped with crunchy bits drizzled with sweet unagi.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Seafood",
-            "Spicy",
-            "Rich"
+            "Nutty",
+            "Fruity"
         ],
         "Texture": [
             "Crunchy",
-            "Soft",
-            "Creamy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "MediumHot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "United States"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Snack",
-            "Party Food"
-        ],
-        "Cooking_Method": [
-            "Fried",
-            "Boiled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

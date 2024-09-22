@@ -4,19 +4,43 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "the mild set with potato and carrot ",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
-        "Spice_level": []
+        "Taste": [
+            "Sweet",
+            "Umami"
+        ],
+        "Aroma": [
+            "Spicy",
+            "Earthy",
+            "Nutty"
+        ],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Yellow"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Nutrition": [
+            "High Protein"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Dinner",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Boiled"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

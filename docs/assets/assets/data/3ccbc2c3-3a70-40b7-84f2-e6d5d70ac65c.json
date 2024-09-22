@@ -5,46 +5,35 @@
     "Description": "baby greens kale broccoli white quinoa kidney beans and garbanzo beans tossed with sesame dressing garnished with corn and cherry tomatoes. vegetarian.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Nutty",
-            "Earthly"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crisp",
-            "Chewy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#34C759",
-            "#FFFFFF",
-            "#FFC080"
+            "Green",
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free",
-            "Vegan"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "International"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Brunch"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Tossed"
         ],
         "Course": [
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

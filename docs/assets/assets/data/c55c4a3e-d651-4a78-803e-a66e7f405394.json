@@ -6,40 +6,30 @@
     "Flavor_Profile": {
         "Taste": [
             "Sour",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Pork-Rib-like",
-            "Sour-Asian-Fusion"
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy",
-            "Meaty"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#E5B4D4",
-            "#8B0A1A"
+            "Brown"
         ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Asian-Inspired"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Braised"
+            "Grilled",
+            "Pan-fried"
         ],
         "Course": [
             "Main Course"

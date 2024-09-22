@@ -5,28 +5,22 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Bitter",
-            "Slightly Sweet"
+            "Bitter"
         ],
-        "Aroma": [
-            "Tea-like"
-        ],
-        "Texture": [
-            "Clear"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#964B00",
-            "#FFFFFF"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [],
+        "Occasions": [
+            "Anytime, Anywhere"
+        ],
         "Cooking_Method": [],
         "Course": []
     },

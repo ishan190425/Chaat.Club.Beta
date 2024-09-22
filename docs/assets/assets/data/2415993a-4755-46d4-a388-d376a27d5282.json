@@ -5,44 +5,26 @@
     "Description": "salumi pepperoni spicy sopressatta italian sausage",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Meaty"
-        ],
-        "Texture": [
-            "Crispy",
-            "Chewy"
-        ],
-        "Visual_Color": [
-            "Red",
-            "#F5DEB3"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Party Snack",
-            "Appetizer"
+            "Breakfast",
+            "Brunch"
         ],
-        "Cooking_Method": [
-            "Cured",
-            "Smoked"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

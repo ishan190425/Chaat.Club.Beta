@@ -4,43 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Vinegary"
-        ],
-        "Texture": [
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FF69B4"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Any Time"
-        ],
-        "Cooking_Method": [
-            "Thickened With Starch"
-        ],
-        "Course": [
-            "Condiment",
-            "Side Dish"
-        ]
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,45 +5,37 @@
     "Description": "poke marinated salmon and onion served over steamed rice and garnished with green onion and sesame seed.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Fishy",
             "Umami"
         ],
+        "Aroma": [
+            "Fruity",
+            "Cheesy"
+        ],
         "Texture": [
-            "Soft",
-            "Melt-in-mouth"
+            "Smooth",
+            "Soft"
         ],
         "Visual_Color": [
-            "Pinkish-Red",
-            "#FFFFFF"
+            "Red",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Hawaiian-Style"
+            "Japan"
         ],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Raw (Poke)",
-            "Grilled"
+            "Marinating",
+            "Grilling"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

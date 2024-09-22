@@ -5,45 +5,39 @@
     "Description": "choice of ground chicken pork or beef with rice powder shallot cilantro lime chili and fish sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Pungent",
-            "Herby"
+            "Spicy"
         ],
         "Texture": [
-            "Chunky",
-            "Crisp"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFF"
+            "Red",
+            "Green",
+            "Yellow"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Shellfish"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thailand"
+            "Thai"
         ],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Appetite-stimulating"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Stir-fried"
         ],
         "Course": [
-            "Entree"
+            "Main Course"
         ]
     },
     "Food_History": {

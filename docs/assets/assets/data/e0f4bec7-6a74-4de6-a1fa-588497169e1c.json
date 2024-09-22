@@ -4,19 +4,38 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "deliciously seasoned tilapia fish.",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
-        "Spice_level": []
+        "Taste": [
+            "Salty"
+        ],
+        "Aroma": [
+            "Spicy"
+        ],
+        "Texture": [
+            "Soft"
+        ],
+        "Visual_Color": [
+            "White"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
+        "Nutrition": [
+            "High Protein"
+        ],
         "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Occasions": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

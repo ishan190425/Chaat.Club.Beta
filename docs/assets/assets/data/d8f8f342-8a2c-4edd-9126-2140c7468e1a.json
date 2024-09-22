@@ -5,39 +5,34 @@
     "Description": "served with flavors chili tamarind sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fishy"
+            "Sweet"
         ],
         "Aroma": [
-            "Citrusy",
-            "Fruity"
+            "Floral",
+            "Earthy"
         ],
         "Texture": [
-            "Crunchy",
-            "Flaky"
+            "Soft"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FFD700"
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Seafood-Global"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried"
+            "Fried"
         ],
         "Course": [
             "Main Course"

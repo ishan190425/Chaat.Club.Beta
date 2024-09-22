@@ -5,44 +5,33 @@
     "Description": "batter fried mushrooms cooked in manchurian sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Fried",
-            "Spicy",
-            "Savory"
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
             "Soft"
         ],
         "Visual_Color": [
             "Brown",
-            "#FFC499"
+            "White"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Deep-Fried"
+            "Fried"
         ],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -5,48 +5,41 @@
     "Description": "cooked. shrimp tempura rolled and topped with kani drizzled with spicy mayo sweet unagi and sriracha.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Crispy",
-            "Sweet",
-            "Ummami"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Gooey",
-            "Soft"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFF599"
+            "White",
+            "Red"
         ],
         "Spice_level": [
-            "Spicy",
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
             "Japan"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Appetizer",
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
-            "Grilled"
+            "Deep-Fried"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

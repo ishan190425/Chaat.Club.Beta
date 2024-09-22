@@ -5,37 +5,32 @@
     "Description": "grilled marinated pork on skewer served with jaew sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Salty"
         ],
         "Aroma": [
-            "Meaty",
-            "Herby"
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Chewy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Thailand"
         ],
         "Occasions": [
             "Street Food",
-            "Party"
+            "BBQ"
         ],
         "Cooking_Method": [
             "Grilled"

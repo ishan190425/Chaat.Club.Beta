@@ -5,47 +5,27 @@
     "Description": "crispy fried dumplings filled with chicken and veggies and served with a homemade sweet and sour sauce.",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Sweet"
+            "Umami"
         ],
-        "Aroma": [
-            "Fried",
-            "Veggie"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden Brown",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork-Free",
-            "Shellfish-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Chinese-style"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Snack",
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Boiled"
+            "Fried"
         ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

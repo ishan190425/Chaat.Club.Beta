@@ -5,43 +5,34 @@
     "Description": "plant based bun impossible meat made from plants guacamole cucumber with vegan mayonnaise. vegetarian",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Creamy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Green"
+            "Fruity"
         ],
         "Texture": [
             "Soft",
-            "Fleshy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#B2FFFC",
-            "#8BC34A"
+            "Green",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
+            "Vegan",
+            "Vegetarian"
         ],
         "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Snack"
+        "Country_Origin": [
+            ""
         ],
-        "Cooking_Method": [
-            "Toast"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

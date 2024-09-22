@@ -5,41 +5,25 @@
     "Description": "minced of roasted brinjal sauteed with vegetables and flavored indian herbs",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Earthy",
-            "Herbaceous"
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Mushy"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#964B00",
-            "#666600"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Good-Source-Vitamin-K",
-            "Antioxidant-Rich"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
             "Sauteed"
         ],

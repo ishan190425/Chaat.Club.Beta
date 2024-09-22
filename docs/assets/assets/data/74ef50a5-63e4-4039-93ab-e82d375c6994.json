@@ -5,41 +5,36 @@
     "Description": "beef enchilada beef taco al carbon queso blanco puff guacamole",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Meaty"
+            "Umami"
         ],
         "Aroma": [
-            "Rich",
             "Cheesy"
         ],
         "Texture": [
-            "Soft",
-            "Crispy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFFF99"
+            "Red"
         ],
-        "Spice_level": []
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Northen Mexico"
+            "Mexican"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
+            "Fried",
             "Boiled",
-            "Seared"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

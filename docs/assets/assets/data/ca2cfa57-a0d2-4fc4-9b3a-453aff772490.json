@@ -5,46 +5,37 @@
     "Description": "green peas and cottage cheese cooked with onion paste and fine indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
+            "Umami"
         ],
         "Aroma": [
-            "Spicy",
-            "Herby",
-            "Creamy"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Creamy",
             "Soft"
         ],
         "Visual_Color": [
-            "#8F8E8D",
-            "#FFFFFF"
+            "White",
+            "Green"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Lacto-Vegetarian",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Sauteed"
+            "Pan-Fried"
         ],
         "Course": [
             "Main Course"

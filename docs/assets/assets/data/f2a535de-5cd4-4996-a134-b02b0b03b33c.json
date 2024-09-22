@@ -5,51 +5,36 @@
     "Description": "chicken broth chicken chashu spinach spicy bean sprouts green onion served with thin noodles choose your spice level mild spicy or hot.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Brothy",
-            "Meaty",
             "Spicy"
         ],
         "Texture": [
-            "Velvety",
-            "Firm"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
+            "Medium",
             "Hot"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Not specified"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Calcium"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan? (Based on ramen)",
-            "Global (as a fusion dish)?"
+            "Australia"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Boiled",
-            "Stir-fried"
-        ],
-        "Course": [
-            "Main Course",
-            "Side Dish"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

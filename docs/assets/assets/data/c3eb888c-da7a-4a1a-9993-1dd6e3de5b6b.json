@@ -6,27 +6,20 @@
     "Flavor_Profile": {
         "Taste": [],
         "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
+        "Texture": [
+            "Crunchy"
+        ],
+        "Visual_Color": [
+            "Green"
+        ],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-In-Fiber",
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course"
-        ],
-        "Cooking_Method": [
-            "Steamed",
-            "Boiled"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Side Dish"
         ]

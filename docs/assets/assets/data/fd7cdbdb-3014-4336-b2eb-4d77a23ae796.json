@@ -5,42 +5,22 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Earthly"
+            "Salty"
         ],
-        "Aroma": [
-            "Vegetal"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy"
         ],
-        "Visual_Color": [
-            "#8B4513",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free",
-            "Low-carb"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Side Dish",
-            "Snack"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Roasted"
+            "Steamed/Grilled"
         ],
         "Course": [
             "Side Dish"

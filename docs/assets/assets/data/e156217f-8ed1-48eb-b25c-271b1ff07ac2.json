@@ -4,38 +4,28 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "vegetarian and gluten free.",
     "Flavor_Profile": {
-        "Taste": [
-            "Earthy"
-        ],
-        "Aroma": [
-            "Nutty"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
             "Soft"
         ],
         "Visual_Color": [
-            "White",
-            "#F2E7CE"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
+            "Vegetarian"
         ],
-        "Nutrition": null,
-        "Country_Origin": null,
-        "Occasions": [
-            "Side dish"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Steaming"
         ],
         "Course": [
-            "Side Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

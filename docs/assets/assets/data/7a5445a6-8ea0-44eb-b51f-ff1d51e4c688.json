@@ -4,53 +4,33 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter",
-            "Savory"
-        ],
-        "Aroma": [
-            "Earthly",
-            "Meaty"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Tender",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#E5D8B6",
-            "#FFFFFF"
+            "Green",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None",
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb",
-            "Good-Fat"
-        ],
-        "Country_Origin": [
-            "Ottoman Empire",
-            "Middle East",
-            " Mediterranean"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Brunch"
+            "Snack",
+            "Barbeque"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Braised"
+            "Raw"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

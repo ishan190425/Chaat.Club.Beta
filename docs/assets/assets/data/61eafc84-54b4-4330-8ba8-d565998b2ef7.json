@@ -5,46 +5,33 @@
     "Description": "sweet idly rava kichadi mini masala dosa",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Sweet"
         ],
-        "Aroma": [
-            "Fruity",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Light",
-            "Smooth"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFCC99",
-            "#FFFFFF"
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Snack",
-            "Lunch",
-            "Anytime"
+            "Brunch",
+            "Breakfast"
         ],
         "Cooking_Method": [
+            "Stir-fried",
             "Boiled"
         ],
         "Course": [
+            "Appetizer",
+            "Main Course",
             "Side Dish"
         ]
     },

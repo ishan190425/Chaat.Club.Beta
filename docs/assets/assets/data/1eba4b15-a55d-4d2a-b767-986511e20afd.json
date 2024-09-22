@@ -4,39 +4,20 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Salty",
-            "Fatty"
-        ],
-        "Aroma": [
-            "Buttery"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
             "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden",
-            "Brown"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High- Calorie",
-            "Low-Protein"
-        ],
-        "Country_Origin": [
-            "Various",
-            "Multi-Cultural"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Casual"
+            "Snack"
         ],
         "Cooking_Method": [
             "Fried"

@@ -5,38 +5,26 @@
     "Description": "two patties of beef chapli kabab seasoned with our secret spices.",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Herby"
+            "Umami"
         ],
         "Aroma": [
-            "Fragrant",
-            "Meaty"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Juicy",
-            "Tender"
+            "Crunchy",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "RedBrown"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Pakistan"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Grilled"
         ],

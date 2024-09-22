@@ -5,44 +5,18 @@
     "Description": "deep fried lentil doughnut immersed in sourless yogurt garnished with carrots coriander leaves chili powder and crispies",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Spicy"
+            "Salty"
         ],
-        "Aroma": [
-            "Earthy",
-            "Fruity"
-        ],
-        "Texture": [
-            "Crispy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FFD700",
-            "#32CD32",
-            "#8B4513",
-            "#FF69B4"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Snack"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Fried"
         ],

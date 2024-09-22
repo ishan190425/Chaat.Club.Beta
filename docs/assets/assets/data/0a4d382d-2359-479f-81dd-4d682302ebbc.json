@@ -5,16 +5,16 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Meaty",
-            "Savory"
+            "Sweet"
         ],
-        "Aroma": [],
+        "Aroma": [
+            "Fruity"
+        ],
         "Texture": [
-            "Tender"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Red",
-            "Brown"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
@@ -22,11 +22,19 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
-        "Country_Origin": [],
+        "Nutrition": [
+            "Low Fat"
+        ],
+        "Country_Origin": [
+            ""
+        ],
         "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Cooking_Method": [
+            ""
+        ],
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

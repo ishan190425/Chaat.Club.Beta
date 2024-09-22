@@ -4,48 +4,27 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "choice of green salad or crispy fries",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Buttery"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Cheesy",
-            "Buttery"
+            "Cheesy"
         ],
-        "Texture": [
-            "Creamy",
-            "Melty"
-        ],
-        "Visual_Color": [
-            "Golden",
-            "#F7D2C6"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Calcium"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
             "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
-            "Main Course",
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

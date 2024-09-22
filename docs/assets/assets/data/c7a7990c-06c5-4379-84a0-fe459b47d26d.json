@@ -4,42 +4,25 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
+        "Taste": [],
+        "Aroma": [
             "Earthy"
         ],
-        "Aroma": [
-            "Fungal",
-            "Earthly"
-        ],
         "Texture": [
-            "Meaty"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#964B00"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Rich in Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Anytime Snack"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Sauteed"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Side Dish"
         ]

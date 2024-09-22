@@ -4,48 +4,34 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "herb roasted chicken roasted mushroom spinach toasted pine nut parmesan cream",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Umami"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Herbaceous",
-            "Earthly"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Creamy",
-            "Tender"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Browned",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Lactose-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Birthday Party",
-            "Special Occasion"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Roasted"
         ],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

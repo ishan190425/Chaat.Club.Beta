@@ -5,46 +5,26 @@
     "Description": "prosciutto di parma speck pecorino stagionato crescenza house giardiniera castelvetrano olive marcona almond fig mostarda grilled bread",
     "Flavor_Profile": {
         "Taste": [
-            "Salted",
-            "Savory"
+            "Umami",
+            "Salty"
         ],
-        "Aroma": [
-            "Meaty",
-            "Fruity"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFCC99"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Lactose-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

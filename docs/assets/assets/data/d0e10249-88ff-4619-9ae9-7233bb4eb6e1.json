@@ -4,38 +4,24 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Meaty",
             "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Greece"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
@@ -43,7 +29,7 @@
             "Grilled"
         ],
         "Course": [
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

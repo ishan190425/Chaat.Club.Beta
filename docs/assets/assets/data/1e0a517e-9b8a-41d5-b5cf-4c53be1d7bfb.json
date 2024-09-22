@@ -4,51 +4,30 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Fresh",
-            "Light"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Chewy",
-            "Crispy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFFFCC",
-            "#FFFFFF"
+            "Red",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Seafood-Friendly"
-        ],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "America",
-            "Other"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Brunch",
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Boiled",
-            "Grilled"
+            "Boiled"
         ],
         "Course": [
-            "Starters",
-            "Main Course",
             "Appetizer"
         ]
     },

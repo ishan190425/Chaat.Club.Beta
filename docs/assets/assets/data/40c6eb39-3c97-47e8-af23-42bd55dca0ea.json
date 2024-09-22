@@ -5,52 +5,26 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Pungent"
+            "Sweet"
         ],
         "Aroma": [
-            "Strong",
-            "Pungent"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Sharp"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#888800"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Rich-in-Vitamins",
-            "High-in-Antioxidants",
-            "Low-in-Ca"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Everyday",
-            "Holidays",
-            "Any-time-of-day"
-        ],
-        "Cooking_Method": [
-            "Raw",
-            "Roasted",
-            "Sauteed"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Condiment",
-            "Sauce",
-            "Ingestible"
+            "Side Dish"
         ]
     },
     "Food_History": {

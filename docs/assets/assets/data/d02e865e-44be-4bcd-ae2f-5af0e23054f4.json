@@ -5,44 +5,29 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Tangy"
+            "Salty"
         ],
-        "Aroma": [
-            "Nutty",
-            "Earthly"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy"
+            "Smooth",
+            "Chewy",
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#C0C0C0",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Middle East"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Mashed"
-        ],
-        "Course": []
+        "Cooking_Method": [],
+        "Course": [
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

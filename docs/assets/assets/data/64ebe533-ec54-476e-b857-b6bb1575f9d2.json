@@ -5,45 +5,34 @@
     "Description": "pork belly soy bean .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Umami",
-            "Soy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Red"
         ],
-        "Spice_level": [
-            "Delicious"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
-            "Asia",
-            "Europe"
+            "China"
         ],
         "Occasions": [
-            "BBQ",
-            "Celebration"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted"
+            "Braised"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

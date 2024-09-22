@@ -5,42 +5,42 @@
     "Description": "ginger pepper peppercorn shrimp .",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Peppery",
-            "Ginger"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Chewy"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "White",
-            "#FF99CC"
+            "Red"
         ],
         "Spice_level": [
-            "High"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Crustacean"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Various (Global Seafood)"
+            "Thailand",
+            "Myanmar",
+            "Indonesia"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course'], 'Course': ["
+            "Lunch",
+            "Dinner",
+            "Party"
         ],
-        "Cooking_Method": [],
-        "Course": []
+        "Cooking_Method": [
+            "Steamed"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

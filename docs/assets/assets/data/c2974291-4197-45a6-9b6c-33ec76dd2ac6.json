@@ -5,44 +5,37 @@
     "Description": "farm greens heirloom cherry tomato toasted pine nut gorgonzola vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Grassy",
-            "Nutty"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8B9467"
+            "Green",
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Worldwide"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Brunch",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Raw"
+            "Sauteed"
         ],
         "Course": [
-            "Salad"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,43 +5,30 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
         "Aroma": [
-            "Sweet",
-            "Buttery"
+            "Nutty"
         ],
         "Texture": [
-            "Light",
-            "Chewy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC0CB"
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
-        "Country_Origin": [
-            "France"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Special Occasion",
-            "Celebration"
+            "Brunch"
         ],
-        "Cooking_Method": [
-            "Baked"
-        ],
-        "Course": [
-            "Dessert"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

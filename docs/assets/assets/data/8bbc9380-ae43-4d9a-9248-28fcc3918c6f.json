@@ -5,43 +5,30 @@
     "Description": "choice of green salad or crispy fries",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Cheesy"
+            "Umami",
+            "Sweet"
         ],
-        "Aroma": [
-            "Meaty",
-            "Fries_like"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Juicy",
-            "Crispy",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            ""
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Fried"
         ],
         "Course": [
             "Main Course"

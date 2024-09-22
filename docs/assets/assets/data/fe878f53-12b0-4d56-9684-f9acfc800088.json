@@ -5,44 +5,28 @@
     "Description": "cheese enchilada petite carne asada steak tequila peppercorn sauce grilled cotija guacamole",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
+            "Umami"
         ],
         "Aroma": [
-            "Cheesy",
-            "Meaty",
-            "Herby"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Tender",
-            "Creamy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FF7F3A",
-            "#6495ED"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Dairy"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
             "Mexico"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

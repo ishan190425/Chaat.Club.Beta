@@ -5,48 +5,36 @@
     "Description": "red chili chutney spread on thin rice and lentil crepe",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Chili-like"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Thin",
-            "Crepe-like"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
             "Red",
-            "#FFC080"
+            "Brown"
         ],
         "Spice_level": [
-            "Medium to Spicy"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Protein-rich"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Snack"
+            "Dinner"
         ],
-        "Cooking_Method": [
-            "Fermented rice and lentil dough rolled in thin sheets"
-        ],
-        "Course": [
-            "Appetizer",
-            "Sides"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

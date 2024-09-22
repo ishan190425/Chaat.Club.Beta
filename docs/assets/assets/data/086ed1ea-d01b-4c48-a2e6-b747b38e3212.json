@@ -5,45 +5,34 @@
     "Description": "chopped veggies queso blanco avocado shredded chicken",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Cheesy",
-            "Fresh"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Tender"
+            "Crunchy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#F5B7B1",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Boiled"
+            "Fried"
         ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

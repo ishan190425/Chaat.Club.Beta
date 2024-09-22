@@ -5,23 +5,17 @@
     "Description": "grilled silced meat top sirloin steak mixed with tomato cucumber shallots cilantro lime chili and fish sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy",
-            "Sweet"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Grilled",
-            "Fruity",
-            "Herbal"
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF",
-            "#008000"
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
@@ -29,16 +23,13 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thai"
+            "Thailand"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Party"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled"

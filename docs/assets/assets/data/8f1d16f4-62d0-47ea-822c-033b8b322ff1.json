@@ -5,22 +5,18 @@
     "Description": "ground pork or chicken with peanut ginger red onions cilantro lime and chillies.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Peanuty",
-            "Ginger",
-            "Oniony",
-            "Chilli"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Grounded"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Red",
-            "White",
-            "#FFC080"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
             "Hot"
@@ -28,24 +24,21 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "SoutheastAsia",
-            "Thai"
+            "Thailand"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Stir-Fry"
+            "Pan-Fried",
+            "Grilled"
         ],
         "Course": [
-            "Main Course",
-            "Snack"
+            "Side Dish",
+            "Main Course"
         ]
     },
     "Food_History": {

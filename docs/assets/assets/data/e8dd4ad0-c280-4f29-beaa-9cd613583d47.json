@@ -6,41 +6,40 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Savory"
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Yogurty"
+            "Nutty",
+            "Spicy"
         ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#C5CAE9"
+            "Green",
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Vegan-Friendly",
-            "Gluten-Free"
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low Fat"
         ],
-        "Nutrition": [],
-        "Country_Origin": [],
+        "Country_Origin": [
+            "India"
+        ],
         "Occasions": [
-            "Breakfast",
-            "Snack"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "No-Cooking"
+            "Boiled"
         ],
         "Course": [
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

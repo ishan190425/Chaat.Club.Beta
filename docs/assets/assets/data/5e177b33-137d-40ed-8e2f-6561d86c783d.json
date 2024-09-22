@@ -5,45 +5,36 @@
     "Description": "experience the creamy indulgence of our fried cheesy puffs filled with a delectable crab mixture. each bite unveils a harmonious blend of flavors leaving you craving for more. served with sweet and sour sauce.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Buttery"
+            "Sweet",
+            "Sour",
+            "Bitter"
         ],
         "Aroma": [
             "Cheesy",
-            "Seafood-Flavored"
+            "Spicy"
         ],
         "Texture": [
-            "Fried",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Crustacean",
-            "Shellfish",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Multicultural/Pacific Northwest"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Party",
-            "Appetizer"
+            "Party"
         ],
         "Cooking_Method": [
-            "Frying"
+            "Fried"
         ],
         "Course": [
             "Appetizer"

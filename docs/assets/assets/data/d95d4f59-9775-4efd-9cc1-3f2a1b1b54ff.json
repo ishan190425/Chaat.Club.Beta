@@ -5,44 +5,32 @@
     "Description": "grilled marinated chicken on skewer served with peanut sauce and cucumber relish",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Peanutty",
-            "Herby"
+            "Nutty",
+            "Earthy"
         ],
-        "Texture": [
-            "Juicy",
-            "Crispy"
-        ],
-        "Visual_Color": [
-            "#CCCCCC",
-            "#AAAAAA"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Asia"
+            "Singapore"
         ],
         "Occasions": [
-            "Picnic",
-            "Barbecue"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

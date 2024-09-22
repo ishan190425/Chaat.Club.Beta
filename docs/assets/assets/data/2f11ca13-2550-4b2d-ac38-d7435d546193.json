@@ -5,49 +5,37 @@
     "Description": "thick rice and lentil pancake topped with vegetables",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Salty",
             "Umami"
         ],
-        "Aroma": [
-            "Earthy",
-            "Starchy"
-        ],
+        "Aroma": [],
         "Texture": [
+            "Soft",
             "Crunchy",
-            "Soft"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#C6E5BC",
-            "#8B9467"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "India",
-            "Sri Lanka"
+            "India"
         ],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Dinner"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-fried"
+            "Pan Fry",
+            "Grill"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

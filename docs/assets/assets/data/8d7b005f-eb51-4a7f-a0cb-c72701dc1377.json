@@ -5,44 +5,37 @@
     "Description": "chicken thigh pineapple rice.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Pineappley"
+            "Fruity"
         ],
         "Texture": [
-            "Fluffy",
-            "Crunchy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden Brown",
-            "#F7D2C4"
+            "Yellow",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Unknown"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Main Course",
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

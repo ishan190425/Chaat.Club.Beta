@@ -5,39 +5,28 @@
     "Description": "tokyo style curry with ground chicken and steamed rice.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Curry-like",
-            "Meaty"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#FFFFFF"
+            "Yellow",
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium-Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan"
+            "Japan or US"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner"
+            "Brunch"
         ],
         "Cooking_Method": [
             "Stir-Fried"

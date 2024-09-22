@@ -5,45 +5,40 @@
     "Description": "angus beef chicken thigh pineapple rice shrimp.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Sweet"
         ],
         "Aroma": [
-            "Fruity",
-            "Meaty"
+            "Nutty"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
+            "White",
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Shellfish",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Frying",
+            "Boiling"
         ],
         "Course": [
+            "Side Dish",
             "Main Course"
         ]
     },

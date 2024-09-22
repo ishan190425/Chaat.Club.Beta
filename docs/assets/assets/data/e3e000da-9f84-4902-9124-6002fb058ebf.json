@@ -5,43 +5,34 @@
     "Description": "the mild set with potato and carrot ",
     "Flavor_Profile": {
         "Taste": [
-            "Mild",
-            "Creamy"
+            "Umami"
         ],
-        "Aroma": [
-            "Fragrant",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Crispy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFD700",
-            "#FFFFFF"
+            "Yellow",
+            "Green"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Southeast Asia"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            " Lunch",
+            " Dinner"
         ],
         "Cooking_Method": [
-            "Stir-Fried"
+            "Stewed"
         ],
-        "Course": []
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

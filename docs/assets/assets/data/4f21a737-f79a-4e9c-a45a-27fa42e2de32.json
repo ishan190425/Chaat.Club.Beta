@@ -5,48 +5,31 @@
     "Description": "smoked. smoked salmon cream cheese and avocado.",
     "Flavor_Profile": {
         "Taste": [
-            "Rich"
+            "Umami"
         ],
-        "Aroma": [
-            "Smoky",
-            "Creamy",
-            "Delicate"
-        ],
+        "Aroma": [],
         "Texture": [
             "Smooth",
-            "Creamy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF99CC",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Gluten",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Fat",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Scandinavia"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Assembled"
+            "Smoked"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Main Course",
+            "Appetizer"
         ]
     },
     "Food_History": {

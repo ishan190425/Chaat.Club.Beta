@@ -5,46 +5,38 @@
     "Description": "thin rice and lentil crepe filled with mildly spiced mashed potatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Mild"
+            "Sour"
         ],
         "Aroma": [
-            "Indian-inspired",
-            "Potatoey"
+            "Earthy"
         ],
         "Texture": [
-            "Thin Crispy",
             "Soft"
         ],
         "Visual_Color": [
-            "Golden Brown",
-            "#FFFF00"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber"
+            "Gluten-Free",
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch"
+            "Lunch",
+            "Snack"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

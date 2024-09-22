@@ -4,21 +4,16 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Fruity"
-        ],
+        "Taste": [],
         "Aroma": [
             "Earthy",
-            "Wine-like"
+            "Floral"
         ],
         "Texture": [
-            "Soft",
-            "Complex"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Brown",
-            "#E4D6A3"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
@@ -26,21 +21,19 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Antioxidants"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Wine Tasting",
-            "Romantic Dinner"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Aged"
         ],
         "Course": [
-            "Wine"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -6,30 +6,20 @@
     "Flavor_Profile": {
         "Taste": [],
         "Aroma": [],
-        "Texture": [
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFF00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Mexico/United States"
+            "Mexico"
         ],
         "Occasions": [
+            "Breakfast",
             "Lunch",
-            "Breakfast"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled"

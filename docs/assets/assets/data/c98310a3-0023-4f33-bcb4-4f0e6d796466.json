@@ -4,18 +4,26 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": [
+            "Salty"
+        ],
         "Aroma": [],
         "Texture": [],
-        "Visual_Color": [],
+        "Visual_Color": [
+            "Green"
+        ],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
+        "Occasions": [
+            "Sunday Brunch"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
         "Course": []
     },
     "Food_History": {

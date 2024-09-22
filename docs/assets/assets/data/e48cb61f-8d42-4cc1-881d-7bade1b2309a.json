@@ -5,42 +5,41 @@
     "Description": "steamed raw rice smashed sauteed with pepper jeera dhall garnished with ghee and cashew nuts.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
             "Nutty",
-            "Aromatic"
+            "Earthy"
         ],
         "Texture": [
-            "Creamy",
-            "Gooey"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Green",
+            "Yellow"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Carbohydrates"
+            "Gluten-Free"
         ],
         "Country_Origin": [
-            "India"
+            "India",
+            "South India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Steamed"
+            "Boiled",
+            "Sauteed"
         ],
         "Course": [
             "Main Course"

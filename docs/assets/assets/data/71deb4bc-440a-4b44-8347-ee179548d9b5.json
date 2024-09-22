@@ -5,38 +5,27 @@
     "Description": "homemade panna cotta caramel cream sauce graham cracker and vanilla ice cream.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Creamy",
-            "Rich"
+            "Sweet"
         ],
-        "Aroma": [
-            "Vanilla"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Creamy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Dessert"
         ],
         "Cooking_Method": [
-            "Cooked"
+            "Chilled"
         ],
         "Course": [
             "Dessert"

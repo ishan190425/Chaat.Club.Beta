@@ -5,41 +5,42 @@
     "Description": "deep fried of cauliflower florets with indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
-        "Aroma": [],
+        "Aroma": [
+            "Nutty",
+            "Cheesy",
+            "Spicy"
+        ],
         "Texture": [
-            "Crispy",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#CCCCFF"
+            "Brown"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
             "Vegan"
         ],
         "Nutrition": [
-            "Low-Fat"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Snack",
-            "Appetizer"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Deep Fried"
+            "Fried"
         ],
         "Course": [
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

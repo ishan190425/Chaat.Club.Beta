@@ -4,43 +4,26 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "saut ed broccolini with crispy white quinoa",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter",
-            "Nutty"
-        ],
-        "Aroma": [
-            "Vegetal",
-            "Buttery"
-        ],
-        "Texture": [
-            "Crispy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#008000",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "USA"
+            "USA",
+            "Italy"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Side Dish"
         ],
         "Cooking_Method": [
-            "Saut\u00e9ed"
+            "saut ed"
         ],
         "Course": [
             "Side Dish"

@@ -4,27 +4,28 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "bell pepper garlic ginger intestine pepper peppercorn .",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
-        "Texture": [],
+        "Taste": [
+            "Umami"
+        ],
+        "Aroma": [
+            "Spicy"
+        ],
+        "Texture": [
+            "Chewy"
+        ],
         "Visual_Color": [],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Dry Frying"
+            "Pan-fried"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

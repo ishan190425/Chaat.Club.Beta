@@ -5,41 +5,36 @@
     "Description": "flounder green onion pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Citrusy",
-            "Savory"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fishy",
-            "Peppery"
+            "Earthy",
+            "Fruity"
         ],
         "Texture": [
-            "Flaky"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "Red",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "USA/International"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Baked",
-            "Grilled"
+            "Grilled",
+            "Fried"
         ],
         "Course": [
             "Main Course"

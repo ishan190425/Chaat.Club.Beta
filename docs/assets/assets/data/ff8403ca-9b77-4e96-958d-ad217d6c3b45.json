@@ -5,49 +5,37 @@
     "Description": "mini idlies immersed in delicious south indian lentil gravy garnished with ghee",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Nutty",
-            "Slightly sweet"
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
-            "Nutty",
-            "Ghee"
+            "Nutty"
         ],
         "Texture": [
-            "Soft",
-            "Crispy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "Golden Brown",
-            "#FFCC99"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Snack",
             "Main Course"
         ]
     },

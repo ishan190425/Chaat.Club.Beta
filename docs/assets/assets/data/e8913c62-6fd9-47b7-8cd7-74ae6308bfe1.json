@@ -5,51 +5,24 @@
     "Description": "angus beef broccoli.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Bitter"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Earthly"
+            "Earthy",
+            "Nutty"
         ],
-        "Texture": [
-            "Crunchy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "Green",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Friendly"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "USA",
-            "Global"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Breakfast"
-        ],
-        "Cooking_Method": [
-            "Steamed",
-            "Braised"
-        ],
-        "Course": [
-            "Main Course",
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

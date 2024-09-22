@@ -4,44 +4,19 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Neutral"
-        ],
+        "Taste": [],
         "Aroma": [],
-        "Texture": [
-            "Light",
-            "Fluffy"
-        ],
-        "Visual_Color": [
-            "White"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Boiled",
-            "Steamed"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

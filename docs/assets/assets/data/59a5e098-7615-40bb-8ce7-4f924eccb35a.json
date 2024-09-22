@@ -4,43 +4,24 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "yum ",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Golden"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Green",
-            "#FFD700"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Party",
-            "Social Gathering"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Roasted"
+            "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

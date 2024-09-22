@@ -5,47 +5,27 @@
     "Description": "spicy seafood soup with shrimp squid mussel lime chilies and basil",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Fresh",
-            "Zesty",
-            "Fishy"
+            "Spicy"
         ],
         "Texture": [
-            "Creamy",
-            "Succulent"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Vietnam-Style"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Simmered"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

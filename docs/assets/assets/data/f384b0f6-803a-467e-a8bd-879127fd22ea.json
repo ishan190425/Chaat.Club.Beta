@@ -5,41 +5,36 @@
     "Description": "garlic ginger pepper pork belly .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Garlicky",
-            "Savory"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC7CA"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Pork"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Unknown"
+            "No Country specified"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Frying"
+            "Braised",
+            "Roasted"
         ],
         "Course": [
             "Main Course"

@@ -4,44 +4,19 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity",
-            "Rich"
-        ],
-        "Aroma": [
-            "Earthly",
-            "Dark Fruits"
-        ],
-        "Texture": [
-            "Smooth",
-            "Velvet-like"
-        ],
-        "Visual_Color": [
-            "Deep Reddish-Brown"
-        ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Evening gatherings"
-        ],
-        "Cooking_Method": [
-            "Not applicable"
-        ],
-        "Course": [
-            "Wine/Appetizer"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

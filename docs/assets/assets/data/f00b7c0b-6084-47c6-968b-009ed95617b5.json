@@ -4,46 +4,34 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "deliciously marinated for hours.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Herby"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Herby",
-            "Meaty"
+            "Fruity"
         ],
         "Texture": [
-            "Tender",
-            "Fluffy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#CCCCCC"
+            "White",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "Calorie-Dense"
-        ],
-        "Country_Origin": [
-            "Generic/International"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Potluck"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Oven Roasted"
+            "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Main Course",
+            "Side Dish"
         ]
     },
     "Food_History": {

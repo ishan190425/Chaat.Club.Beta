@@ -5,42 +5,22 @@
     "Description": "raw. mixed with our special spicy sauce and scallions. pick between spicy tuna spicy salmon or spicy yellowtail.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [],
         "Texture": [
-            "Silky"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Red",
-            ""
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japanese"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Sashimi",
-            "Raw"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

@@ -5,49 +5,28 @@
     "Description": "homemade hand stuffed with shrimp and chicken",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Savory",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Delicate",
-            "Soup-like"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "White",
-            "Bisque"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Chicken",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Sodium",
-            "Heart-Healthy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Special Event"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Boiled",
-            "Pan-Fried",
-            "Wok-Cooked"
+            "Stir-Fried"
         ],
         "Course": [
             "Main Course"

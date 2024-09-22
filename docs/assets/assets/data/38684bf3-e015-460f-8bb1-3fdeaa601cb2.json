@@ -5,33 +5,22 @@
     "Description": "chinese cabbage green onion tofu tomato.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Earthy",
-            "Mildly Oniony"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crisp",
+            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
             "Green",
-            "#F7F0E5"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
@@ -40,12 +29,10 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Stir-Fried",
-            "Blended"
+            "StirFried"
         ],
         "Course": [
-            "Side Dish",
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

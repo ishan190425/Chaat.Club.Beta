@@ -5,44 +5,37 @@
     "Description": "pork broth pork chashu kikurage may be substituted with spinach based on availability. green onion nori dried seaweed seasoned egg garlic chips garlic oil fried onion and spicy sauce served with thin noodles",
     "Flavor_Profile": {
         "Taste": [
-            "Umami",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Rich",
-            "Brothy"
+            "Spicy",
+            "Cheesy"
         ],
         "Texture": [
-            "Creamy",
-            "Sourish"
+            "Smooth",
+            "Soft"
         ],
         "Visual_Color": [
-            "Golden Brown",
-            "#FFC300"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
         "Occasions": [
-            "Anytime"
+            "Lunch",
+            "Dinner"
         ],
-        "Cooking_Method": [
-            "Boiled",
-            "Braised"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

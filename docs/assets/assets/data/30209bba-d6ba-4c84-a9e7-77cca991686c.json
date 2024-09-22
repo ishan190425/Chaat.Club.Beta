@@ -5,46 +5,36 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Bitter"
         ],
-        "Aroma": [
-            "Herby",
-            "Nutty"
-        ],
+        "Aroma": null,
         "Texture": [
-            "Crispy",
+            "Crunchy",
             "Soft"
         ],
-        "Visual_Color": [
-            "#FFC400",
-            "#333333"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
+            "Vegetarian",
             "Vegan",
-            "Gluten-free"
+            "Halal"
         ],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat",
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Middle East"
-        ],
+        "Country_Origin": null,
         "Occasions": [
-            "Snack",
-            "Lunch"
+            "Lunch",
+            "Street food"
         ],
         "Cooking_Method": [
-            "Deep-frying"
+            "Deep fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

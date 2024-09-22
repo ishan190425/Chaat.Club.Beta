@@ -5,43 +5,42 @@
     "Description": "crispy chicken wing saut ed with sweet sour tamarind sauce add chili upon request",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
+            "Fruity",
             "Spicy",
-            "Soupy"
+            "Earthy"
         ],
         "Texture": [
             "Crunchy",
-            "Chewy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC400",
-            "#FFFFFF"
+            "Red",
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Wheat"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
-            "Asian",
-            "American"
+            "Non-specific"
         ],
         "Occasions": [
-            "Party"
+            "Snack",
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-Fried"
+            "Deep Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

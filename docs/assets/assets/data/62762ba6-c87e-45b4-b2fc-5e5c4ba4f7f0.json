@@ -5,48 +5,39 @@
     "Description": "fried. smoked salmon cream cheese and avocado rolled fried and topped with jalape o crunchy bits drizzled with spicy mayo sriracha and sweet unagi.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Sweet"
         ],
-        "Aroma": [
-            "Fishy",
-            "Creamy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Rich"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pescetarian",
-            "Gluten-Free",
-            "Kosher"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan",
-            "Mexico"
+            "USA",
+            "Japan"
         ],
         "Occasions": [
-            "Appetizer",
-            "Party"
+            "Breakfast",
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
-            "Pan-Seared"
+            "Fried",
+            "Boiled",
+            "Roasted"
         ],
         "Course": [
-            "Starters"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,53 +5,38 @@
     "Description": "four petite corn tortillas beef chopped onion jalapeno cilantro lime",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Cilantro-like",
-            "Lime-y",
-            "Fruity"
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy Tortillas",
-            "Chewey Beef",
-            "Tender Onion",
-            "Fresh Cilantro",
-            "Zesty Lime"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F7D2C4",
-            "#FFFFFF"
+            "Red",
+            "Yellow",
+            "Green"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Breakfast",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Sauteed",
-            "Boiled"
+            "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,44 +5,39 @@
     "Description": "six jumbo bacon wrapped grilled shrimp stuffed with a slice of jalapeno and white cheese",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Smoky",
             "Cheesy",
-            "Spicy"
+            "Spicy",
+            "Fruity"
         ],
         "Texture": [
             "Crunchy",
-            "Crisp",
-            "Creamy"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "DeepRed",
-            "#FF9900"
+            "Red",
+            "White"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Appetizer",
-            "Snack"
+            "Main Course"
         ],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

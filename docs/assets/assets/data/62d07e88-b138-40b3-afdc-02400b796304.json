@@ -5,45 +5,33 @@
     "Description": "thick rice and lentil pancake",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
-        "Aroma": [
-            "Nutty",
-            "Earthy"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Crumbly"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
+            "Lunch",
             "Snack"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Griddled"
         ],
-        "Course": [
-            "Side Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

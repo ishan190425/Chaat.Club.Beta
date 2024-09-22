@@ -4,45 +4,23 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Dry",
-            "Fruity"
-        ],
-        "Aroma": [
-            "Earthy",
-            "Berry"
-        ],
-        "Texture": [
-            "Medium-Bodied",
-            "Well-Structured"
-        ],
-        "Visual_Color": [
-            "Deep Red/Purple"
-        ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "Mild-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "USA"
         ],
         "Occasions": [
-            "Before Dinner",
-            "Special Occasion"
+            "Drinks"
         ],
-        "Cooking_Method": [
-            "No Cooking Required"
-        ],
-        "Course": [
-            "Wine/Beverage"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

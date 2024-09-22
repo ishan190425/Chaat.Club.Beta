@@ -5,22 +5,19 @@
     "Description": "plant based rice bowl impossible meat made from plants crispy chick peas kale pickled red cabbage crispy garlic roasted pine nuts over steamed rice with vegan curry ranch dressing. vegetarian",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Green",
-            "Earthy"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Crispy",
-            "Creamy",
-            "Crunchy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFCC99",
-            "#FFFFFF",
-            "#8B4513"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
@@ -28,28 +25,19 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan",
-            "Gluten-free"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-fat"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Breakfast",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Stir-fry",
-            "Roasting"
+            "Steamed",
+            "Roasted"
         ],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

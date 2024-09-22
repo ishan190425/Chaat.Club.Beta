@@ -4,51 +4,19 @@
     "User_UUID": "0ea9df11-6fdd-48e1-b6ef-118c1f755118",
     "Description": "fried. spicy crawfish and cream cheese rolled fried and topped with pico de gallo avocado and crunchy bits drizzled with sweet unagi.",
     "Flavor_Profile": {
-        "Taste": [
-            "Spicy",
-            "Savory"
-        ],
-        "Aroma": [
-            "Citrusy"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Creamy",
-            "Chewy"
-        ],
-        "Visual_Color": [
-            "#FFFF00",
-            "#008000",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexican",
-            "Japanese"
-        ],
-        "Occasions": [
-            "Social Gathering",
-            "Party Food"
-        ],
-        "Cooking_Method": [
-            "Fried",
-            "Rolled"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

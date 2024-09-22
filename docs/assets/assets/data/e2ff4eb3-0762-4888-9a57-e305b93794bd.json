@@ -7,38 +7,25 @@
         "Taste": [
             "Bitter"
         ],
-        "Aroma": [
-            "Grassy",
-            "Fresh"
-        ],
-        "Texture": [
-            "Light-bodied"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#32CD32"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Caffeine"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Afternoon",
-            "Evening"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Steeped"
+            "Brewed"
         ],
-        "Course": [
-            "Beverage"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

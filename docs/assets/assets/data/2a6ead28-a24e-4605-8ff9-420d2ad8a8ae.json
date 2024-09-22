@@ -6,25 +6,23 @@
     "Flavor_Profile": {
         "Taste": null,
         "Aroma": null,
-        "Texture": [
-            "Fried",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FF0000",
-            "#FFFF00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [],
-        "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Dietary_restrictions": null,
+        "Nutrition": null,
+        "Country_Origin": null,
+        "Occasions": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Grilled",
+            "Fried"
+        ],
+        "Course": null
     },
     "Food_History": {
         "Likes": [],

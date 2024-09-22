@@ -4,51 +4,23 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Umami"
-        ],
-        "Aroma": [
-            "Fatty",
-            "Meaty"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry",
-            "Gluten-Free",
-            "Seafood-Free"
-        ],
-        "Nutrition": [
-            "Low-Price"
-        ],
-        "Country_Origin": [
-            "China",
-            "United States"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Meal"
+            "Snack"
         ],
-        "Cooking_Method": [
-            "Deep-Frying",
-            "Pan-Seared"
-        ],
-        "Course": [
-            "Appetizer",
-            "Main Course"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

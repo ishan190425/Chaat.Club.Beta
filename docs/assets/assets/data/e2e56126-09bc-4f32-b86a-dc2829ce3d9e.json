@@ -5,48 +5,39 @@
     "Description": "chicken fajita enchilada roasted corn sauce soft flour chicken taco guacamole",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
         "Aroma": [
-            "Fragrant",
-            "Spicy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
             "Soft",
-            "Crispy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF99CC",
-            "#00FFFF"
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Moderate-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Party"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted"
+            "Pan-fried",
+            "Grilled"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

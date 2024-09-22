@@ -5,44 +5,22 @@
     "Description": "with bell pepper. onion sweet chili sauce and a touch of rice wine ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Umami",
             "Sweet"
         ],
-        "Aroma": [
-            "Spicy",
-            "Fruity"
-        ],
-        "Texture": [
-            "Creamy",
-            "#N/A"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Can be Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "China/Asian-Inspired"
-        ],
-        "Occasions": [
-            "Lunch/Dinner"
-        ],
-        "Cooking_Method": [
-            "Stir-Fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

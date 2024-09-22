@@ -5,41 +5,34 @@
     "Description": "served with caramelized onions peppers rice beans sour cream shredded cheese guacamole and pico de gallo",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Peppery",
-            "Cheesy",
-            "Savory"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Crisp"
+            "Crunchy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF",
-            "#00BFFF"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten",
-            "Lactose Intolerant"
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],

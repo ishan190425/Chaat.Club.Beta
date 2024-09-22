@@ -6,43 +6,37 @@
     "Flavor_Profile": {
         "Taste": [
             "Sour",
-            "Fruity"
+            "Umami"
         ],
         "Aroma": [
-            "Citrusy",
-            "Fresh"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Crunchy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFF00",
-            "#8BC34A"
+            "Green",
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Gluten-Friendly"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Mexican/Peruvian-Inspired"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer/Lunch/Dinner"
+            "Any occasion"
         ],
         "Cooking_Method": [
-            "Raw-Marinated"
+            "Raw, marinated"
         ],
         "Course": [
-            "Appetizer"
+            "Appetizer",
+            "Main Course"
         ]
     },
     "Food_History": {

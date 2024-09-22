@@ -5,45 +5,26 @@
     "Description": "dry red pepper flounder peppercorn tofu .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Peppery"
+            "Spicy",
+            "Earthy"
         ],
-        "Texture": [
-            "Crispy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#FF0033",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "High"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Soy"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Multiple"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
-        "Cooking_Method": [
-            "Pan-fried"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

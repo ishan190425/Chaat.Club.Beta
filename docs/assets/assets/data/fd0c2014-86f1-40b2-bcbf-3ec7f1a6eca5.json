@@ -5,42 +5,37 @@
     "Description": "slices of chili coated with chick peas batter deep fried served with chutney and sambar",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fried",
-            "Spicy"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FFC400",
-            "#964B00"
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "India"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Party"
+            "Street Food"
         ],
         "Cooking_Method": [
-            "Deep Fried"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

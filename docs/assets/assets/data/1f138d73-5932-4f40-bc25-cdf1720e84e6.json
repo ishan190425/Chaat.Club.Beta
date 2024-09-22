@@ -4,45 +4,30 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "black ear garlic ginger pepper peppercorn potato ribs white broccoli .",
     "Flavor_Profile": {
-        "Taste": [
-            "Earthy",
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Garlicky",
-            "Earthly",
-            "Pungent"
+            "Earthy"
         ],
         "Texture": [
-            "Tender",
-            "Fall-Apart"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F5DEB3",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "International/Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Dinner",
-            "Casual Supper"
+            "Breakfast",
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled or Baked"
+            "Fried",
+            "Boiled"
         ],
         "Course": [
             "Main Course"

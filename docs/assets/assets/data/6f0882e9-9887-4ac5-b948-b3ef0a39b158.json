@@ -5,44 +5,42 @@
     "Description": "beef shank pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Peppery",
-            "Meaty"
+            "Cheesy"
         ],
         "Texture": [
-            "Tender",
-            "Hearty"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Red",
+            "White"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "None"
+            "Vegan"
         ],
         "Nutrition": [
-            "High-Protein",
-            "Rich"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Global"
+            "Any",
+            "USA",
+            "Europe"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Slow-Cooked"
+            "Grilled, Fried, Baked"
         ],
         "Course": [
-            "Main Course"
+            "Main Course",
+            "Side Dish"
         ]
     },
     "Food_History": {

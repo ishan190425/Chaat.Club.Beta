@@ -5,43 +5,24 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Nutty"
+            "Salty"
         ],
-        "Aroma": [
-            "Vinegar-Like"
-        ],
+        "Aroma": [],
         "Texture": [
             "Smooth"
         ],
-        "Visual_Color": [
-            "Light Brown"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "Japan"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Bottled/Prepared"
+            "Vinaigrette"
         ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

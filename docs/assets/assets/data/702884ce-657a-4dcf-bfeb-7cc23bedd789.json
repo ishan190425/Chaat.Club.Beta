@@ -5,53 +5,43 @@
     "Description": "beef empanada cheese enchilada three camarones rellenos guacamole",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
             "Cheesy",
-            "Meaty",
-            "Herby"
+            "Spicy",
+            "Fruity"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy",
-            "Tender"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Brown",
+            "Green"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Dairy",
-            "Gluten",
-            "Seafood"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Mexico",
-            "Latin America"
+            "Mexico"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course",
-            "Party"
+            "Snack",
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Deep-fried"
+            "Grilled",
+            "Fried",
+            "Boiled"
         ],
         "Course": [
-            "Snack",
-            "Starter"
+            "Main Course"
         ]
     },
     "Food_History": {

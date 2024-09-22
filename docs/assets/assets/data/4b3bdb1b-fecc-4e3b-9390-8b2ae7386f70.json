@@ -5,46 +5,34 @@
     "Description": "three white cheese south america style chicken ground beef or shrimp",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Cheesy"
+            "Umami"
         ],
-        "Aroma": [
-            "Rich",
-            "Meaty"
-        ],
-        "Texture": [
-            "Crispy",
-            "Moist"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFD7BE"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Moderate-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "South America"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Mid-Morning Snack"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-Seared",
-            "Deep-Fried"
+            "Grilled",
+            "Boiled",
+            "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Appetizer",
+            "Side Dish",
+            "Main Course"
         ]
     },
     "Food_History": {

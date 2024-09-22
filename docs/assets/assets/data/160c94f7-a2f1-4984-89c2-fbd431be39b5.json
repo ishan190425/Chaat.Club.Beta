@@ -4,43 +4,34 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Herby",
-            "Pungent"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC400",
-            "#FFF9CB"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Pakistan"
-        ],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Pan-Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

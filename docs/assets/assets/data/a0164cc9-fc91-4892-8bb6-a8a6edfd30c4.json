@@ -5,47 +5,31 @@
     "Description": "choice of shrimp squid mussel or combination seasoned with lemongrass shallots cilantro chili and yum sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Citrusy",
-            "Herby"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "White",
-            "Pink"
+            "White"
         ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein (Shrimp)",
-            "Low-Fat"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Thai"
         ],
         "Occasions": [
-            "Appetizer",
-            "Lunch",
-            "Dinner"
+            "Seafood night",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Sauteed"
+            "Deep-fried"
         ],
-        "Course": [
-            "Main Course",
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

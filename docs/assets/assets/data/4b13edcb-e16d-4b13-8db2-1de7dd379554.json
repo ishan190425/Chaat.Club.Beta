@@ -5,52 +5,35 @@
     "Description": "appetizer sampler of chicken and beef nachos chicken and beef empanadas chicken and beef quesadilla and chicken flauta",
     "Flavor_Profile": {
         "Taste": [
-            "Fiesta",
-            "Savory"
+            "Umami",
+            "Salty"
         ],
-        "Aroma": [
-            "Meaty",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#3333FF",
-            "#FFFF00",
-            "#E5DAC2"
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Meat",
-            "Gluten",
-            "Lactose",
-            "Soy"
+            "Halal"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico",
-            "Spain"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Party",
             "Snack",
-            "Appetizer"
+            "Beverage pairing",
+            "Lunch",
+            "Dinner",
+            "Party & celebration"
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Fried"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,38 +5,27 @@
     "Description": "chicken pork clear broth pork chashu green onion spinach seasoned egg nori seaweed with yuzu flavor. served with thin noodles.",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Citrusy"
-        ],
-        "Aroma": [
-            "Citrusy",
             "Umami"
         ],
+        "Aroma": [
+            "Fruity",
+            "Cheesy",
+            "Spicy"
+        ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFC9F",
-            "#CC99AA"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Egg",
-            "Fish",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Japan"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"

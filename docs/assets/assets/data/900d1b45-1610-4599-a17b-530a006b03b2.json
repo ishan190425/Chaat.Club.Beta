@@ -4,55 +4,19 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Umami"
-        ],
-        "Aroma": [
-            "Pungent",
-            "Fishy"
-        ],
-        "Texture": [
-            "Tender",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "Green",
-            "Black",
-            "#FF69B4"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Protein-rich",
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Roasted",
-            "Fried"
-        ],
-        "Course": [
-            "Appetizer",
-            "Main Course",
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

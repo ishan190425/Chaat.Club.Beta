@@ -5,42 +5,35 @@
     "Description": "black pepper onion shrimp.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Peppery",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FF6600"
+            "Brown",
+            "White",
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Light Meal"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Pan-fried"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

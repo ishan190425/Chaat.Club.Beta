@@ -4,40 +4,24 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "smoked prosciutto pepperoncini red onion bagna cauda aioli arugula fresh lemon",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Fatty"
-        ],
-        "Aroma": [
-            "Smoky",
-            "Herby"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Red",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Pan-frying"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

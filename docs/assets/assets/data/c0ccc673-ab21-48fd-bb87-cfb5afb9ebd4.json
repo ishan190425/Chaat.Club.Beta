@@ -5,38 +5,29 @@
     "Description": "cottage cheese cooked with rich butter gravy",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Rich",
-            "Buttery"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFE4E1",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Lactose-free"
+            "Vegan"
         ],
-        "Nutrition": [
-            "Low-Fat",
-            ""
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "India"
+            "India",
+            "Punjabi"
         ],
         "Occasions": [
-            "Dinner",
-            "Breakfast"
+            "Lunch"
         ],
         "Cooking_Method": [
             "Boiled"

@@ -5,48 +5,29 @@
     "Description": "with curry paste jalapeno and mushrooms",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Bitter"
         ],
         "Aroma": [
-            "Curry-like",
+            "Fruity",
             "Spicy"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8B4513"
+            "White"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Stir-fry"
-        ],
-        "Course": [
-            "Side dish",
-            "Appetizer"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

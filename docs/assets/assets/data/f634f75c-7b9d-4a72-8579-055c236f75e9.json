@@ -5,44 +5,26 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Salty",
-            "Sweet"
+            "Umami"
         ],
-        "Aroma": [
-            "Crunchy",
-            "Faintly Shrimp-like"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFFA7F",
-            "#CCCCCC"
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegan-Friendly"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Multiple (Global)"
-        ],
-        "Occasions": [
-            "Snack Time"
-        ],
-        "Cooking_Method": [
-            "No Cooking Required"
-        ],
-        "Course": [
-            "Snack"
-        ]
+        "Dietary_restrictions": null,
+        "Nutrition": null,
+        "Country_Origin": null,
+        "Occasions": null,
+        "Cooking_Method": null,
+        "Course": null
     },
     "Food_History": {
         "Likes": [],

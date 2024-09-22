@@ -7,41 +7,31 @@
         "Taste": [
             "Umami"
         ],
-        "Aroma": [
-            "Meaty",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Mushy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "White",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Asian-Inspired"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Main Course"
+            "Main Course",
+            "Appetizer"
         ]
     },
     "Food_History": {

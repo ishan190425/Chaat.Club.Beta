@@ -4,45 +4,35 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "dark meat chicken fresh peppercorn thai chili .",
     "Flavor_Profile": {
-        "Taste": [
-            "Spicy",
-            "Pungent"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Herbal",
-            "Savory"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Juicy",
-            "Crunchy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#C34B8E",
-            "#F1F5F7"
+            "White",
+            "Red"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose-Free",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
         "Occasions": [
-            "Appetizer",
-            "Entree"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Pan-Seared"
+            "Pan-fried"
         ],
         "Course": [
             "Main Course"

@@ -5,48 +5,29 @@
     "Description": "fried fluffy whole wheat bread served with mashed potato and curry",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet"
         ],
         "Aroma": [
-            "Wheaty",
-            "Buttery",
-            "Curry-scented"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Fluffy",
-            "Creamy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FF9900"
+            "Brown"
         ],
         "Spice_level": [
-            "Moderate"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Indian"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Frying"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

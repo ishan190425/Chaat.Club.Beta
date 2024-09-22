@@ -5,46 +5,38 @@
     "Description": "cottage cheese cooked with a paste of spinach seasoned with indian herbs",
     "Flavor_Profile": {
         "Taste": [
-            "Creamy",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
-            "Herbaceous"
+            "Nutty"
         ],
         "Texture": [
-            "Soft",
-            "Creamy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#8BC34A",
-            "#FFFFFF"
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Brunch",
+            "Lunch"
         ],
         "Cooking_Method": [
             "Boiled",
-            "Baked"
+            "Saut\u00e9ed"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

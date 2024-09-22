@@ -4,19 +4,30 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": [
+            "Umami"
+        ],
         "Aroma": [],
         "Texture": [],
-        "Visual_Color": [],
+        "Visual_Color": [
+            "Red",
+            "Brown"
+        ],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
+        "Country_Origin": [
+            "Italy"
+        ],
+        "Occasions": [
+            "Formal Events"
+        ],
         "Cooking_Method": [],
-        "Course": []
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

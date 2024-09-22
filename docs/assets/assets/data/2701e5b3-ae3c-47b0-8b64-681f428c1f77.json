@@ -5,47 +5,41 @@
     "Description": "spicy salumi white wine garlic butter fresh herbs grilled bread",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Buttery"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Soft",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "White"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "France",
-            "Itlay",
-            "Greece"
+            "Mediterranean"
         ],
         "Occasions": [
             "Appetizer",
-            "Main Course",
-            "Celebration"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
-            "Entree"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -5,44 +5,27 @@
     "Description": "dark meat chicken dry red pepper peanut peppercorn .",
     "Flavor_Profile": {
         "Taste": [
+            "Umami",
+            "Sour"
+        ],
+        "Aroma": [
             "Spicy",
             "Nutty"
         ],
-        "Aroma": [
-            "Peanuty",
-            "Peppery"
-        ],
         "Texture": [
-            "Crunchy",
-            "Savory"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Red",
-            "#FFC499"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Peanut-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Pan-Fried",
-            "Grilled"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

@@ -4,46 +4,19 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "fluffy basmati rice sauteed with golden fried cashew nuts.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Nutty"
-        ],
-        "Aroma": [
-            "Warm",
-            "Fragrant"
-        ],
-        "Texture": [
-            "Fluffy",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "Golden",
-            "#0000FF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Boiled"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

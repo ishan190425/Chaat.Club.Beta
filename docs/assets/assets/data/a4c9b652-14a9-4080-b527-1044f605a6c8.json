@@ -5,38 +5,24 @@
     "Description": "puff pastry folded with potato onion carrot and curry powder",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Earthly"
+            "Umami"
         ],
         "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Flaky"
+            "Crunchy"
         ],
         "Visual_Color": [],
-        "Spice_level": [
-            "Spicy"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Fried"
+            "Baked"
         ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -4,8 +4,13 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "the hottest with bamboo shoots and eggplant",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
+        "Taste": [
+            "Sour",
+            "Umami"
+        ],
+        "Aroma": [
+            "Spicy"
+        ],
         "Texture": [],
         "Visual_Color": [],
         "Spice_level": []
@@ -13,10 +18,14 @@
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [],
+        "Country_Origin": [
+            "Thailand"
+        ],
         "Occasions": [],
         "Cooking_Method": [],
-        "Course": []
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

@@ -5,44 +5,38 @@
     "Description": "berkshire pork dry red pepper ginger peppercorn tofu.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Peppery",
-            "Gingerly"
+            "Earthy",
+            "Nutty",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Red",
-            "Brown"
+            "Red"
         ],
         "Spice_level": [
-            "High"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Tofu"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "China"
+            "USA"
         ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
+            "Boiled",
             "Grilled"
         ],
         "Course": [
-            "Entree"
+            "Main Course"
         ]
     },
     "Food_History": {

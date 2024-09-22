@@ -5,34 +5,21 @@
     "Description": "chicken broth chicken chashu spinach green onion and fried onion served with thin noodles",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Creamy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Chicken Broth",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Thin",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#F2BDE8",
-            "#FFC107",
-            "#8B9467"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
-            "Unknown"
+            "Japan"
         ],
         "Occasions": [
             "Lunch",

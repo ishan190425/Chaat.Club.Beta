@@ -5,43 +5,33 @@
     "Description": "steamed rice lentil patties served with varieties of chutney sambar and chilli powder",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty",
+            "Umami"
         ],
-        "Aroma": [
-            "Earthy",
-            "Herby"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Crunchy"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFFF00"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch"
+            "Lunch",
+            "Snack"
         ],
         "Cooking_Method": [
-            "Steamed"
+            "Steamed",
+            "Boiled"
         ],
         "Course": [
-            "Snack"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

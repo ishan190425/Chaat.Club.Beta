@@ -5,35 +5,42 @@
     "Description": "black pepper garlic sauce with onion and scallion ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Pungent",
-            "Garlicky"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Creamy"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Green",
+            "White"
         ],
         "Spice_level": [
-            "High"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": null,
-        "Nutrition": null,
-        "Country_Origin": null,
+        "Dietary_restrictions": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
+            "Stir-fried",
             "Boiled"
         ],
         "Course": [
+            "Appetizer",
             "Side Dish"
         ]
     },

@@ -6,43 +6,31 @@
     "Flavor_Profile": {
         "Taste": [
             "Bitter",
-            "SlightlySweet"
+            "Umami"
         ],
         "Aroma": [
-            "Grassy",
-            "Citrusy",
-            "Fruity"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Crisp",
-            "Creamy"
+            "Soft",
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Green",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "GlutenFree"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "International Fusion"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Mashed"
+            "Pressed"
         ],
         "Course": [
             "Side Dish"

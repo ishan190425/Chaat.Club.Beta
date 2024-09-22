@@ -4,47 +4,19 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "apple kale celery and lemon.",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Green"
-        ],
-        "Aroma": [
-            "Fresh",
-            "Citrusy"
-        ],
-        "Texture": [
-            "Thin",
-            "Refreshing"
-        ],
-        "Visual_Color": [
-            "#FF69B4",
-            "#E6DAC3"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Blended"
-        ],
-        "Course": [
-            "Healthy Snack"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

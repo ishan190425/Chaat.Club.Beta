@@ -5,51 +5,32 @@
     "Description": "cooked. shrimp tempura cream cheese cucumber and avocado rolled and topped with crunchy bits drizzled with spicy mayo and sweet unagi.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
-        "Aroma": [
-            "Creamy",
-            "Seafood-esque"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Smooth"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Various shades of green, white and pink"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium-Hot"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten",
-            "Mild-Dairy"
-        ],
-        "Nutrition": [
-            "High-Fat",
-            "Moderate-Protein"
-        ],
-        "Country_Origin": [
-            "Asian-Inspired"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack",
-            "Dinner-Entree"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
             "Boiled",
-            "Marinated",
-            "Grilled"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

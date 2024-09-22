@@ -5,46 +5,40 @@
     "Description": " oz. of dungeness crab meat with egg batter onion and scallions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicious"
+            "Umami"
         ],
         "Aroma": [
-            "Oceanic",
-            "Rich"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Creamy",
-            "Crispy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F7D2C4",
-            "#FFFFFF"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "USA"
+            "China"
         ],
         "Occasions": [
             "Lunch",
-            "Brunch"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Boiled"
+            "Pan-fried"
         ],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

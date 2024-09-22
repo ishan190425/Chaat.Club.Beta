@@ -4,47 +4,20 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": " oz",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Herby"
-        ],
-        "Aroma": [
-            "Fresh",
-            "Cilantro-flavored",
-            "Spicy"
-        ],
-        "Texture": [
-            "Creamy",
-            "Thick",
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#F7E9B8",
-            "#44A6E4"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [
-            "Anytime",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Blended"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

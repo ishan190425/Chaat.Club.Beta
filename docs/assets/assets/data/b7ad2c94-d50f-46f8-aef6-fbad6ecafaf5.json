@@ -5,39 +5,32 @@
     "Description": "sweetened with cane sugar this classic mexican coke offers a distinctively crisp and refreshing cola taste.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
-        "Aroma": [
-            "Fruity"
-        ],
-        "Texture": [
-            "Carbonated"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#4C00A1",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Caffeine"
+            "Sugar-Free"
         ],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Any Time of the Day",
-            "Party/Event"
+            "Anytime"
         ],
         "Cooking_Method": [
-            "Bottled"
+            "No cooking involved"
         ],
         "Course": [
-            "Beverage"
+            "Main Course"
         ]
     },
     "Food_History": {

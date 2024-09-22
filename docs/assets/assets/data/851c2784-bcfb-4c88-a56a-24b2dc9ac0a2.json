@@ -5,43 +5,35 @@
     "Description": "raw. thinly sliced raw fish laid over a cluster of sweet and salty vinegared rice tuna salmon yellowtails.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty",
+            "Sweet"
         ],
-        "Aroma": [
-            "Fishy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Raw",
-            "Fishy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#000000"
+            "Yellow",
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Naturally-Derived-Only"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
         "Occasions": [
-            "Appetizer",
+            "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
             "Raw"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

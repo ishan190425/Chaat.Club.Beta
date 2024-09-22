@@ -5,42 +5,24 @@
     "Description": "jelly pepper .",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Sour"
-        ],
-        "Aroma": [
-            "Fruity",
             "Sweet"
         ],
-        "Texture": [
-            "Smooth",
-            "Jelly-like"
-        ],
-        "Visual_Color": [
-            "#FFC0CB"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Protein"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Snack",
             "Breakfast",
-            "Snack"
+            "Brunch",
+            "Picnic"
         ],
-        "Cooking_Method": [
-            "None"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Dessert"
         ]

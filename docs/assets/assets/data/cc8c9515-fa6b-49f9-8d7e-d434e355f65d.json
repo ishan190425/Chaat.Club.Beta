@@ -5,40 +5,25 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Bitter",
-            "Slightly Sweet"
+            "Bitter"
         ],
         "Aroma": [
-            "Green"
+            "Earthy"
         ],
         "Texture": [
-            "Crunchy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#8BC34A",
-            "#2E865F"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Salad Course"
-        ],
-        "Cooking_Method": [
-            "Steamed"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Side Dish"
         ]

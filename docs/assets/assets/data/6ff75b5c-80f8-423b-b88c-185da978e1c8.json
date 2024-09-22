@@ -4,44 +4,32 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "fluff basmati rice cooked with vegetables and mild indian spices",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Aromatic",
-            "Mild"
+            "Earthy"
         ],
         "Texture": [
+            "Crunchy",
             "Soft"
         ],
-        "Visual_Color": [
-            "#FFC499",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
+            "Steamed",
             "Boiled"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

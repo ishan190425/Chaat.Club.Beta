@@ -5,46 +5,39 @@
     "Description": "grilled asparagus avocado broccolini sweet corn heirloom cherry tomato fregola goat cheese pistachio italian herb vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fresh"
+            "Sweet"
         ],
         "Aroma": [
-            "Herby",
-            "Earthy"
+            "Fruity"
         ],
         "Texture": [
-            "Crisp",
-            "Creamy"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
             "Green",
-            "#FF9900"
+            "Yellow",
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Side dish"
+            "Lunch",
+            "Dinner",
+            "Brunch"
         ],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
-            "Salad",
-            "Main Course"
+            "Side Dish",
+            "Appetizer"
         ]
     },
     "Food_History": {

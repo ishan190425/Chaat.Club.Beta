@@ -5,46 +5,39 @@
     "Description": "jinya s original salmon poke in a crispy wonton taco shell topped with cilantro. pieces.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fishy"
+            "Sweet",
+            "Sour",
+            "Salty",
+            "Bitter",
+            "Umami"
         ],
         "Aroma": [
-            "Fresh",
-            "Citrusy"
+            "Fruity"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Soft",
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#FFFFFF"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Japan"
         ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Raw, Pan-Seared"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

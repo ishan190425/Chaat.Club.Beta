@@ -4,46 +4,19 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "dry red pepper flounder peppercorn tofu ",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Spicy",
-            "Fishy"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Mildly Firm"
-        ],
-        "Visual_Color": [
-            "Red"
-        ],
-        "Spice_level": [
-            "Moderate"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Various"
-        ],
-        "Occasions": [
-            "Any Time"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Baked"
-        ],
-        "Course": [
-            "Appetizer",
-            "Entree"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

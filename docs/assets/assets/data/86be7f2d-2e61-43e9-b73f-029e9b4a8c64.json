@@ -4,45 +4,22 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fragrant"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#AAAAAA"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

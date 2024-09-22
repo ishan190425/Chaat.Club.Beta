@@ -5,47 +5,35 @@
     "Description": "vegan miso broth impossible meat made from plants tofu bean sprouts broccolini green onion corn red onion crispy garlic chili seasoning served with thick noodles. vegetarian",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Umami"
+            "Umami",
+            "Sweet"
         ],
-        "Aroma": [
-            "Savory",
-            "Herbal"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Firm",
-            "Velvety"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#008000"
+            "Green",
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan",
-            "Gluten-free"
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Any Time of Day"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Simmered"
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

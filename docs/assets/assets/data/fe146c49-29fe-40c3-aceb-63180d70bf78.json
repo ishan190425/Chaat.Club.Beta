@@ -5,46 +5,28 @@
     "Description": "jumbo lump crab tiger shrimp peperoncino mint lemon olive oil",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Seafood"
+            "Umami"
         ],
-        "Aroma": [
-            "Fresh",
-            "Oceanic"
-        ],
+        "Aroma": null,
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#F2C464"
-        ],
+        "Visual_Color": null,
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Snack",
+            "Appetizer"
         ],
-        "Cooking_Method": [
-            "Wet- Cooked"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Cooking_Method": null,
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

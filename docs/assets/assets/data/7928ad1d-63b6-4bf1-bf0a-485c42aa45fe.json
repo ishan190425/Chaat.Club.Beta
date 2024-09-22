@@ -4,43 +4,36 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Buttery",
-            "Oaky"
-        ],
+        "Taste": [],
         "Aroma": [
             "Fruity",
-            "Caramel"
+            "Earthy"
         ],
         "Texture": [
-            "Smooth",
-            "Rich"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FFFF00"
+            "Yellow",
+            "Brown"
         ],
-        "Spice_level": [
-            "Slightly Sweet"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "USA"
+            "France"
         ],
         "Occasions": [
-            "Ap\u00e9ritif",
             "Dinner"
         ],
         "Cooking_Method": [
-            "N/A"
+            "Still wine"
         ],
         "Course": [
-            "Wine Pairing"
+            "Appetizer"
         ]
     },
     "Food_History": {

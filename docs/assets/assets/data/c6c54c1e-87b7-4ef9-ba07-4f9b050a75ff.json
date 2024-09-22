@@ -5,33 +5,28 @@
     "Description": "basmati rice cooked with vegetables and indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Aromatic",
+            "Earthy",
             "Spicy"
         ],
         "Texture": [
             "Soft",
-            "Separate Grains"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFC499"
+            "Yellow",
+            "Red"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
@@ -40,10 +35,10 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled"
+            "Boiled",
+            "Stewed"
         ],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

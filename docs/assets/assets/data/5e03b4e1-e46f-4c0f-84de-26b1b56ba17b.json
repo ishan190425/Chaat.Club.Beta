@@ -5,42 +5,33 @@
     "Description": "two fajita covered in chile con queso",
     "Flavor_Profile": {
         "Taste": [
+            "Umami"
+        ],
+        "Aroma": [
             "Spicy",
             "Cheesy"
         ],
-        "Aroma": [
-            "Savory",
-            "Spicy",
-            "Buttery"
-        ],
         "Texture": [
-            "Crunchy",
             "Soft",
-            "Creamy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Grilled",

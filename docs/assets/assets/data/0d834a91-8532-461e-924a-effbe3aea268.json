@@ -5,44 +5,33 @@
     "Description": "berkshire pork and parsley.",
     "Flavor_Profile": {
         "Taste": [
-            "Porky",
-            "Meaty"
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Savory"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Chewy"
+            "Soft",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
-            "USA"
+            "China"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

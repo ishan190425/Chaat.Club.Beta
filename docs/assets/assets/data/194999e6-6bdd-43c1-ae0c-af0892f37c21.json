@@ -5,43 +5,35 @@
     "Description": "three skewers shrimp beef and chicken basted with a chimichurri sauce and char broiled",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Meaty"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Herby",
-            "Citrusy"
+            "Fruity"
         ],
         "Texture": [
-            "Juicy",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#FFFFFF"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Argentina",
-            "Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Party Food"
+            "BBQ",
+            "Outdoor gatherings"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Broiled"
         ],
         "Course": [
             "Appetizer"

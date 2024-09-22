@@ -5,46 +5,20 @@
     "Description": "with fresh chili garlic lime sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Citrusy"
+            "Umami"
         ],
-        "Aroma": [
-            "Garlicky",
-            "Fruity"
-        ],
-        "Texture": [
-            "Flaky",
-            "Moist"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild",
-            "Tingly"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "International (Various)"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Steamed"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

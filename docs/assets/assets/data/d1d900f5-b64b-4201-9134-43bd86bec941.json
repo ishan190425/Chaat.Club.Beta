@@ -5,46 +5,31 @@
     "Description": "broccoli dark meat chicken .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet"
         ],
-        "Aroma": [
-            "Nutty",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Juicy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFF"
+            "Brown"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Wheat"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Breakfast"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

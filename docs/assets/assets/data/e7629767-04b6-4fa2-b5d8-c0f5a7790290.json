@@ -5,45 +5,32 @@
     "Description": "pork broth ground pork soboro bean sprouts green onion bok choy and chili oil served with thick noodles",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami",
-            "Spicy"
+            "Salty"
         ],
-        "Aroma": [
-            "Brothy",
-            "Savory",
-            "Umami"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Springy"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#008000",
-            "#F2B30F"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan"
+            "Japan, other parts of East Asia"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled"
+            "Boiled",
+            "Steamed"
         ],
         "Course": [
             "Main Course"

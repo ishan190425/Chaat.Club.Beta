@@ -4,44 +4,22 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Cheesy"
-        ],
-        "Aroma": [],
+        "Taste": null,
+        "Aroma": null,
         "Texture": [
-            "Crunchy",
             "Soft"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Peanut-Free",
-            "Tree-Nut-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Dessert"
         ]
     },
     "Food_History": {

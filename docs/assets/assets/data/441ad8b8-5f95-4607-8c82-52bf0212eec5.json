@@ -4,48 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "north eastern region pork and glutinous rice has a sour flavor served with fresh side dish of lettuce cucumber carrot ginger roasted peanut and dried chili",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Meat"
-        ],
-        "Aroma": [
-            "Peanutty",
-            "Spicy"
-        ],
-        "Texture": [
-            "Soft",
-            "Crispy"
-        ],
-        "Visual_Color": [
-            "#FFCEB4",
-            "#F5DEB3"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "North East Asia"
-        ],
-        "Occasions": [
-            "Snack",
-            "Lunch"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Steamed"
-        ],
-        "Course": [
-            "Main Course",
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

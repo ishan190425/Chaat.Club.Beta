@@ -4,48 +4,36 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Meaty",
             "Fruity"
         ],
         "Texture": [
-            "Juicy",
             "Crunchy"
         ],
         "Visual_Color": [
-            ""
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Dairy",
-            "Gluten",
-            "Poultry"
+            "Halal"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Greece"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner",
             "Snack"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Rotisserie"
+            "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

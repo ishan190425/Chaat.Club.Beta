@@ -4,51 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "fresh green papaya salad green bean cherry tomato flavored with lime garlic chili and fish sauce",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Citrusy",
-            "Peanutty",
-            "Garlicky"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Fresh"
-        ],
-        "Visual_Color": [
-            "Green",
-            "#0000FF"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Lactose-Free",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Vitamin C"
-        ],
-        "Country_Origin": [
-            "Thailand"
-        ],
-        "Occasions": [
-            "Ap\u00e9ro-Hour",
-            "Picnic"
-        ],
-        "Cooking_Method": [
-            "Raw",
-            "Marinated"
-        ],
-        "Course": [
-            "Appetizer",
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

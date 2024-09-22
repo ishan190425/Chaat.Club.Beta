@@ -5,16 +5,12 @@
     "Description": "flounder bell pepper",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
             "Sour"
         ],
-        "Aroma": [
-            "Fruity"
-        ],
-        "Texture": [
-            "Tender"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
+            "White",
             "Green"
         ],
         "Spice_level": []
@@ -22,18 +18,13 @@
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Asia"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Pan-fried"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

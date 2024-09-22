@@ -5,32 +5,30 @@
     "Description": "thick rice and lentil pancake topped with onions green chilies",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
-            "Spicy"
+            "Spicy",
+            "Cheesy"
         ],
         "Texture": [
             "Crunchy",
-            "Soft"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#8B0A1A"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Moderate"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
@@ -39,10 +37,10 @@
             "Lunch"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Pan-Fried"
         ],
         "Course": [
-            "Starters"
+            "Side Dish"
         ]
     },
     "Food_History": {

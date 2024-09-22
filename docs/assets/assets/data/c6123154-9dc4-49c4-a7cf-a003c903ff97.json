@@ -4,43 +4,28 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Indian Spices"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Soft",
+            "Chewy",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan Fried"
+            "Pan-cooked"
         ],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

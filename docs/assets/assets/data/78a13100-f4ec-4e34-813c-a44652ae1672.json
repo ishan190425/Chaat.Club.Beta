@@ -5,47 +5,36 @@
     "Description": "serves . shaggy roll new orleans roll dracula roll phili roll nigiri and a side of spicy garlic edamame.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Garlicky"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Pungent",
-            "Spicy"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Green",
-            "White"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium-Hot"
+            "Hot"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Shellfish"
+            "Halal"
         ],
-        "Nutrition": [],
-        "Country_Origin": [
-            "Japan",
-            "United States"
+        "Nutrition": [
+            "Gluten-Free"
         ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack",
-            "Party"
+            "Party",
+            "Nightlife"
         ],
-        "Cooking_Method": [
-            "Boiled",
-            "Grilled",
-            "Deep-Fried"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,51 +5,36 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Fermented"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Thick",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "BROWN"
+            "Red",
+            "Yellow",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Vegan-friendly",
-            "Vegetarian-friendly"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-in-Polyunsaturated-Fat",
-            "Good-Source-Of-Protein"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Thailand",
-            "Laos"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Side dish",
-            "Dip",
-            "Main course"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Ferment",
-            "Boiled"
+            ""
         ],
-        "Course": [
-            "Appetizer",
-            "Side dish"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

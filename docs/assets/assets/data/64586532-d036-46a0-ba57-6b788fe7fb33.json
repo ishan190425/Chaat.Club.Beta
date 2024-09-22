@@ -4,45 +4,31 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "lightly salted boiled soybeans. vegetarian and gluten free.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Mild",
-            "Beans"
+            "Earthy"
         ],
         "Texture": [
             "Soft"
         ],
-        "Visual_Color": [
-            "#000080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
+            "Vegan",
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Appetizer"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Boiled"
         ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

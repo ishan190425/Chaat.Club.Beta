@@ -5,43 +5,35 @@
     "Description": "bell pepper onion ribs.",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
-        "Aroma": [
-            "Fruity",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FF6347",
-            "#FFFFFF"
+            "Red",
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Party",
-            "Barbecue"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Baked"
+            "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Main Course",
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -4,42 +4,33 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fruity",
-            "Sweet"
+            "Earthy",
+            "Floral"
         ],
-        "Texture": [
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#D43E3E",
-            "#333333"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            ""
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "California"
+            "France"
         ],
         "Occasions": [
-            "Social Gathering"
+            "Dinner",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Bottled"
+            "Age",
+            "Bouquet",
+            "Nose",
+            "Palate"
         ],
         "Course": [
-            "Wine"
+            "Appetizer"
         ]
     },
     "Food_History": {

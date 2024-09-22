@@ -5,43 +5,40 @@
     "Description": "fluffy basmati rice sauteed with butter fried cumin seeds and mild indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
         "Aroma": [
+            "Earthy",
             "Nutty",
-            "Savory"
+            "Spicy"
         ],
         "Texture": [
-            "Light And Fluffy"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Golden Brown"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
+            "Boiled",
             "Sauteed"
         ],
         "Course": [
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

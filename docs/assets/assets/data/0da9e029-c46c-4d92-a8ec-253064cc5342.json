@@ -5,42 +5,28 @@
     "Description": "beef shank green onion pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Beefy",
-            "Pungent"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#F5DEB3"
+            "Red",
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

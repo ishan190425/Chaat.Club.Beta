@@ -4,45 +4,23 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "dark meat chicken dry red pepper peanuts peppercorn .",
     "Flavor_Profile": {
-        "Taste": [
-            "Spicy",
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Peppery",
-            "Herby",
-            "Nuts"
+            "Spicy"
         ],
-        "Texture": [
-            "Chewy",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "Red",
-            "#FF3333",
-            "[Red-Orange]"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [
-            "Protein",
-            "Iron"
+            "Low Fat"
         ],
         "Country_Origin": [],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Deep-Fried"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

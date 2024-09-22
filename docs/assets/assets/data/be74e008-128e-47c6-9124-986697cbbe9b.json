@@ -4,42 +4,22 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Fruity"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Floral",
-            "Fruity"
+            "Fruity",
+            "Floral"
         ],
-        "Texture": [
-            "Bubbly",
-            "Refreshing"
-        ],
-        "Visual_Color": [
-            "#FFC0CB",
-            "#E4E8EA"
-        ],
+        "Texture": [],
+        "Visual_Color": [],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Party"
-        ],
-        "Cooking_Method": [
-            "Not Required"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

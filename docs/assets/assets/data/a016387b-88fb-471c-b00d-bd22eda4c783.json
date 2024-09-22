@@ -5,42 +5,37 @@
     "Description": "thin crispy rice and lentil crepe",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour"
         ],
         "Aroma": [
-            "Grainy"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Thin"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "Golden"
+            "Green",
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Good source of Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch"
+            "Lunch]",
+            "Cooking_Method"
         ],
-        "Cooking_Method": [
-            "Fermentation"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

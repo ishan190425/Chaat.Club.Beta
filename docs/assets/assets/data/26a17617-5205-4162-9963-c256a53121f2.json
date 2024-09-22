@@ -4,46 +4,24 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "serves . fz abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Sour"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Gingered",
-            "Fruity"
+            "Fruity",
+            "Spicy"
         ],
-        "Texture": [
-            "Smooth",
-            "Crisp"
-        ],
-        "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Moderate"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Ap\u00e9ritif",
-            "Party"
+            "Bars,Cocktails"
         ],
-        "Cooking_Method": [
-            "Mixed"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

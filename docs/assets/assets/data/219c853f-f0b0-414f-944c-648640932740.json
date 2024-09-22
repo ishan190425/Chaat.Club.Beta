@@ -5,48 +5,31 @@
     "Description": "saut ed portobello mushrooms grilled vegetables black beans sliced avocado",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Mushroomy",
-            "Vegetal"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Crunchy"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#8B4513",
-            "#F7D2C4"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Midday Snack",
-            "Lunch",
-            "Dinner"
+            "Brunch",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled/Sauteed"
+            "Grilled",
+            "Sauteed"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

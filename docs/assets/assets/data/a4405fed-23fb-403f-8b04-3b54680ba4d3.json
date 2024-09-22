@@ -7,38 +7,21 @@
         "Taste": [
             "Sweet"
         ],
-        "Aroma": [
-            "Earthly",
-            "Herbaceous"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Smokey"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

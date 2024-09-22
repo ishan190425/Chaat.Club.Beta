@@ -5,46 +5,34 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Sour"
+            "Sweet",
+            "Sour",
+            "Salty"
         ],
         "Aroma": [
             "Fruity",
-            "Sweet"
+            "Floral"
         ],
         "Texture": [
-            "Light",
-            "Clear"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#8BC34A",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Calorie",
-            "Sugar-Free",
-            "Sodium-Free"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "USA"
+            "United Kingdom"
         ],
-        "Occasions": [
-            "Any Time"
-        ],
-        "Cooking_Method": [
-            "Not Required"
-        ],
-        "Course": [
-            "Beverage"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

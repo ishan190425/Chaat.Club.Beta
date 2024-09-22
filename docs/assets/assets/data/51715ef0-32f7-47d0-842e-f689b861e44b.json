@@ -4,39 +4,31 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Semi-sweet",
+        "Taste": [],
+        "Aroma": [
             "Fruity"
         ],
-        "Aroma": [
-            "Floral",
-            "Crunchy"
-        ],
-        "Texture": [
-            "Light-bodied",
-            "Crisp"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#FFFFFF"
+            "White"
         ],
         "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Ap\u00e9ritif",
-            "Wine_and_Dinner"
+            "Social Gathering",
+            "Wine Tasting"
         ],
-        "Cooking_Method": [],
-        "Course": [
-            "Finger_Food"
-        ]
+        "Cooking_Method": [
+            "Unrelated to cooking method as it is a beverage.",
+            "can be chilled"
+        ],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

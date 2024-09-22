@@ -5,45 +5,33 @@
     "Description": "broccoli shrimp.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Seafood"
+            "Salty"
         ],
-        "Aroma": [
-            "Pungent"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#8B9467",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Seafood",
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Asia"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            " Snack"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Starter"
+            "Side Dish"
         ]
     },
     "Food_History": {

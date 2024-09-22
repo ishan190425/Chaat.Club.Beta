@@ -4,47 +4,19 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "grated grana padano herb breadcrumb cracked pepper",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Peppery"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Herby"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Fresh"
-        ],
-        "Visual_Color": [
-            "#CCCCFF",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Raw"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,47 +5,25 @@
     "Description": "dry red pepper flounder peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Peppery",
-            "Fishy"
-        ],
-        "Texture": [
-            "Crispy",
-            "Moist"
-        ],
-        "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
-        ],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
         "Spice_level": [
-            "High"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Peanut"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-Fried"
+            "Grilled"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

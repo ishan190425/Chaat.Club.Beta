@@ -7,41 +7,23 @@
         "Taste": [
             "Umami"
         ],
-        "Aroma": [
-            "Savory",
-            "Meaty"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
             "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japan/China"
-        ],
-        "Occasions": [
-            "Appetizer"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Fryed"
+            "Pan-Fried"
         ],
         "Course": [
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

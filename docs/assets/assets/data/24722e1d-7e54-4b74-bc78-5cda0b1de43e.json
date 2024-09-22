@@ -5,46 +5,39 @@
     "Description": "thin long rice and lentil crepe filled with mashed potatoes and onions sprinkled with butter",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet",
+            "Salty"
         ],
         "Aroma": [
-            "Buttery",
-            "Spicy"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#CCCCCC",
-            "#FFFFFF"
+            "Brown"
         ],
         "Spice_level": [
-            "Mildly_Spicy"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Snack"
+            "Lunch"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Second Course"
+            "Main Course"
         ]
     },
     "Food_History": {

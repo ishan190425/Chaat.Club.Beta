@@ -4,46 +4,19 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "grilled chicken poblano bacon sherry wine",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Sweet"
-        ],
-        "Aroma": [
-            "Buttery",
-            "Herbal"
-        ],
-        "Texture": [
-            "Smooth",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "#FFC394",
-            "#F5F5DC"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry",
-            "Gluten",
-            "Lactose"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Party"
-        ],
-        "Cooking_Method": [
-            "Roasted"
-        ],
-        "Course": [
-            "Soups and Salads"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

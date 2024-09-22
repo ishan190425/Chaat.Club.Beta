@@ -5,45 +5,42 @@
     "Description": "batter fried seasoned vegetables sauteed with flavored vegetables served with manchurian sauce.",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Fried",
-            "Savory"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Soften"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF9999",
-            "#FFFFFF"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
-            "High"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
+            "Vegan"
         ],
         "Nutrition": [],
         "Country_Origin": [
-            "India/China"
+            "India"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Party"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Stir-Fried"
+            "Deep-fried",
+            "Sauteed"
         ],
         "Course": [
-            "Starters"
+            "Main Course"
         ]
     },
     "Food_History": {

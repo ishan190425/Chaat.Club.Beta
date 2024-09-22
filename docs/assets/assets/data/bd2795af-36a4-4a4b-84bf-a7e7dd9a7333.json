@@ -4,48 +4,19 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "chicken fajita beef fajita or combo",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Beefy"
-        ],
-        "Aroma": [
-            "Meaty",
-            "Spicy"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#F5DEB3",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Beef"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Breakfast"
-        ],
-        "Cooking_Method": [
-            "Pan-Fried"
-        ],
-        "Course": [
-            "Snack",
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

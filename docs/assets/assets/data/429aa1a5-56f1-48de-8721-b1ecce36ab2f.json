@@ -5,34 +5,24 @@
     "Description": "sweet corn broccolini piquillo pepper roasted cipollini white polenta roasted chicken jus",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Sweet"
         ],
-        "Aroma": [
-            "Roasted",
-            "Herby"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Creamy"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF0000",
-            "#C6E2B5",
-            "#FFFFFF",
-            "#FF9900"
+            "White",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": null,
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Italy/Tuscany"
+            "Italy"
         ],
         "Occasions": [
             "Lunch",

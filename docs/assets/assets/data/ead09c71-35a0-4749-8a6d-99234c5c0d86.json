@@ -5,40 +5,31 @@
     "Description": "fresh rice noodle topped with chinese broccoli and house gravy",
     "Flavor_Profile": {
         "Taste": [
-            "Bittersweet"
-        ],
-        "Aroma": [
-            "Earthy",
             "Umami"
         ],
+        "Aroma": [],
         "Texture": [
-            "Slippery",
-            "Al dente"
+            "Smooth"
         ],
         "Visual_Color": [
             "Green",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Stir-fried"
+            "Stir-Fried"
         ],
         "Course": [
             "Main Course"

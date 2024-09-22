@@ -5,44 +5,35 @@
     "Description": "pork and shrimp broth shrimp chicken wonton green onion kikurage may be substituted with spinach based on availability. served with thick noodles",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Sweet"
         ],
         "Aroma": [
-            "Brothy",
-            "Savory",
-            "Meaty"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Springy",
-            "Creamy",
-            "Fresh"
+            "Smooth"
         ],
         "Visual_Color": [
-            "White",
-            "#F5DEB3"
+            "Red",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Carb"
-        ],
-        "Country_Origin": [
-            "Japan"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled"
+            "Boiled",
+            "Stir-fry"
         ],
         "Course": [
             "Main Course"

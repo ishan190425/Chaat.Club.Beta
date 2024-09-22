@@ -5,32 +5,27 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
         "Aroma": [],
         "Texture": [
-            "Tender",
             "Crunchy"
         ],
         "Visual_Color": [
-            "Brown",
-            "White"
+            "White",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Meal"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Fried"

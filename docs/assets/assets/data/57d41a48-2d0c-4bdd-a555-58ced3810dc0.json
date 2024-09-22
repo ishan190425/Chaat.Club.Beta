@@ -5,51 +5,42 @@
     "Description": "chicken ramen with green onion and corn chicken chashu rice crispy chicken french fries orange slice candy and vanilla ice cream.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami"
         ],
         "Aroma": [
-            "Chicken-y",
-            "Asian-inspired"
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Creamy"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC394",
-            "#F7D2CD",
-            "#C9A46E",
-            "#FFFFFF"
+            "Yellow",
+            "Green",
+            "Brown",
+            "Red",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Calorie"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Japan",
-            "USA"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack Time",
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch, Dinner"
         ],
         "Cooking_Method": [
             "Boiled",
             "Fried",
-            "Baked"
+            "Sauteed"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

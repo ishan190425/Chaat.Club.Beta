@@ -4,46 +4,27 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "cumin lamb onion .",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Savory",
-            "Meaty",
-            "Sweet"
+            "Earthy"
         ],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FF8C00",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "India/Pakistan"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Special Occasion",
+            "Grilled Dinner",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

@@ -5,31 +5,26 @@
     "Description": "provolone picante house ricotta mozzarella pecorino romano red sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Cheesy",
-            "Meaty"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Soft",
-            "Chewy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FF69B4"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Caseinfree",
-            "Lactoseintolerant",
-            "Glutenfree"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Italy"
@@ -39,10 +34,10 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Baked"
+            "Grilled"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

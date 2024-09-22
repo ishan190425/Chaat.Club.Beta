@@ -4,31 +4,38 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
+        "Taste": [],
+        "Aroma": [
             "Spicy"
         ],
-        "Aroma": [
-            "Fruity",
-            "Savory"
-        ],
         "Texture": [
-            "Soft",
-            "Creamy"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [],
+        "Dietary_restrictions": [
+            "Vegetarian"
+        ],
         "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Country_Origin": [
+            "India"
+        ],
+        "Occasions": [
+            "Lunch",
+            "Dinner"
+        ],
+        "Cooking_Method": [
+            "Sauteed",
+            "Grilled"
+        ],
+        "Course": [
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

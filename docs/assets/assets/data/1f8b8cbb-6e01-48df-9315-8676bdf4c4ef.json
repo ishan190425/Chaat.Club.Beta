@@ -4,10 +4,18 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "green onion pepper tofu .",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": [
+            "Salty",
+            "Umami"
+        ],
         "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
+        "Texture": [
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "Green",
+            "White"
+        ],
         "Spice_level": []
     },
     "Societal_Properties": {
@@ -15,8 +23,14 @@
         "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Cooking_Method": [
+            "Sauteed",
+            "Pan-fried"
+        ],
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

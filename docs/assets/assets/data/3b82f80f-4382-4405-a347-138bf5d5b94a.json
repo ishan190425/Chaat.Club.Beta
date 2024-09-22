@@ -4,43 +4,23 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Salty"
-        ],
-        "Aroma": [
-            "Pungent",
-            "Fruity"
-        ],
-        "Texture": [
-            "Crumbly"
-        ],
-        "Visual_Color": [
-            "White"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
-        "Country_Origin": [
-            "Greece"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Breakfast"
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "None"
+            "Not applicable"
         ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,40 +5,27 @@
     "Description": "dry red pepper garlic ginger green onion peanuts shrimp",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Spicy"
+            "Sour"
         ],
         "Aroma": [
-            "Garlicky",
-            "Savory",
-            "Peanutty"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "China"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Chinese Meal"
         ],
         "Cooking_Method": [
-            "Stir-fried"
+            "Stir-Fried"
         ],
         "Course": [
             "Main Course"

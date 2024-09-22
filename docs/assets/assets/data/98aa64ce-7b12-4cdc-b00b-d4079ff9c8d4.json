@@ -5,33 +5,19 @@
     "Description": "pork broth pork chashu green onion spinach seasoned egg nori dried seaweed. served with extra thick noodles.",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Meaty",
-            "Brothy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Thick"
+            "Soft",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "White",
-            "Brown"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Pork-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
@@ -42,9 +28,7 @@
         "Cooking_Method": [
             "Boiled"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

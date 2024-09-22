@@ -5,45 +5,30 @@
     "Description": "thick rice and lentil pancake topped with onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Oniony",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
-            "Soft"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#F2C464",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Glutenfree"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "India/South Indian"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled/Pan-fried'], ",
-            "Course': ['Breakfast/Starters']"
+            "Pan-fried"
         ],
-        "Course": []
+        "Course": [
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

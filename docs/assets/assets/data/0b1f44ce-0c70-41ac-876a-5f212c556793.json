@@ -5,40 +5,32 @@
     "Description": "juicy fried chicken thigh with an original garlic pepper served with mixed baby greens and jinya s original ponzu sauce.",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Peppery"
+            "Fruity",
+            "Floral"
         ],
         "Texture": [
-            "Crispy",
-            "Juicy"
+            "Crunchy",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F9E2D0",
-            "#FFFFFF"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Mildly Spicy"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Meat-Derived"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global/Culinary Fusion"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
-            "Dinner",
-            "Party Food"
+            "Dinner"
         ],
         "Cooking_Method": [
             "Fried"

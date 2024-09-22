@@ -5,48 +5,27 @@
     "Description": "apple cucumber parsley ginger lime celery.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Sour"
+            "Sour",
+            "Sweet"
         ],
         "Aroma": [
-            "Citrusy",
-            "Herbaceous"
+            "Fruity"
         ],
-        "Texture": [
-            "Juicy",
-            "Refreshing"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#FFF599",
-            "#C6E2B5"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
-        "Cooking_Method": [
-            "Blended"
-        ],
-        "Course": [
-            "Refreshing Beverage"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

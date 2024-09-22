@@ -5,36 +5,28 @@
     "Description": "egg tomato.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fruity"
+            "Umami"
         ],
         "Aroma": [
-            "Eggy",
-            "Tomatoey"
+            "Nutty",
+            "Spicy"
         ],
         "Texture": [
-            "Soft",
-            "Fresh"
+            "Soft"
         ],
         "Visual_Color": [
             "Red",
-            "#FFC080"
+            "Yellow",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch"
@@ -42,10 +34,7 @@
         "Cooking_Method": [
             "Fried"
         ],
-        "Course": [
-            "Breakfast",
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

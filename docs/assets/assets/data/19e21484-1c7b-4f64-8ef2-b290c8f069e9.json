@@ -5,46 +5,34 @@
     "Description": "fresh flat rice noodle with black soya sauce egg batter and chinese broccoli",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Eggy",
-            "Bready"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Slippery",
-            "Creamy"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#CC3333",
-            "#F7F7F7"
+            "White",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Poultry"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
-            "Lunch",
-            "Breakfast"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Stir-fried"
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

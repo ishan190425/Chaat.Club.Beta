@@ -5,46 +5,39 @@
     "Description": "famous spicy thai soup flavored with lemongrass mushroom lime tomato and chilies",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Spicy",
-            "Savory",
-            "Fruity"
+            "Fruity",
+            "Spicy"
         ],
         "Texture": [
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
-            "High"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
         "Occasions": [
-            "Everyday meal"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Simmered"
+            "Boiled"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -6,35 +6,29 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Fruity"
+            "Sour"
         ],
-        "Aroma": [
-            "Fruity",
-            "Sweet"
-        ],
-        "Texture": [
-            "Sparkling"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#FFFFFF"
+            "Yellow",
+            "Green",
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
+        "Nutrition": null,
         "Country_Origin": [
             "Japan"
         ],
         "Occasions": [
-            "Any-time"
+            "Drinks At Party ",
+            "Quenching Thirst  "
         ],
-        "Cooking_Method": [],
-        "Course": [
-            "Beverage"
-        ]
+        "Cooking_Method": null,
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -6,44 +6,28 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Savory"
+            "Salty"
         ],
-        "Aroma": [
-            "Cheesy",
-            "Buttery"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFFF00",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Moderate-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Unknown"
-        ],
-        "Occasions": [
-            "Afternoon Tea",
-            "Snack"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Fried"
+            "Baked"
         ],
         "Course": [
-            "Snack"
+            "Appetizer",
+            "Main Course"
         ]
     },
     "Food_History": {

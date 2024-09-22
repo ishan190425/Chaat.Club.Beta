@@ -5,41 +5,35 @@
     "Description": "two cheese enchiladas",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Cheesy",
-            "Mild"
+            "Cheesy"
         ],
         "Texture": [
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden Brown",
-            "#FFFFFF"
+            "White",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Lactose Intolerant Friendly"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Mexico, USA"
+            "Mexico"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Fried Rolls"
+            "Fried"
         ],
         "Course": [
             "Main Course"

@@ -5,45 +5,28 @@
     "Description": "dark meat chicken dried tangerine peel fresh orange.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Savory"
+            "Sweet"
         ],
         "Aroma": [
-            "Citrusy",
-            "Orangy"
+            "Fruity"
         ],
         "Texture": [
-            "Crispy",
-            "Juicy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep Frying"
+            "Deep-fried"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

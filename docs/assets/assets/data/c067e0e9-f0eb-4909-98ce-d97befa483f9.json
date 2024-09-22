@@ -4,7 +4,7 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": null,
         "Aroma": [],
         "Texture": [],
         "Visual_Color": [],
@@ -12,10 +12,16 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
+        "Nutrition": [
+            "Low Fat"
+        ],
         "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
+        "Occasions": [
+            "Always"
+        ],
+        "Cooking_Method": [
+            ""
+        ],
         "Course": []
     },
     "Food_History": {

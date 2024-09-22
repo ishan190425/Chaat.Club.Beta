@@ -5,45 +5,29 @@
     "Description": "served with crispy fries",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Salty",
+            "Umami"
+        ],
+        "Aroma": [],
+        "Texture": [
             "Crunchy"
         ],
-        "Aroma": [
-            "Fried"
-        ],
-        "Texture": [
-            "Crispy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "Golden Brown",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Lunch"
+            "LunchTime",
+            "Snacks"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Deep-fried"
         ],
         "Course": [
-            "Appetizer",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

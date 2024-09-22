@@ -4,50 +4,29 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "mozzarella fresh basil olive oil red sauce",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Tangy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fresh",
-            "Herby"
+            "Fruity"
         ],
-        "Texture": [
-            "Creamy",
-            "Soft"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#FFC080",
-            "#008000"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "Good-Fat",
-            "High-Calcium"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack",
-            "Lunch"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Skillet"
+            "Sauced"
         ],
         "Course": [
-            "Starter"
+            "Main Course"
         ]
     },
     "Food_History": {

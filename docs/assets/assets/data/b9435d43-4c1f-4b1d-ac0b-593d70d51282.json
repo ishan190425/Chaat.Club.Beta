@@ -5,46 +5,37 @@
     "Description": "with red curry paste ginger sshallot and fried egg",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Pungent",
-            "Earthy"
+            "Spicy",
+            "Earthy",
+            "Fruity"
         ],
         "Texture": [
-            "Crispy",
-            "Fluffy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFA07A",
-            "#F2DEE7"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Sesame",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-fried"
+            "Fried"
         ],
         "Course": [
-            "Side dish"
+            "Main Course"
         ]
     },
     "Food_History": {

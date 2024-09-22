@@ -5,33 +5,26 @@
     "Description": "steamed cauliflower cooked with onion paste and fine indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Bitter"
         ],
         "Aroma": [
-            "Earthy",
-            "Spicy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Tender",
-            "Crunchy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Green",
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],

@@ -5,36 +5,33 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Musty",
-            "Earthy"
+            "Umami"
         ],
         "Aroma": [
-            "Pungent",
-            "Savory"
+            "Nutty",
+            "Cheesy",
+            "Earthy"
         ],
         "Texture": [
-            "Crumbly",
-            "Soft"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#F5F5DC",
-            "#E6DAC3"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [
+            "Breakfast"
         ],
-        "Country_Origin": [
-            "India"
+        "Cooking_Method": [
+            "Fried"
         ],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Course": [
+            "Main Course",
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

@@ -5,47 +5,33 @@
     "Description": "thin crispy rice and lentil crepe topped with onions and chilies filled with potatoes.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Oniony",
-            "Chili-spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFCC99",
-            "#FFFF00"
+            "Red"
         ],
-        "Spice_level": [
-            "Medium-Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
-            "Snack"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Fried",
+            "Boiled"
         ],
-        "Course": [
-            "Side Dish",
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

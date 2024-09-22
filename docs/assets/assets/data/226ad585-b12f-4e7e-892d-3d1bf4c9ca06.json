@@ -4,42 +4,21 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Nuttty",
-            "Savory"
-        ],
-        "Aroma": [
-            "Nutty",
-            "Rich"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Thick",
-            "Creamy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Tree-Nut"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Blended"
+            "Roasted"
         ],
         "Course": [
             "Side Dish"

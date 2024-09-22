@@ -4,41 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Succulent"
-        ],
-        "Aroma": [
-            ""
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Juicy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "White",
-            "#F7D2C4"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "unknown"
-        ],
-        "Occasions": [
-            "Snack",
-            "Lunch"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Appetizer"
         ]

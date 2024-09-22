@@ -5,45 +5,34 @@
     "Description": "salami speck provolone pepperoncini olive heirloom cherry tomato cucumber pickled red onion roasted pepper herb breadcrumb oregano vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Herby",
-            "Meaty",
-            "Vinegary"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crunchy",
-            "Juicy"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#7F5D00"
+            "Red",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low Fat"
         ],
-        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Fresh"
-        ],
-        "Course": [
-            "Appetizer",
-            "Side Dish"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

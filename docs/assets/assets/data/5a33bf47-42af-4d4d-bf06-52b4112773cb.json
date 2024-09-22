@@ -5,46 +5,22 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Rich"
+            "Sweet"
         ],
-        "Aroma": [
-            "Buttery",
-            "Vanilla"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Moist"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFD7BE",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
-        "Country_Origin": [
-            "General"
-        ],
-        "Occasions": [
-            "Dessert",
-            "Special Occasion"
-        ],
-        "Cooking_Method": [
-            "Baked"
-        ],
-        "Course": [
-            "Dessert"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

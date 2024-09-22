@@ -5,46 +5,32 @@
     "Description": "bell pepper lotus potato silk",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Earthy"
+            "Sweet"
         ],
-        "Aroma": [
-            "Earthy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Fuzzy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#964B00",
-            "#FFFFFF",
-            "#FFC499"
+            "Yellow",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Boiled"
         ],
         "Course": [
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

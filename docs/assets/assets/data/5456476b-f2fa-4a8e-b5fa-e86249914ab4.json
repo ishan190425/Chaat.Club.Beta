@@ -5,42 +5,35 @@
     "Description": "blackened salmon black bean salad over romaine leaf fiesta mango vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Fruity",
-            "Fishy"
+            "Sour"
         ],
-        "Aroma": [
-            "Fruity",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crisp",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
             "Green",
-            "#FF8C00"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Glycemic"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
-            "USA/Mexico"
+            "Mexico/United States"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Mixed Greens"
+            "Grilled/ Boiled"
         ],
         "Course": [
             "Main Course"

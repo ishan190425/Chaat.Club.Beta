@@ -5,45 +5,29 @@
     "Description": "beef shank cliantro garlic ginger green onion noodle pepper peppercorn ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Pungent"
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Fiberous"
+            "Chewy",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFF0F0"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Boiled"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Appetizer",
+            "Main Course",
+            "Side Dish",
+            "Dessert"
         ]
     },
     "Food_History": {

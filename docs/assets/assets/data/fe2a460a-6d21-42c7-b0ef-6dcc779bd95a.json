@@ -8,37 +8,27 @@
             "Sweet"
         ],
         "Aroma": [
-            "Chocolatey",
             "Fruity"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Carbohydrate"
-        ],
-        "Country_Origin": [
-            "Spain/Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Breakfast"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Deep fried"
         ],
         "Course": [
             "Dessert"

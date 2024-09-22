@@ -5,47 +5,32 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Rich"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Creamy"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Yellow"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Ca",
-            "Moderate-Sodium"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA"
+            "United States"
         ],
         "Occasions": [
-            "Party",
-            "Snack"
+            "Snack Time"
         ],
         "Cooking_Method": [
-            "Microwaved",
+            "Microwaveable, Ready",
             "Fried"
         ],
-        "Course": [
-            "Desert",
-            "Appetizer"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

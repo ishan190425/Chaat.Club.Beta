@@ -4,49 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": " oz. rib eye steak grilled to perfection. side dish mixed fresh vegetable and jaew sauce",
     "Flavor_Profile": {
-        "Taste": [
-            "Rich",
-            "Savory"
-        ],
-        "Aroma": [
-            "Bacony",
-            "Grilled",
-            "Vegetal"
-        ],
-        "Texture": [
-            "Tender",
-            "Juicy"
-        ],
-        "Visual_Color": [
-            "#FF9900"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose-free",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Korea-USA"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

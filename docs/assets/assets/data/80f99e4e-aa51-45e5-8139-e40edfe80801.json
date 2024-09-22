@@ -4,47 +4,27 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Cheesy",
-            "Savory"
-        ],
-        "Aroma": [
-            "Cheese-like",
-            "Spicy"
-        ],
+        "Taste": null,
+        "Aroma": null,
         "Texture": [
-            "Creamy",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Cilantro-free",
-            "Gluten_free"
-        ],
-        "Nutrition": [
-            "Moderate-Ca"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": null,
+        "Nutrition": null,
+        "Country_Origin": null,
         "Occasions": [
-            "Snack",
-            "Party"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Baked"
+            "Deep-Fried"
         ],
         "Course": [
             "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

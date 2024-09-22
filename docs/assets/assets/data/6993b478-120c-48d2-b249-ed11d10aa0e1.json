@@ -4,41 +4,45 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": [
+            "Sweet",
+            "Bitter"
+        ],
         "Aroma": [
-            "Fresh"
+            "Fruity"
         ],
         "Texture": [
             "Crunchy",
-            "Juicy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#008000",
-            "#FFA07A"
+            "Red",
+            "Green"
         ],
-        "Spice_level": []
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
+            "Vegan",
+            "Vegetarian"
         ],
-        "Nutrition": [],
+        "Nutrition": [
+            "Low Fat",
+            "High Protein"
+        ],
         "Country_Origin": [
-            "USA",
-            "Multiple"
+            "USA"
         ],
         "Occasions": [
-            "Snack",
-            "Breakfast",
-            "Lunch"
+            "Birthday"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Steamed"
+            "Grilled"
         ],
         "Course": [
-            "Fruit Course"
+            "Main Course"
         ]
     },
     "Food_History": {

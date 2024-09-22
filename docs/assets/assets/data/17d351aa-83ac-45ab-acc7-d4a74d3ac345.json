@@ -5,41 +5,35 @@
     "Description": "angus beef bell pepper pepper .",
     "Flavor_Profile": {
         "Taste": [
-            "Grassy",
-            "Meaty"
+            "Umami"
         ],
-        "Aroma": [
-            "Earthy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Fleshy"
+            "Crunchy",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#8B4513",
-            "#FFFFFF"
+            "Green",
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA"
+            "United States"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Boiled"
         ],
         "Course": [
             "Main Course"

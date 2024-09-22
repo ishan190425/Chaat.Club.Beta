@@ -4,47 +4,19 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "house made ricotta mozzarella grana padano herbs",
     "Flavor_Profile": {
-        "Taste": [
-            "Buttery",
-            "Creamy",
-            "Savory"
-        ],
-        "Aroma": [
-            "Earthy"
-        ],
-        "Texture": [
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#FFF0F0"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fat",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Baked"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

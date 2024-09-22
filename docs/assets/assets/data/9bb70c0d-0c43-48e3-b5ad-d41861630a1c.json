@@ -8,45 +8,18 @@
             "Sweet",
             "Sour"
         ],
-        "Aroma": [
-            "Fruity",
-            "Veggie-like"
-        ],
-        "Texture": [
-            "Sauclike",
-            "Fresh"
-        ],
-        "Visual_Color": [
-            "Green",
-            "Yellow",
-            "Red"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Vegan-Friendly",
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "American",
-            "Global"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Raw",
-            "Boiled"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Side Dish",
             "Appetizer"
         ]
     },

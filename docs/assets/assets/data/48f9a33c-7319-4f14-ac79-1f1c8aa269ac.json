@@ -5,33 +5,21 @@
     "Description": "coconut soup flavored with galangal and mushroom shallot and lime juice",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Salty"
+            "Sour"
         ],
         "Aroma": [
-            "Coconut",
-            "Galangal",
-            "Mushroom"
+            "Floral",
+            "Earthy"
         ],
         "Texture": [
-            "Creamy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#C5E1F9",
-            "#F2D6DC"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
@@ -40,10 +28,10 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Simmered"
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

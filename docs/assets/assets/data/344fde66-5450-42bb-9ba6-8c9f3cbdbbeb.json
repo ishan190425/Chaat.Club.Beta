@@ -4,45 +4,31 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Fatty",
-            "Fishy"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Gold",
-            "#FFFF00"
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Unknown"
+            "Greece"
         ],
         "Occasions": [
-            "Anytime",
-            "Casual Gatherings"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Pan-Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Side Dish"
         ]
     },
     "Food_History": {

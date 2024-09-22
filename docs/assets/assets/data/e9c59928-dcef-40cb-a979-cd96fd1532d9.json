@@ -5,44 +5,40 @@
     "Description": "thick rice and lentil pancake topped with vegetables and chili",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Earthy"
+            "Umami"
         ],
         "Aroma": [
-            "Spicy",
-            "Savory"
+            "Earthy",
+            "Fruity"
         ],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Green",
+            "Brown"
         ],
         "Spice_level": [
+            "Mild",
             "Hot"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
+            "Vegan"
         ],
         "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Frying",
+            "Boiling",
+            "Roasting"
         ],
         "Course": [
             "Main Course"

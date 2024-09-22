@@ -5,47 +5,33 @@
     "Description": "berkshire pork sichuan pickles.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Pickly",
-            "Savory"
+            "Fruity"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Red"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA",
             "China"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Breakfast",
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Baked",
-            "Grilled",
-            "Pan-Fried"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
             "Side Dish"
         ]
     },

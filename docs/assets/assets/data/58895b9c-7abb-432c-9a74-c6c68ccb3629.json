@@ -5,50 +5,35 @@
     "Description": "chile con queso escalante s style original recipe. add pico de gallo roasted poblano and taco meat",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour"
         ],
         "Aroma": [
-            "Creamy",
-            "Cheesy",
-            "Spicy"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
             "Smooth",
-            "Creamy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFF00",
-            "#FFC080",
-            "#FFFF99"
+            "White",
+            "Brown"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten-Free"
+            "Vegetarian"
         ],
         "Nutrition": [
-            "High-Calorie"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Mexico",
-            "USA"
-        ],
-        "Occasions": [
-            "Snack",
-            "Social Gathering"
-        ],
-        "Cooking_Method": [
-            "Mixed (heated and blended)"
-        ],
-        "Course": [
-            "Appetizer",
-            "Main Course",
-            "Side Dish"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,45 +5,32 @@
     "Description": "deep fried lentil doughnut immersed in delicious regional lentil gravy garnished with onions and cilantro",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Warm",
-            "Earthly"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFFFE0",
-            "#34C759"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Deep Frying"
+            "Deep-fried"
         ],
         "Course": [
-            "Snack",
-            "Main Course"
+            "Appetizer",
+            "Main Course",
+            "Side Dish",
+            "Dessert"
         ]
     },
     "Food_History": {

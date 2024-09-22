@@ -5,46 +5,37 @@
     "Description": "chinese cabbage pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Sweet"
         ],
         "Aroma": [
-            "Peppery",
-            "Savory"
+            "Fruity"
         ],
         "Texture": [
-            "Crispy",
-            "Crunchy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Greenish-White",
-            "#FFFFFF"
+            "Red"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan-Friendly"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb",
-            "High-Fiber"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "China"
+            "USA"
         ],
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Birthday Party"
         ],
         "Cooking_Method": [
-            "Pan-frying"
+            "Grilled"
         ],
         "Course": [
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

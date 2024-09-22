@@ -4,48 +4,19 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "berkshire pork ginger green onion pepper peppercorn .",
     "Flavor_Profile": {
-        "Taste": [
-            "Earthy",
-            "Pungent"
-        ],
-        "Aroma": [
-            "Herbal",
-            "Peppery"
-        ],
-        "Texture": [
-            "Juicy",
-            "Fatty"
-        ],
-        "Visual_Color": [
-            "#FFC394",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Moderate"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich-in-Fat"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Dinner",
-            "Special Occasion"
-        ],
-        "Cooking_Method": [
-            "Roasted",
-            "Grilled"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

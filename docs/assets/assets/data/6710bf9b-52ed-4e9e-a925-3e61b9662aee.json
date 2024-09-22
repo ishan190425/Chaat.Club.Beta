@@ -5,44 +5,35 @@
     "Description": "freshly made fried veggie balls. vegetable .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Herby",
-            "Nutty"
+            "Earthy",
+            "Fruity"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#F5DEB3",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
             "Vegetarian",
             "Vegan"
         ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Various (Middle Eastern)"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Snack"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

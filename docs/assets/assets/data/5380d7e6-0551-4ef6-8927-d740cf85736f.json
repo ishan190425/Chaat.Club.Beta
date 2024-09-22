@@ -5,48 +5,37 @@
     "Description": "chicken fajita beef fajita or combo",
     "Flavor_Profile": {
         "Taste": [
-            "Beefy",
-            "Cheesy"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Meaty",
-            "Savory"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Soft",
-            "Crispy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FF9900",
-            "#ffffff"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Meat"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
-            "Mexican",
-            "Spanish"
+            "Mexico"
         ],
         "Occasions": [
+            "Breakfast",
             "Lunch",
-            "Breakfast"
+            "Dinner"
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Pan-Fried"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course",
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

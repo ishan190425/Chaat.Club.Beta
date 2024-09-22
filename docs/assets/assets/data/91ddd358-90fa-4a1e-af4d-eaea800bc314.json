@@ -6,42 +6,29 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Earthly"
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Earthy"
+            "Fruity"
         ],
-        "Texture": [
-            "Juicy"
-        ],
+        "Texture": [],
         "Visual_Color": [
             "Red",
-            "Orange",
+            "Yellow",
             "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Juiced"
-        ],
-        "Course": [
-            "Healthy Snack"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

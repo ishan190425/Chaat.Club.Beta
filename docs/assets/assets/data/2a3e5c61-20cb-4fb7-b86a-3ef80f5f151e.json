@@ -5,33 +5,28 @@
     "Description": "red chili chutney spread on thin rice and lentil crepe filled with mashed potatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Chili-Like",
-            "Earthly"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
             "Soft",
-            "Crunchy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFC080"
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-Free",
-            "Low-Carb"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
@@ -40,10 +35,10 @@
             "Lunch"
         ],
         "Cooking_Method": [
-            "Fermented"
+            "Fried"
         ],
         "Course": [
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

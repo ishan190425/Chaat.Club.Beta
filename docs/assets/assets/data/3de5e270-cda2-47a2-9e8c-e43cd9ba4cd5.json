@@ -5,46 +5,28 @@
     "Description": "marinated grilled chicken breast topped with sauteed mushrooms and melted chihuaha cheese atop our tequila peppercorn sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami"
         ],
-        "Aroma": [
-            "Cheesy",
-            "Meaty",
-            "Minty"
-        ],
-        "Texture": [
-            "Tender",
-            "Crunchy",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "#660000",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium",
-            "Spicy"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat",
+            "High Protein"
         ],
         "Country_Origin": [
-            "Mexico, USA"
+            "Mexico"
         ],
         "Occasions": [
-            "Social Gathering",
-            "Casual Dinner",
-            "Barbecue"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-Seared"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

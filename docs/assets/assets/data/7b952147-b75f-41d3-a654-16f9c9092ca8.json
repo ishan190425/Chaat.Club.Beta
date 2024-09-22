@@ -6,22 +6,13 @@
     "Flavor_Profile": {
         "Taste": [],
         "Aroma": [],
-        "Texture": [
-            "Refreshing"
-        ],
-        "Visual_Color": [
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Sodium",
-            "No-Added-Artificial-Sweeteners'], 'Country_Origin': ['Fiji'], 'Occasions': ['', 'Any Occasion'], 'Cooking_Method': ['', 'Bottle Opening'], 'Course': ['Beverage'] }' } } (Note: Since Fiji Water is a beverage, it does not require cooking methods. Also, the taste and aroma are subjective aspects that might not be directly mentioned in the description but could be generally associated with water.) The classification is based on general information about water properties, and the output follows the schema provided. Let me know if you have any further questions! } } { ' ) (This comment is just to fix the formatting issues) Here is the answer in a nicer format: { "
-        ],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [],
         "Cooking_Method": [],

@@ -4,45 +4,21 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Soy"
-        ],
-        "Aroma": [
-            "Nutty",
-            "Fruity"
-        ],
-        "Texture": [
-            "Thin",
-            "Liquid"
-        ],
-        "Visual_Color": [
-            "Brown",
-            "#F2C464"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "Not Provided"
-        ],
-        "Occasions": [
-            "None"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Not Provided"
+            "Store bought"
         ],
-        "Course": [
-            "Condiment",
-            "Side Dish"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

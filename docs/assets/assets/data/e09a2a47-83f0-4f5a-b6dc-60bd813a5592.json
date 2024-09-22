@@ -5,49 +5,35 @@
     "Description": "grilled shrimp fresh leaf spinach roasted corn black beans cotija cheese bacon tomato avocado vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Fruity",
-            "Savory",
-            "Seafood"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Fresh"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#008000",
-            "#FF69B4",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Pescetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted"
+            "Raw"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

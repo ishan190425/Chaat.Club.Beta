@@ -4,37 +4,24 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Fizzy"
-        ],
-        "Aroma": [],
-        "Texture": [
-            "Carbonated"
-        ],
-        "Visual_Color": [
-            "Multi-Color"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": null,
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Afternoon",
-            "Evening"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Manufactured"
+            ""
         ],
-        "Course": [
-            "Beverage"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

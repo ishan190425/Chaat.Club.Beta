@@ -5,30 +5,24 @@
     "Description": "two grilled srtiped bass or shrimp tacos topeed with cabbage and avocados on corn or flour tortillas.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fresh"
+            "Umami",
+            "Salty",
+            "Bitter"
         ],
         "Aroma": [
-            "Fishy",
-            "Seafood"
+            "Cheesy"
         ],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "#000080",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Mexico"

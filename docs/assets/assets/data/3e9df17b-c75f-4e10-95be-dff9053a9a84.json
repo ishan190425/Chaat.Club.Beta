@@ -5,44 +5,27 @@
     "Description": "baby arugula kale and baby mix green with japanese dressing. vegetarian.",
     "Flavor_Profile": {
         "Taste": [
-            "Bitter",
-            "Sour"
+            "Bitter"
         ],
-        "Aroma": [
-            "Fresh"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#8BC34A"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "Low-Calorie",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Breakfast"
-        ],
-        "Cooking_Method": [
-            "Mixed",
-            "No-Cooking"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Side Dish",
             "Appetizer"
         ]
     },

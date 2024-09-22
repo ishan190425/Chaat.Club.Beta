@@ -5,32 +5,19 @@
     "Description": "house seasoned fried shrimps.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Seafood"
+            "Umami"
         ],
-        "Aroma": [
-            "Fried",
-            "Seafood"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC300"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Asian"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
@@ -39,8 +26,7 @@
             "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

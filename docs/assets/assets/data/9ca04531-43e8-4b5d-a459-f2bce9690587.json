@@ -4,19 +4,44 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "two fresh leaf spinach with mushrooms rolled in handmade corn tortillas espa ola sauce muenster cheese sliced avocado black beans grilled vegetables",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
-        "Spice_level": []
+        "Taste": [
+            "Sour",
+            "Umami"
+        ],
+        "Aroma": [
+            "Earthy",
+            "Spicy"
+        ],
+        "Texture": [
+            "Smooth",
+            "Chewy"
+        ],
+        "Visual_Color": [
+            "Red",
+            "Yellow"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Nutrition": [
+            "Low Fat"
+        ],
+        "Country_Origin": [
+            "Mexico"
+        ],
+        "Occasions": [
+            "Breakfast",
+            "Brunch"
+        ],
+        "Cooking_Method": [
+            "Grilled"
+        ],
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

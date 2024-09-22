@@ -5,49 +5,31 @@
     "Description": "cooked. shrimp tempura cream cheese and jalape o rolled and topped with kani drizzled with spicy mayo sweet unagi and sriracha.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami"
         ],
-        "Aroma": [
-            "Rich",
-            "Spicy",
-            "Cheesy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Crunchy"
+            "Crunchy",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#,ffffff",
-            "#ccccff"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Seafood"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
-        "Country_Origin": [
-            "Japan",
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Party",
-            "Special Occasion"
-        ],
-        "Cooking_Method": [
-            "Deep-Fried",
-            "Grilled"
-        ],
-        "Course": [
             "Appetizer",
             "Main Course"
+        ],
+        "Cooking_Method": [
+            "Deep-Fried"
+        ],
+        "Course": [
+            "Appetizer"
         ]
     },
     "Food_History": {

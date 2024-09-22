@@ -4,45 +4,30 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "garlic ginger green onion tofu ",
     "Flavor_Profile": {
-        "Taste": [
-            "Pungent"
-        ],
-        "Aroma": [
-            "Pungent",
-            "Savory"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#E2E3EA"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan",
-            "China"
+            "Japan/China",
+            "Asian style food"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Breakfast"
+            "Anytime/Snack"
         ],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Deep fried pan",
+            " Fried pan"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

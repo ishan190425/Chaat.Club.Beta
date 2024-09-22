@@ -4,49 +4,35 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "chicken broth wonton spinach green onion served with thin noodles",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Umami"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Chickeny",
-            "Brothy"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Soft",
-            "Slurpy"
+            "Smooth",
+            "Soft"
         ],
         "Visual_Color": [
-            "#F2CDCD",
-            "#8F9779"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry"
-        ],
-        "Nutrition": [
-            "High-Calorie",
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "Japan",
-            "Chinese"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Simmered"
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

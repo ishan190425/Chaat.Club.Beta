@@ -4,42 +4,32 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "egg tomato.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Sweet"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Eggy",
-            "Tomatoey"
+            "Fruity"
         ],
         "Texture": [
-            "Creamy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFF00"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Egg-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "China"
+            "India"
         ],
         "Occasions": [
-            "Breakfast",
-            "Lunch"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Scrambled"
+            "Fried"
         ],
         "Course": [
             "Main Course"

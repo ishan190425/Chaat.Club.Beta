@@ -5,50 +5,38 @@
     "Description": "thin crispy wheat and rice crepe stuffed with mildly spiced mashed potatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicious"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Mildly Spiced",
-            "Potatoey",
-            "Oniony"
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft",
-            "Crepes-Like"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Golden",
-            "#F7D2C4"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "India",
-            "South India"
+            "India"
         ],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Dinner"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Fermented"
+            "Pan-fried"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

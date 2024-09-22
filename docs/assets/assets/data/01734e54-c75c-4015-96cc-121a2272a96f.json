@@ -4,43 +4,28 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter",
-            "Slightly Sweet"
-        ],
-        "Aroma": [
-            ""
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crisp"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Carb",
-            "Gluten-Free",
-            "Low-Calorie",
-            "Vegan"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Salad"
+            "Side Dish"
         ],
         "Cooking_Method": [
             "Steamed",
-            "Roasted"
+            "Boiled"
         ],
         "Course": [
+            "Appetizer",
             "Side Dish"
         ]
     },

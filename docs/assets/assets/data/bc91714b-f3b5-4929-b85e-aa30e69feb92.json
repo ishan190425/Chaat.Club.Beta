@@ -5,41 +5,41 @@
     "Description": "mexican rice refried beans white cheese shredded lettuce diced tomato guacamole sour cream chile con queso verde sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
             "Fruity",
+            "Earthy",
             "Cheesy"
         ],
         "Texture": [
-            "Crunchy",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "Green",
-            "#FFC080"
+            "White",
+            "Green"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Lunch",
-            "Late Night Snack"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Assembled"
+            "Boiled",
+            "Fried"
         ],
         "Course": [
             "Main Course"

@@ -5,45 +5,35 @@
     "Description": "black ear chicken wings garlic ginger pepper peppercorn potato white broccoli .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Ginger",
-            "Garlic",
-            "Peppery"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy",
-            "Meaty"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Brown",
-            "#000000"
+            "Red",
+            "White"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Cholesterol"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Calorie"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Asia"
-        ],
-        "Occasions": [
-            "Party",
-            "Game Night"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

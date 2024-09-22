@@ -4,42 +4,24 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Fresh",
-            "Tangy"
-        ],
-        "Aroma": [
-            "Herby",
-            "Earthly"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
-        "Visual_Color": [
-            "Green",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Multi-Regional"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Assembly"
+            "Mixed Greens"
         ],
         "Course": [
             "Side Dish"

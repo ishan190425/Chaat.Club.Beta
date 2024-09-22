@@ -5,42 +5,25 @@
     "Description": "pan fried dumpling served with soya sauce scallion dipping ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Veggie-like",
-            "Soy-based"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
-        "Visual_Color": [
-            "Greens"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Asia-Inspired"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Fried"
         ],
         "Course": [
             "Appetizer"

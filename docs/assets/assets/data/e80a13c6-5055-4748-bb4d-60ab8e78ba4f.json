@@ -5,42 +5,30 @@
     "Description": "thick rice and lentil pancake sprinkled with cheese.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
+            "Umami"
         ],
-        "Aroma": [
-            "Buttery",
-            "Floral"
-        ],
+        "Aroma": [],
         "Texture": [
+            "Soft",
             "Crunchy",
-            "Soft"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden",
-            "#FFFF99"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Carb"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Flipped"
+            "Pan-fried/Griddle-cooking"
         ],
         "Course": [
             "Main Course"

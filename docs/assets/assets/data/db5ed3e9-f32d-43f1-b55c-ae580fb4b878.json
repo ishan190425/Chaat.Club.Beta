@@ -4,45 +4,19 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "beef tendon beef tripes celery peanuts peppercorn .",
     "Flavor_Profile": {
-        "Taste": [
-            "Beefy",
-            "Peppery"
-        ],
-        "Aroma": [
-            "Savory"
-        ],
-        "Texture": [
-            "Tender",
-            "Meaty"
-        ],
-        "Visual_Color": [
-            "Brown",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Roasted"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

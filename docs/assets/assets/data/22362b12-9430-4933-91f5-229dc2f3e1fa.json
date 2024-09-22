@@ -4,35 +4,23 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "broccoli green bean rice",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Veggie"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Earthy",
-            "Green"
+            "Earthy"
         ],
         "Texture": [
             "Soft",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#8B4513",
-            "#6B5A1D",
-            "#4E5338"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Asian"
         ],
@@ -42,12 +30,9 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Steamed"
+            "Boiling"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

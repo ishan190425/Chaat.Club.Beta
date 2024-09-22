@@ -5,40 +5,28 @@
     "Description": "sweet basil shaved garlic toasted pine nut crispy caper gigli",
     "Flavor_Profile": {
         "Taste": [
-            "Herby"
+            "Sweet"
         ],
         "Aroma": [
-            "Herbal",
-            "Savory"
+            "Fruity",
+            "Nutty",
+            "Spicy",
+            "Cheesy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

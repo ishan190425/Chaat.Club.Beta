@@ -5,45 +5,40 @@
     "Description": "fresh ginger with mushroom and mixed vegetables ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
-            "Fruity"
+            "Spicy"
         ],
         "Texture": [
             "Crunchy",
-            "Tender"
+            "Soft"
         ],
         "Visual_Color": [
             "Green",
-            "#FFC499"
+            "Brown"
         ],
         "Spice_level": [
-            "Moderate"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Fat"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Thailand"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Sauteed"
+            "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

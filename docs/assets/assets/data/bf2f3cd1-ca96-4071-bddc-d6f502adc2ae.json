@@ -5,40 +5,30 @@
     "Description": "cliantro lamb onion parsley pepper .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Bitter"
         ],
         "Aroma": [
-            "Oniony",
-            "Herby"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
             "Soft"
         ],
-        "Visual_Color": [
-            "#FF69B4"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Middle East/North Africa"
+            "Unknown"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried"
+            "Fried"
         ],
         "Course": [
             "Main Course"

@@ -5,44 +5,33 @@
     "Description": "rice noodle braised beef knuckle and sliced top sirloin served with roasted chili garlic on the side",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Beefy",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Garlicky"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Hearty",
-            "Tender"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#F5DEB3"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich in Iron"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Vietnam"
+            ""
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Supper"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Braised"
+            ""
         ],
         "Course": [
             "Main Course"

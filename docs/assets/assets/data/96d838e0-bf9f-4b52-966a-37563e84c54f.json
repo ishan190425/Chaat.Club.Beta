@@ -5,46 +5,37 @@
     "Description": "with japanese eggplant saut ed with garlic and black bean sauce ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Sweet"
         ],
         "Aroma": [
-            "Garlicky",
-            "Herby"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#333300"
+            "Green",
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Fat",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Sauteed"
+            "Saut\u00e9ed"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,47 +5,33 @@
     "Description": "thick rice and lentil pancake topped with tomatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour",
+            "Bitter"
         ],
         "Aroma": [
-            "Earthy",
-            "Sweet"
+            "Earthy"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
             "Red",
-            "#FFC080"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Grilled",
             "Pan-fried"
         ],
         "Course": [
-            "Side dish",
-            "Breakfast"
+            "Main Course"
         ]
     },
     "Food_History": {

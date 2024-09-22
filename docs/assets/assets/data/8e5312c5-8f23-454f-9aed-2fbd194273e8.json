@@ -4,37 +4,22 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Savory"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Baked"
-        ],
-        "Texture": [
-            "Flaky",
-            "Soft"
-        ],
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "Golden",
-            "#FFFF00"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Snack",
-            "Breakfast"
+            "Snack"
         ],
         "Cooking_Method": [
             "Fried"

@@ -5,36 +5,19 @@
     "Description": "lemon curd wild blueberry compote",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
             "Sweet"
         ],
-        "Aroma": [
-            "Fruity",
-            "Buttery"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Moist",
-            "Light"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFFF99",
-            "#66CC00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Europe"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Brunch"

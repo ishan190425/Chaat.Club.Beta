@@ -4,44 +4,24 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "eggplant garlic green.",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter",
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
             "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Rich-In-Protein"
-        ],
-        "Country_Origin": [
-            "Italia"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Roasted"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

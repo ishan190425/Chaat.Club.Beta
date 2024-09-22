@@ -5,44 +5,39 @@
     "Description": "thin long rice and lentil crepe filled with grated cheese.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Buttery"
+            "Umami"
         ],
         "Aroma": [
-            "Fruity",
-            "Nutty"
+            "Cheesy",
+            "Earthy"
         ],
         "Texture": [
-            "Crepy",
-            "Cheesy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFC499"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Calorie"
+            "Gluten-Free"
         ],
         "Country_Origin": [
-            "India"
+            "India/Asia"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fermented"
+            "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -5,48 +5,21 @@
     "Description": "eggplant salty duck egg.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
-        ],
-        "Aroma": [
-            "Egg",
-            "Meaty",
             "Salty"
         ],
-        "Texture": [
-            "Crispy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#FF8F21",
-            "#FAF2E6",
-            "Brown"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch"
-        ],
-        "Cooking_Method": [
-            "Roasted",
-            "Pan-Fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Side dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

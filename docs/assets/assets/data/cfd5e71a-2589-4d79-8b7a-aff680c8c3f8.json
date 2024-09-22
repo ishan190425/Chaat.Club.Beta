@@ -5,50 +5,30 @@
     "Description": "thin long rice and lenti crepe sprinkled with butter",
     "Flavor_Profile": {
         "Taste": [
-            "Buttery"
+            "Sweet"
         ],
-        "Aroma": [
-            "Buttery",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creasy"
+            "Smooth",
+            "Soft"
         ],
         "Visual_Color": [
-            "Gold"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose-intolerant-friendly",
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-carb",
-            "Low-protein",
-            "Rich-in-fats"
-        ],
-        "Country_Origin": [
-            "India",
-            "South Asia"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Fried",
-            "Pan-seared"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Side dish",
-            "Main Course"
+            "Side Dish",
+            "Appetizer"
         ]
     },
     "Food_History": {

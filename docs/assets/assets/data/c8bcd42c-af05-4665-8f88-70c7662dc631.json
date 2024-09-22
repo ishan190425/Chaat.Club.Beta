@@ -6,36 +6,45 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Rich"
+            "Umami"
         ],
         "Aroma": [
             "Fruity",
-            "Chocolatey",
             "Nutty"
         ],
         "Texture": [
-            "Creamy",
+            "Smooth",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#964B00",
-            "#8B4513"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [
-            "Sweets-only"
+        "Country_Origin": [
+            "Italy",
+            "France",
+            "USA",
+            "Spain"
         ],
-        "Cooking_Method": [],
+        "Occasions": [
+            "Lunch",
+            "Dinner",
+            "Breakfast",
+            "Afternoon Snack"
+        ],
+        "Cooking_Method": [
+            "Boiled",
+            "Baked",
+            "Grilled",
+            "Steamed"
+        ],
         "Course": [
-            "Dessert"
+            "Main Course"
         ]
     },
     "Food_History": {

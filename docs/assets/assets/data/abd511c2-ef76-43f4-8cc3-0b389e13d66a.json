@@ -5,41 +5,29 @@
     "Description": "vegetable broth tofu onion green onion spinach crispy onion garlic chips garlic oil chili oil and sesame seeds served with thick noodles",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Creamy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Savory",
-            "Spicy"
+            "Spicy",
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Thick",
-            "Crispy",
-            "Hearty"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#008000",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-Free"
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
             "Boiled"

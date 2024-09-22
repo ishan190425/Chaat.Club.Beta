@@ -9,42 +9,29 @@
             "Sour"
         ],
         "Aroma": [
-            "Nutty",
-            "Fruity"
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden Brown",
-            "#F2C464"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Peanuts",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich in Fat"
-        ],
-        "Country_Origin": [
-            "JAPAN"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Appetizer",
-            "Main Course"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Deep Frying"
+            "Deep-Fried"
         ],
         "Course": [
-            "Starter"
+            "Side Dish"
         ]
     },
     "Food_History": {

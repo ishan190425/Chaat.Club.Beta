@@ -4,48 +4,26 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Savory",
-            "Meaty"
-        ],
-        "Texture": [
-            "Crispy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Food-Allergy-Friendly",
-            "Gluten-Free",
-            "Vegan-Implications-No"
-        ],
-        "Nutrition": [
-            "High-Calorie",
-            "Moderate-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Party"
+            "Late Night Cravings"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Boiled'], "
+            "Deep Frying",
+            "Baked"
         ],
-        "Course": []
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

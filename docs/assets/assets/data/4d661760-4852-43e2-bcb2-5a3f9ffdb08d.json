@@ -5,48 +5,29 @@
     "Description": "flat wheat bread curry sauce for dipping ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Bitter"
         ],
-        "Aroma": [
-            "Fresh",
-            "Earty"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Flexible"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F5DEB3",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Snack",
-            "Meal"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grilled",
-            "Baked"
+            "Boiled",
+            "Grilled"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,42 +5,31 @@
     "Description": "sweeter and thicker than other curry wuth yam topped with coconut cream",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Sour",
             "Sweet"
         ],
         "Aroma": [
-            "Coconutty",
-            "Curry-Like"
+            "Spicy",
+            "Nutty"
         ],
-        "Texture": [
-            "Creamy",
-            "Thick"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#F2C464"
+            "Brown"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thailand/Japan/India"
+            "Thailand"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Special occasions"
         ],
-        "Cooking_Method": [
-            "Stewed"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

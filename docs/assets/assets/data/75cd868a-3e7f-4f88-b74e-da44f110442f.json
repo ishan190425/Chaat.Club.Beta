@@ -5,44 +5,34 @@
     "Description": "edamame with a kick saut ed with garlic and chili paste.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Pungent",
-            "Garlicky"
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Tender"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "Green",
-            "#FF69B4"
+            "Green"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan-Friendly"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Sauted",
-            "Stir-Fried"
+            "Sauteed"
         ],
         "Course": [
-            "Starters"
+            "Side Dish"
         ]
     },
     "Food_History": {

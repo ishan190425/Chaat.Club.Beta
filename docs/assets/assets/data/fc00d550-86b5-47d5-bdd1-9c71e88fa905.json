@@ -5,44 +5,38 @@
     "Description": "crispy lentil doughnut served with chutney and sambar.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Earthly"
+            "Nutty"
         ],
         "Texture": [
-            "Crispy",
+            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "Golden",
-            "#F5DEB3"
+            "Brown"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Protein-rich"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Snack",
-            "Breakfast"
+            "Street Food",
+            "Snack"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Deep-Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

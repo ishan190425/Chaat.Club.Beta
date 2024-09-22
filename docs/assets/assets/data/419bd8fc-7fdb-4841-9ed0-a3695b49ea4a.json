@@ -7,35 +7,20 @@
         "Taste": [
             "Sweet"
         ],
-        "Aroma": [
-            "Chocolatey",
-            "Fruity"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Sugar"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [
-            "Snack",
-            "Breakfast"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Fried",
-            "Baked"
+            "Deep-fried"
         ],
         "Course": [
             "Dessert"

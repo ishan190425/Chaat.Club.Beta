@@ -4,43 +4,23 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty"
-        ],
+        "Taste": [],
         "Aroma": [],
         "Texture": [
-            "Juicy",
-            "Tender"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC0CB"
+            "White"
         ],
         "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [
-            "Snack",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Roasted",
-            "Baked"
-        ],
-        "Course": [
-            "Side Dish",
-            "Main Course"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

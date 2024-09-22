@@ -5,44 +5,34 @@
     "Description": "steamed soy bean with sea salt or spicy sea salt",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Nutty",
-            "Earthly"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Buttery"
+            "Soft"
         ],
         "Visual_Color": [
             "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
+            "High Protein",
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Japan"
+            "USA"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Side dish"
+            "Side Dish"
         ]
     },
     "Food_History": {

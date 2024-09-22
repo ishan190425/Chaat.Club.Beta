@@ -5,41 +5,35 @@
     "Description": "two grilled shrimp topped with grilled corn poblano and a creamy queso blanco sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicious"
+            "Umami",
+            "Sweet"
         ],
         "Aroma": [
-            "Creamy",
-            "Savory"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#808000"
+            "Red",
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Boiled"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

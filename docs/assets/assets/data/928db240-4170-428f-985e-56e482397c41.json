@@ -5,44 +5,38 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Indian-Style Flavorings",
-            "Fermented Cereal Aroma"
+            "Earthy"
         ],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "Greenish-Brown",
-            "#964B00"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Brunch"
         ],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish",
+            "Appetizer"
         ]
     },
     "Food_History": {

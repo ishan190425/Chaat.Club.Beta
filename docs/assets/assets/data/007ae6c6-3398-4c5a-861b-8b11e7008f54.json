@@ -5,43 +5,35 @@
     "Description": "fresh vegetable vermicelli shrimp tofu or chicken served with peanut and sweet sour sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami"
         ],
         "Aroma": [
-            "Sour"
+            "Nutty",
+            "Spicy",
+            "Cheesy"
         ],
         "Texture": [
-            "Chewy",
-            "Smooth"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "Green",
-            "White",
-            "#FFC080"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
-            "Mild"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Southeast Asian"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
-            "Boiled"
+            "Grilled"
         ],
         "Course": [
             "Appetizer"

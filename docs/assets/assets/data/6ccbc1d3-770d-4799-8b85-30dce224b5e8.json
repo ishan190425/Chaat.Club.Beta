@@ -5,41 +5,28 @@
     "Description": "with alfredo noodles or sauteed vegetables",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Chicken-like",
-            "Buttery"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Juicy",
-            "Crispy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#F5F6FA",
-            "#FFC080"
+            "White",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global (inspired by various international cuisines)"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-seared"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

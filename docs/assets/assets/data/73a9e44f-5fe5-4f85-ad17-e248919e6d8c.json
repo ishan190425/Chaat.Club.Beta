@@ -5,43 +5,34 @@
     "Description": "marinated chopped chicken fajita mixed greens avocado bacon cotija cheese roasted corn tomato onions creamy cilantro",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fruity"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Meaty",
-            "Herby"
+            "Cheesy"
         ],
         "Texture": [
-            "Crunchy",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8B4513"
+            "Green",
+            "Yellow",
+            "Brown",
+            "White"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Boiled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

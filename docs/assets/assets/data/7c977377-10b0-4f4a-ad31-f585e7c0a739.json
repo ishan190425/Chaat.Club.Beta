@@ -4,41 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Soda-like"
-        ],
-        "Texture": [
-            "Carbonated"
-        ],
-        "Visual_Color": [
-            "Clear",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": null,
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Anytime"
+            "Everywhere",
+            "Anywhere"
         ],
-        "Cooking_Method": [
-            "none"
-        ],
-        "Course": [
-            "Beverage"
-        ]
+        "Cooking_Method": null,
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,47 +5,21 @@
     "Description": "garlic ginger green onion shrimp .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Pungent"
+            "Umami",
+            "Sour"
         ],
-        "Aroma": [
-            "Fishy",
-            "Garlicky"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Tender"
-        ],
-        "Visual_Color": [
-            "#87CEEB",
-            "#F7D7E3"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten Free",
-            ""
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Sauteed",
-            "Grilled"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

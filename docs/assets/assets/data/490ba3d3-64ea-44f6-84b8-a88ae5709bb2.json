@@ -4,41 +4,31 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Seawey",
-            "Oceanic"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Rough"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#6B705F",
-            "#FFFFFF"
+            "Brown",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Japan:], "
+            "Japan"
         ],
-        "Occasions": [
-            "Snack"
+        "Occasions": [],
+        "Cooking_Method": [
+            "Grilling",
+            "Baking"
         ],
-        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Appetizer",
+            "Main Course"
         ]
     },
     "Food_History": {

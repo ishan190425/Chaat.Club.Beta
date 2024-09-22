@@ -5,43 +5,29 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Egg-like"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Runny"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#F2C464"
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Allergenic"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich in B Vitamins"
-        ],
-        "Country_Origin": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Pantry",
             "Side Dish"
         ]
     },

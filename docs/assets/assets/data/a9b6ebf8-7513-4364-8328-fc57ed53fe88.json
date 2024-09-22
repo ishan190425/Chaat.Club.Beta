@@ -5,44 +5,38 @@
     "Description": "paneer cubes marinated and deep fried and mixed with south indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fried",
-            "Indian-Spicy"
+            "Earthy",
+            "Nutty",
+            "Spicy"
         ],
         "Texture": [
             "Crunchy",
-            "Crispy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden_Yellow"
+            "White",
+            "Brown"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Non-veg for non-vegetarians"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat",
-            "Moderate-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Party",
-            "Appetizer/ Snack",
-            "Street Food"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Frying"
+            "Deep-Fried"
         ],
         "Course": [
             "Appetizer"

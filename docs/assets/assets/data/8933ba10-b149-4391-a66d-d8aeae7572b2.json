@@ -5,40 +5,33 @@
     "Description": "roasted mushroom cipollini smoked mozzarella",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy"
+            "Umami"
         ],
         "Aroma": [
-            "Mushroom"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Savory"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFD700"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italia"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Brunch"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Roasted"
+            "Roasted",
+            "Smoked"
         ],
-        "Course": []
+        "Course": [
+            "Appetizer",
+            "Side Dish"
+        ]
     },
     "Food_History": {
         "Likes": [],

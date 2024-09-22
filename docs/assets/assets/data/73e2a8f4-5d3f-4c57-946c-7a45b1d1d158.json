@@ -5,49 +5,29 @@
     "Description": "freshness with fresh herb bamboo shoots green bean and eggplant",
     "Flavor_Profile": {
         "Taste": [
-            "Zesty",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
-        "Aroma": [
-            "Fragrant",
-            "Green"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#008000",
-            "#33CC99"
+            "Green",
+            "Yellow"
         ],
-        "Spice_level": [
-            "High"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
             "Vegan"
         ],
-        "Nutrition": [
-            "Low-Calorie",
-            "Rich-in-Antioxidants"
-        ],
-        "Country_Origin": [
-            "Thailand"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Party"
-        ],
-        "Cooking_Method": [
-            "Stir-Frying",
-            "Braising"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

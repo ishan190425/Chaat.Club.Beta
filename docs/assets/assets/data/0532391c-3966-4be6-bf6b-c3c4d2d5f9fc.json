@@ -5,44 +5,32 @@
     "Description": "soft wheat noodle with cabbage onions mushrooms",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicate"
+            "Umami",
+            "Sour"
         ],
-        "Aroma": [
-            "Earthly",
-            "Mushroomy"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Velvety"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFF99",
-            "#FFFFFF"
+            "White",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Stir-Fried"
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

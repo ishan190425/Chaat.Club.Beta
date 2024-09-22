@@ -5,42 +5,34 @@
     "Description": "snail in shell sauteed with coconut cream chili and garlic",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour"
         ],
         "Aroma": [
-            "Garlicky",
-            "Spicy"
+            "Cheesy"
         ],
         "Texture": [
-            "Velvety"
+            "Chewy",
+            "Soft"
         ],
         "Visual_Color": [
-            "Orange",
-            "#FFFFF0"
+            "White"
         ],
         "Spice_level": [
-            "Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Seafood",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
-        "Country_Origin": [
-            ""
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Main Course",
-            "Party"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Sauteed"
+            "Boiled"
         ],
         "Course": [
             "Appetizer"

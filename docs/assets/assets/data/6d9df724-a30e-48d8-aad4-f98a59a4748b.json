@@ -4,41 +4,33 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity",
-            "Slightly Sweet"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fruity",
-            "Earthy"
+            "Fruity"
         ],
         "Texture": [
-            "Soft",
-            "Light"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Deepest Ruby Red to Garnet",
-            "Deep Burgundy"
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Wine and Dines"
+            "Lunch",
+            "Dinner"
         ],
-        "Cooking_Method": [],
+        "Cooking_Method": [
+            "Boiled"
+        ],
         "Course": [
-            "Table Wining",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

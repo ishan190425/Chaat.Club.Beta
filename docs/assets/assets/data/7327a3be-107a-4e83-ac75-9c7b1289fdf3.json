@@ -5,45 +5,25 @@
     "Description": "flounder ginger pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Citrus"
+            "Umami"
         ],
         "Aroma": [
-            "Zesty",
-            "Herby"
+            "Spicy",
+            "Earthy"
         ],
-        "Texture": [
-            "Firm",
-            "Delicate"
-        ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#F2C464"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Seared"
+            "Steaming"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

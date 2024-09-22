@@ -5,33 +5,28 @@
     "Description": "sliced parotta tossed with indian spices and vegetables served with onion raitha",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Indian",
-            "Vegetal"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Chewy",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#8B9467",
-            "#FFFFFF"
+            "Brown",
+            "Green"
         ],
         "Spice_level": [
-            "Moderate"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
@@ -40,7 +35,7 @@
             "Lunch"
         ],
         "Cooking_Method": [
-            "Tossed"
+            "Fried"
         ],
         "Course": [
             "Main Course"

@@ -5,49 +5,31 @@
     "Description": "plant based tacos impossible meat made from plants and guacamole on bite size crispy taco shells topped with cilantro. vegetarian",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Mexican-Inspired",
-            "Earthly"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC500",
-            "#34C759"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
             "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Saturated-Fat"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Snack",
             "Lunch",
-            "Dinner"
+            "Brunch"
         ],
         "Cooking_Method": [
-            "Assembled"
+            "Pan-fried",
+            "Grilling"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

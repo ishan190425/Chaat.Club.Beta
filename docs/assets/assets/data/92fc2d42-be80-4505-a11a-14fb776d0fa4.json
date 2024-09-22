@@ -4,43 +4,26 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Fruity"
-        ],
-        "Aroma": [
-            "Sweet",
-            "Vanilla"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crispy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#D2B48C",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Treenut",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Carbohydrate"
-        ],
-        "Country_Origin": [
-            "Spain"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Snack"
+            "Snack",
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Deep-Fried"
         ],
         "Course": [
             "Dessert"

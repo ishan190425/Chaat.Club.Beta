@@ -5,48 +5,32 @@
     "Description": "three authentic south american style empanadas stuffed with muenster cheese and chicken or ground beef",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Meaty"
+            "Umami"
         ],
         "Aroma": [
-            "Cheesy",
-            "Meaty"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Flaky",
-            "Tender"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "South America"
         ],
         "Occasions": [
-            "Lunch",
             "Snack",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Baked"
+            "Fried"
         ],
-        "Course": [
-            "Appetizer",
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

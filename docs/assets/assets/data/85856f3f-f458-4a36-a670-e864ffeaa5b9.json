@@ -5,31 +5,34 @@
     "Description": "crispy pancetta charred grape apple pistachio herbed breadcrumb parmesan vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Umami",
             "Sweet"
         ],
         "Aroma": [
-            "Herby"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Crispy",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "Green",
-            "#964B00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Occasions": [
+            "Breakfast",
+            "Side Dish"
+        ],
+        "Cooking_Method": [
+            "Roasted",
+            "Chopped"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

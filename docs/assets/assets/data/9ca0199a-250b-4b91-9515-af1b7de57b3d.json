@@ -5,43 +5,27 @@
     "Description": "serves . fz abv",
     "Flavor_Profile": {
         "Taste": [
-            "Fruity"
-        ],
-        "Aroma": [
-            "Fresh",
             "Sweet"
         ],
+        "Aroma": [],
         "Texture": [
-            "Juicy",
             "Smooth"
         ],
         "Visual_Color": [
-            "#FF69B4",
-            "#FFFFFF"
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Sugar",
-            "High-Antioxidants"
-        ],
-        "Country_Origin": [
-            "Multi-Cultural"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Brunch",
-            "Dinner Party"
+            "Drinks",
+            "Parties"
         ],
-        "Cooking_Method": [
-            "Popping Open"
-        ],
-        "Course": [
-            "Desert"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

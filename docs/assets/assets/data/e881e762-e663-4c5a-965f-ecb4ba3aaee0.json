@@ -5,43 +5,19 @@
     "Description": "vanilla budino strawberry coulis",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Vanilla"
-        ],
-        "Aroma": [
-            "Fruity",
             "Sweet"
         ],
-        "Texture": [
-            "Soft",
-            "Airy"
-        ],
-        "Visual_Color": [
-            "Pink",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-calorie"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Dessert"
         ]

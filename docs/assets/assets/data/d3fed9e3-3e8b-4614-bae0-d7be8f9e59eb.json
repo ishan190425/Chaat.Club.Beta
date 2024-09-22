@@ -4,46 +4,36 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "angus beef parsley rice noodle .",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Meaty",
-            "Parsley-Like"
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Soft",
-            "Creamy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC107"
+            "Brown"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Gluten",
-            "Noodle-Based",
-            "Milk in Recipes"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
-            "Lunch'], ",
-            "Cooking_Method",
-            "."
+            "Breakfast",
+            "Lunch",
+            "Dinner"
         ],
-        "Cooking_Method": [],
+        "Cooking_Method": [
+            "Grilled",
+            "Fried"
+        ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

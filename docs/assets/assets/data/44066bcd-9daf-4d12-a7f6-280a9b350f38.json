@@ -4,41 +4,23 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Slightly Sweet"
-        ],
-        "Texture": [
-            "Smooth",
-            "Carbonated"
-        ],
-        "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "None"
+            "Halal",
+            "Kosher"
         ],
         "Nutrition": [],
-        "Country_Origin": [
-            "United States"
-        ],
-        "Occasions": [
-            "Any"
-        ],
-        "Cooking_Method": [
-            "Bottled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Dessert"
+            "Main Course"
         ]
     },
     "Food_History": {

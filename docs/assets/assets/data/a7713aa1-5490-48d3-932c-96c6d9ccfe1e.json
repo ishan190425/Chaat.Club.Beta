@@ -5,42 +5,28 @@
     "Description": "berkshire pork ginger pepper peppercorn pickled string bean .",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Spicy"
+            "Sour"
         ],
         "Aroma": [
-            "Ginger",
-            "Peppery"
+            "Spicy",
+            "Earthy"
         ],
-        "Texture": [
-            "Savory",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#000000"
-        ],
+        "Texture": [],
+        "Visual_Color": [],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
-        "Cooking_Method": [
-            "Stir-Fried"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

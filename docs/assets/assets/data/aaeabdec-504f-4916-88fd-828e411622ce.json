@@ -5,38 +5,31 @@
     "Description": "lamb beef lean meat sliced and grilled.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Fragrant"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#EEEEEE"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
         "Country_Origin": [
             "Middle East"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
             "Grilled"
         ],

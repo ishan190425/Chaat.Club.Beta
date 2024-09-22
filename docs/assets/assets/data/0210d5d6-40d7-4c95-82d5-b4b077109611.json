@@ -5,40 +5,30 @@
     "Description": "cheese stuffed roasted poblano pepper wrapped in a skirt steak topped with espanola sauce and creamy queso blanco",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Rich",
-            "Smoky"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#FFF800"
+            "Red",
+            "Green"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Grilled",

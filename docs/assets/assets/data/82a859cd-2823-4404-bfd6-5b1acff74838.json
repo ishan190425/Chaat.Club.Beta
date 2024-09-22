@@ -4,19 +4,39 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "fish cake fried ground alaska pollock patties lightly spiced served with ground peanut cucumber relish",
     "Flavor_Profile": {
-        "Taste": [],
+        "Taste": [
+            "Umami"
+        ],
         "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [],
-        "Spice_level": []
+        "Texture": [
+            "Crunchy",
+            "Smooth"
+        ],
+        "Visual_Color": [
+            "White"
+        ],
+        "Spice_level": [
+            "Mild"
+        ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
-        "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Nutrition": [
+            "Low Fat"
+        ],
+        "Country_Origin": [
+            "Thailand"
+        ],
+        "Occasions": [
+            "Snack",
+            "Lunch"
+        ],
+        "Cooking_Method": [
+            "Fried"
+        ],
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

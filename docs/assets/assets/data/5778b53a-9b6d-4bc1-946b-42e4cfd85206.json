@@ -4,44 +4,32 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": " vegetarian.",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Herby",
-            "Middle Eastern spiced"
+            "Nutty"
         ],
         "Texture": [
             "Crunchy",
-            "Crispy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC107",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
+            "Vegan",
             "Vegetarian"
         ],
         "Nutrition": [],
-        "Country_Origin": [
-            "Middle East"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Street Food",
-            "Late Night Snack"
+            "Street Food"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Deep Fried"
+            "Deep-Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

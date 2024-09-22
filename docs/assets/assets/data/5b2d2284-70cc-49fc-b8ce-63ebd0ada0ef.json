@@ -5,44 +5,33 @@
     "Description": "sweet poori side dish rice sambar special kuzhambu rasam vegetable curries raitha curd appalam pickle.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Sweet"
         ],
         "Aroma": [
-            "Sweet",
-            "Savory"
+            "Fruity"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "India"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
             "Fried",
             "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,42 +5,31 @@
     "Description": "vegetable. chinese cabbage vermicelli fungus and carrot.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [],
         "Texture": [
-            "Vinegar",
-            "Mushy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#E5D8B6"
-        ],
+        "Visual_Color": [],
         "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Special Occasion"
+            "Brunch",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Steamed",
-            "Boiled"
+            "Steamed"
         ],
         "Course": [
-            "Side Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

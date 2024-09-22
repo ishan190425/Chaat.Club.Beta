@@ -5,20 +5,17 @@
     "Description": "minute maid ml",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Tart"
+            "Sweet"
         ],
         "Aroma": [
-            "Fruity",
-            "Slightly Sweet"
+            "Fruity"
         ],
         "Texture": [
-            "Thick",
             "Smooth"
         ],
         "Visual_Color": [
-            "Transparent",
-            "#FFFF00"
+            "Yellow",
+            "White"
         ],
         "Spice_level": [
             "Mild"
@@ -26,23 +23,11 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Calorie-Dense"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Anytime",
-            "Party"
-        ],
-        "Cooking_Method": [
-            "Bottled",
-            "Shelf-Stable"
-        ],
-        "Course": [
-            "Beverage"
-        ]
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

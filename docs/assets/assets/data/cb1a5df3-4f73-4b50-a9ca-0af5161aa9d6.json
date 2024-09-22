@@ -5,45 +5,22 @@
     "Description": "angus beef onion pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami"
         ],
-        "Aroma": [
-            "Beefy",
-            "Savory",
-            "Peppery"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Juicy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": null,
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork-free",
-            "Beef-based",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich-in-Vitamins-Minerals"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Breakfast-for-Dinner",
-            "Weekend-BBQ"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": null,
+        "Country_Origin": null,
+        "Occasions": [],
         "Cooking_Method": [
-            "Frying"
+            "Fried"
         ],
         "Course": [
             "Main Course"

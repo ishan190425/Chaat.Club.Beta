@@ -5,52 +5,37 @@
     "Description": "scrambled eggs fragrant scallions crisp carrots and a decadent garlic butter combine to create a flavor sensation that will leave you craving for more.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Buttery",
-            "Scalliony"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Crispy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFD700",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Eggs",
-            "Gluten-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Good-Carb"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "China-style"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Snack",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Stir-fryed"
+            "Pan-Fried",
+            "Boiled"
         ],
         "Course": [
-            "Side Dish",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

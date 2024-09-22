@@ -5,43 +5,34 @@
     "Description": "espresso soaked lady fingers mascarpone mousse",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Milk"
-        ],
-        "Aroma": [
-            "Coffee",
             "Sweet"
         ],
+        "Aroma": [
+            "Cheesy"
+        ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Breakfast",
-            "Desert"
+            "Dinner",
+            "Party"
         ],
         "Cooking_Method": [
-            "Assembled"
+            "Mixed"
         ],
         "Course": [
-            "Desert"
+            "Main Course"
         ]
     },
     "Food_History": {

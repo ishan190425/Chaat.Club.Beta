@@ -5,43 +5,28 @@
     "Description": "beef or chicken fajita black beans chile con queso blanco guacamole sour cream jalape os",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fatty",
-            "Meaty"
+            "Spicy",
+            "Cheesy"
         ],
-        "Texture": [
-            "Crunchy",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "Brown",
-            "White",
-            "Beige"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose intolerance"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat",
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Picnic"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Grilled"
+            " Fried"
         ],
         "Course": [
             "Appetizer"

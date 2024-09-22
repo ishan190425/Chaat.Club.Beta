@@ -4,46 +4,28 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Full-bodied",
-            "Complex"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fruity",
-            "Earthy"
+            "Fruity"
         ],
-        "Texture": [
-            "Smooth",
-            "Velvet"
-        ],
-        "Visual_Color": [
-            "#632212",
-            "#2E4376"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Sulfite-free"
-        ],
-        "Nutrition": [
-            "Low-sodium"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA"
+            "France"
         ],
         "Occasions": [
-            "Special occasions",
-            "Wine night"
+            "Formal gathering",
+            "Gift for a wine connoisseur"
         ],
         "Cooking_Method": [
-            "None"
+            "Not applicable"
         ],
-        "Course": [
-            "Wine"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

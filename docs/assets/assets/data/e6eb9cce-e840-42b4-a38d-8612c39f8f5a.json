@@ -4,42 +4,31 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "thin crispy rice and lentil crepe topped with onions and chilies",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Pungent",
-            "Spicy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
-            "Thin"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FF8000",
-            "#FFFFFF"
+            "Brown"
         ],
         "Spice_level": [
-            "Medium High"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Meal",
-            "Snack"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Pan-fried"
         ],
         "Course": [
             "Appetizer"

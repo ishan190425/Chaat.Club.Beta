@@ -5,42 +5,37 @@
     "Description": "deliciously marinated for hours.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Citrusy"
+            "Nutty"
         ],
         "Texture": [
-            "Juicy",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "none"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Moderate-Protein",
-            "Moderate-Carb"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Stir-Fried"
+            "Roasted"
         ],
         "Course": [
             "Main Course"

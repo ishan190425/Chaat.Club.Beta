@@ -5,45 +5,24 @@
     "Description": "brewed tea sweetened with cane sugar.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Slightly Tannic"
+            "Sweet"
         ],
-        "Aroma": [
-            "Sweet",
-            "Brewy"
-        ],
-        "Texture": [
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#F2C464",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten Free",
-            "Sugar Containing"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Snack"
+            "Tea Time"
         ],
         "Cooking_Method": [
-            "Brewed"
+            "Steeping"
         ],
-        "Course": [
-            "Beverage"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -4,39 +4,22 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter"
-        ],
-        "Aroma": [
-            ""
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#8B9467"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Calorie",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Snack"
+            "Side-Dish"
         ],
         "Cooking_Method": [
             "Steamed"

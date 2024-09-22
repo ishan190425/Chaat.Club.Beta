@@ -5,45 +5,33 @@
     "Description": "with sweet sausage egg chinese broccoli pea carrot and onion. ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Umami",
             "Sweet"
         ],
-        "Aroma": [
-            "Meaty",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFC107",
-            "#F5DEB3"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Fried",
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

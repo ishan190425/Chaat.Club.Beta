@@ -5,46 +5,33 @@
     "Description": "house ricotta pecorino romano wild oregano evoo red onion",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Sweet"
         ],
         "Aroma": [
-            "Pungent",
-            "Herby"
+            "Cheesy"
         ],
         "Texture": [
-            "Creamy",
             "Soft"
         ],
-        "Visual_Color": [
-            "White",
-            "#FFFFF0"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Fat",
-            "Rich-in-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Side dish"
+            "Bruschetta and small plates"
         ],
         "Cooking_Method": [
-            "Mashed"
+            "Spread directly onto bread, vegetables or crackers, then topped with other ingredients. Alternatively cooked with pasta, rice or grilled vegetables."
         ],
         "Course": [
-            "Cheese Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

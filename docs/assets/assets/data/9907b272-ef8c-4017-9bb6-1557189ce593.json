@@ -4,44 +4,21 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter"
-        ],
-        "Aroma": [
-            "Coffee-like",
-            "Rounded"
-        ],
-        "Texture": [
-            "Liquid",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "Brown",
-            "#F7D2C4"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Caffeine"
-        ],
-        "Nutrition": [
-            "Energy-rich"
-        ],
-        "Country_Origin": [
-            "International"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Pick-me-up",
-            "Anytime"
+            "Breakfast"
         ],
         "Cooking_Method": [],
-        "Course": [
-            "Beverage"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

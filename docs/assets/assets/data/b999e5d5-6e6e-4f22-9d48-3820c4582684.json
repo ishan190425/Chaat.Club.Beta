@@ -5,44 +5,43 @@
     "Description": "scamorza speck calabrian honey arugula pecorino toscano",
     "Flavor_Profile": {
         "Taste": [
-            "sweet",
-            "savory"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "peppery",
-            "honeyed"
+            "Fruity",
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "tender",
-            "crispy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "yellow",
-            "brown"
+            "Red",
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "medium"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Antipasto",
+            "Tapas"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Smoked"
+            "Cured"
         ],
         "Course": [
-            "Starters"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

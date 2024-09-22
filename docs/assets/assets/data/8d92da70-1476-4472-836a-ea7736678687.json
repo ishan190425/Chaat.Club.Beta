@@ -4,45 +4,22 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Taco-like",
-            "Crispy"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFA500",
-            "#F2C464"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Entertaining"
-        ],
-        "Cooking_Method": [
-            "Deep-fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Snack/Starters"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -5,43 +5,30 @@
     "Description": "thin crispy wheat and rice crepe sprinkled with sliced onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Oniony"
+            "Salty"
         ],
-        "Aroma": [
-            "Fruity",
-            "Crispy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Fragile"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Golden Brown",
-            "#FFD700"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast, Snack",
-            "Lunch and Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Griddled/Fried"
+            "Fried"
         ],
         "Course": [
-            "Snack",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

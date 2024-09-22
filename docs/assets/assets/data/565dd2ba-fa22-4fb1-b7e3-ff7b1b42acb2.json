@@ -5,30 +5,20 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": null,
-        "Aroma": [],
-        "Texture": [],
-        "Visual_Color": [
-            "Yellow"
-        ],
-        "Spice_level": [
-            "Bubbly"
-        ]
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Calorie-Neutral"
-        ],
-        "Country_Origin": [
-            "France"
-        ],
-        "Occasions": [
-            "Refreshment",
-            "Party",
-            "Celebration"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [],
-        "Course": []
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

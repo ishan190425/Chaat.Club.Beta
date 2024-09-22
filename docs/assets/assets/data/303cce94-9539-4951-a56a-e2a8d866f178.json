@@ -5,48 +5,29 @@
     "Description": "angus beef pepper peppercorn and tofu.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Mushroomy",
-            "Peppery"
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Crispy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF",
-            "#E0E0D1"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat",
-            "Vegan",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "USA",
-            "Asia"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Pan-Seared"
+            "Grilled"
         ],
         "Course": [
             "Main Course"

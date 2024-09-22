@@ -5,47 +5,35 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet",
+            "Umami"
         ],
         "Aroma": [
-            "Earthly",
-            "Herby",
-            "Spicy"
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Chewy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#E5D8B6",
-            "#964B00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Lactose intolerance"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Dinner"
+            "Snack"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Boiled"
+            "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Dessert"
         ]
     },
     "Food_History": {

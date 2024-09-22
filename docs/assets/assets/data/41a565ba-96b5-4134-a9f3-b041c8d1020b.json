@@ -5,48 +5,37 @@
     "Description": "ground berkshire pork noodle peanuts pepper sesame sichuan pickles .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Porky",
-            "Sesame"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Soft",
-            "Tender"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
             "Brown",
-            "White"
+            "Red"
         ],
         "Spice_level": [
-            "Medium-Hot"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Peanuts",
-            "Soy",
-            "Milk"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "China"
-        ],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Carnival"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Grilled"
+            "Stir-fried"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

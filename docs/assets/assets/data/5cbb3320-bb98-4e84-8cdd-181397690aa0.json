@@ -5,22 +5,19 @@
     "Description": "yuzu flavored hot and sour soup tofu sauteed bamboo shoot simmered shiitake mushroom cilantro chili thread chili oil and lime. served with thick noodles.",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Spicy"
+            "Sour"
         ],
         "Aroma": [
-            "Citrusy",
-            "Earthy"
+            "Fruity"
         ],
         "Texture": [
-            "Creamy",
-            "#N/A (not applicable for non-edible food item)"
+            "Soft"
         ],
         "Visual_Color": [
-            "Fire Opal/Coral Color"
+            "Green"
         ],
         "Spice_level": [
-            "Medium-Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
@@ -28,20 +25,18 @@
             "Vegan"
         ],
         "Nutrition": [
-            "Low-Carb",
-            "High-Protein (if tofu is included)"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Not Applicable"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Any Time of the Day or Night"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Sauteed, Boiled, Simmered, etc."
+            "Boiled"
         ],
         "Course": [
-            "Appetizer, Main Course, or Snack"
+            "Side Dish"
         ]
     },
     "Food_History": {

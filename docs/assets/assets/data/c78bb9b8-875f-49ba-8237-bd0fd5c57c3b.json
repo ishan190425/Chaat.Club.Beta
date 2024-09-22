@@ -5,49 +5,40 @@
     "Description": "fresh leaf spinach and mushroom rolled in hand made flour tortillas topped with espanola sauce or roasted corn sauce and chihuahua cheese.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Earthy"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Rich",
-            "Herbaceous"
+            "Earthy"
         ],
         "Texture": [
             "Soft",
-            "Rolled"
+            "Smooth"
         ],
         "Visual_Color": [
             "Green",
-            "#C9E4CA"
+            "Yellow",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Lactose"
-        ],
-        "Nutrition": [
-            "Low-Cholesterol",
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Breakfast",
-            "Brunch",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Rolled"
+            "Baked"
         ],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

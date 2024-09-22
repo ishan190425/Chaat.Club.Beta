@@ -5,47 +5,32 @@
     "Description": "pecorino stagionato toasted pine nut salsa verde arugula grilled bread",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
+            "Cheesy",
             "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "Brown",
-            "Green"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Lactose-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "High-Fat"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course"
-        ],
-        "Cooking_Method": [
-            "Grilled"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Antipasto"
+            "Appetizer"
         ]
     },
     "Food_History": {

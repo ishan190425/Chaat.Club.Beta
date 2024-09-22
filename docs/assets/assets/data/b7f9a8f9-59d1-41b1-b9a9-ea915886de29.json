@@ -4,38 +4,32 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Gyrosy",
-            "Savory"
-        ],
+        "Taste": null,
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Cheese-like"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFC000"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Seafood",
-            "Gluten"
+            "Halal",
+            "Kosher",
+            "Vegetarian",
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "Greek"
+            "Greek",
+            "Cyprus"
         ],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
@@ -43,7 +37,7 @@
             "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

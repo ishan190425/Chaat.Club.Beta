@@ -5,36 +5,23 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Earthly"
+            "Umami"
         ],
-        "Aroma": [
-            "Vegetal",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#34C759"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Multi-Cultural"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],

@@ -4,47 +4,28 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Nutty",
-            "Smooth"
-        ],
-        "Aroma": [
-            "Rich",
-            "Starchy"
-        ],
-        "Texture": [
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "Tan",
-            "Brown"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Nut-free",
-            "Peanut-free"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Global"
+            "Africa",
+            "Asia"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Dip"
+            "Lunch",
+            "Dinner",
+            "Snack"
         ],
         "Cooking_Method": [
-            "Served"
+            "Fried"
         ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

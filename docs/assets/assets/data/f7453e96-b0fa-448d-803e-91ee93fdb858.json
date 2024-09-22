@@ -4,48 +4,24 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "marinated mushroom mixed with traditional spices and deep fried.",
     "Flavor_Profile": {
-        "Taste": [
-            "Earthy",
-            "Savory"
-        ],
-        "Aroma": [
-            "Mushroomy",
-            "Spicy"
-        ],
-        "Texture": [
-            "Crispy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#6F8A14",
-            "#F5F5DC"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Fat"
-        ],
-        "Country_Origin": [
-            "Asian",
-            "European"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Snack",
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Deep Frying"
+            "Fried"
         ],
-        "Course": [
-            "Starters"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

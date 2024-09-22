@@ -5,45 +5,35 @@
     "Description": "creamy polenta rustic marinara grana padano",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Umami",
+            "Sweet"
         ],
         "Aroma": [
-            "Tomatoey",
-            "Cheesy",
-            "Creamy",
-            "Herby"
+            "Spicy",
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Soft",
-            "Cremaous"
+            "Smooth",
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat",
+            "High Protein"
         ],
         "Country_Origin": [
             "Italy"
         ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Fried",
-            "Baked"
+            "Boiled"
         ],
         "Course": [
             "Main Course"

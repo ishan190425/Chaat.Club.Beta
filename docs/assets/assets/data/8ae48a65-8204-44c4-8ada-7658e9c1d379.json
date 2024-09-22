@@ -5,16 +5,18 @@
     "Description": "natural pineapple flavored soda with real sugar.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Fruity"
+            "Sweet"
         ],
         "Aroma": [
-            "Pineapple"
+            "Fruity"
         ],
-        "Texture": [],
+        "Texture": [
+            "Smooth",
+            "Soft"
+        ],
         "Visual_Color": [
             "Yellow",
-            "#F2C464"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
@@ -23,16 +25,15 @@
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [],
+        "Country_Origin": [
+            "Mexico"
+        ],
         "Occasions": [
-            "Snack",
-            "Party"
+            ""
         ],
-        "Cooking_Method": [
-            "None"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Beverage"
+            "Main Course"
         ]
     },
     "Food_History": {

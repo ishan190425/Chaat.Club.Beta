@@ -5,29 +5,30 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "Golden Brown",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Moderate"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [],
+        "Nutrition": [
+            "High Protein"
+        ],
         "Country_Origin": [],
         "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Cooking_Method": [
+            "Deep_Fried"
+        ],
+        "Course": [
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

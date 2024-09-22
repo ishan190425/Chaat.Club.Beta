@@ -5,43 +5,28 @@
     "Description": "served with ground peanut sweet sour sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Sour"
+            "Sweet"
         ],
-        "Aroma": [
-            "Nutty"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
             "Vegetarian",
-            "Vegan",
-            "Gluten-Free"
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-in- Fiber"
-        ],
-        "Country_Origin": [
-            "Thai",
-            "Chinese"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
-            "Appetizer",
-            "Lunch"
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Deep-Fried"
+            "Fried"
         ],
         "Course": [
             "Side Dish"

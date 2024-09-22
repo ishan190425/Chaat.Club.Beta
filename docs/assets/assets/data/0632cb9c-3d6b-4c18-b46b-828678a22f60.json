@@ -5,44 +5,38 @@
     "Description": "carbonated soft drink with a classic cola flavor.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Bitter"
+            "Sweet"
         ],
         "Aroma": [
-            "Fruity",
-            "Vanilla"
+            "Fruity"
         ],
         "Texture": [
-            "Syrupy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#0000FF"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork-Free",
-            "Lactose-Free",
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb",
-            "Low-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "United States"
+            "Global"
         ],
         "Occasions": [
-            "Everyday Consumption"
+            "Snack",
+            "Party"
         ],
         "Cooking_Method": [
-            "Bottled at Manufacturer"
+            "None"
         ],
         "Course": [
-            "No specific course"
+            "Appetizer"
         ]
     },
     "Food_History": {

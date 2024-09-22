@@ -4,19 +4,39 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "thick sauce with a mild slightly sweet flavor with potato onion and peanut",
     "Flavor_Profile": {
-        "Taste": [],
-        "Aroma": [],
+        "Taste": [
+            "Sweet",
+            "Sour"
+        ],
+        "Aroma": [
+            "Fruity"
+        ],
         "Texture": [],
-        "Visual_Color": [],
+        "Visual_Color": [
+            "Red",
+            "Yellow"
+        ],
         "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [],
-        "Nutrition": [],
+        "Dietary_restrictions": [
+            "Vegan"
+        ],
+        "Nutrition": [
+            "Low Fat"
+        ],
         "Country_Origin": [],
-        "Occasions": [],
-        "Cooking_Method": [],
-        "Course": []
+        "Occasions": [
+            "Breakfast",
+            "lunch"
+        ],
+        "Cooking_Method": [
+            "Baked",
+            "Grilled"
+        ],
+        "Course": [
+            "Dessert"
+        ]
     },
     "Food_History": {
         "Likes": [],

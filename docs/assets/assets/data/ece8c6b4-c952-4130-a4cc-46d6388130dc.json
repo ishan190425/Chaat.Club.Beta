@@ -4,47 +4,18 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Gamey",
-            "Savory"
-        ],
-        "Aroma": [
-            "Meaty",
-            "Earthy"
-        ],
-        "Texture": [
-            "Tender",
-            "Chewy"
-        ],
-        "Visual_Color": [
-            "Red-Brown",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Halal",
-            "Kosher"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Middle East",
-            "South Asia",
-            "Africa"
-        ],
-        "Occasions": [
-            "Special Occasion",
-            "Celebration"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Roasted"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

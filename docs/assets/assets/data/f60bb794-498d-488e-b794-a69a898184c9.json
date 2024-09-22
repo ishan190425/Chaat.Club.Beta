@@ -4,43 +4,23 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " . abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Sweet"
-        ],
-        "Texture": [
-            "Light"
-        ],
-        "Visual_Color": [
-            "#FFC6C7",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "None"
-        ]
+        "Taste": null,
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Unknown"
+            "Germany"
         ],
         "Occasions": [
-            "Casual Gathering"
+            "Dinner"
         ],
-        "Cooking_Method": [
-            "Not Applicable"
-        ],
-        "Course": [
-            "Appetizer"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

@@ -5,42 +5,37 @@
     "Description": "green onion pepper peppercorn shrimp .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty"
         ],
         "Aroma": [
-            "Peppery",
-            "Seafoody"
+            "Fruity",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "Pinkish-White",
-            "#FFFFFF"
+            "Green",
+            "Red"
         ],
         "Spice_level": [
-            "Spicy"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Lunch",
+            "Appetizers"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Sauteed"
+            "Grilled"
         ],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

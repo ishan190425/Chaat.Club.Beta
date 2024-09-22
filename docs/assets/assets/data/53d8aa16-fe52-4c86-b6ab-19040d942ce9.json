@@ -5,42 +5,30 @@
     "Description": " abv",
     "Flavor_Profile": {
         "Taste": [
-            "Fruity",
-            "Sweet"
+            "Sour",
+            "Umami"
         ],
-        "Aroma": [
-            "Fruity",
-            "Floral"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Yellowish"
+            "White"
         ],
         "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb",
-            "Refreshing"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Italy"
         ],
-        "Occasions": [
-            "Brunch",
-            "Picnic"
-        ],
-        "Cooking_Method": [
-            "Bottle Opened"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Aperitif"
+            "Main Course"
         ]
     },
     "Food_History": {

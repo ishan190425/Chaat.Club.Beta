@@ -5,47 +5,27 @@
     "Description": "egg green onion seaweed.",
     "Flavor_Profile": {
         "Taste": [
-            "Umami",
-            "Seafood"
+            "Salty"
         ],
-        "Aroma": [
-            "Savory",
-            "Oceanic"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#34C759",
-            "#8B9467"
+            "Green",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Seafood"
-        ],
-        "Nutrition": [
-            "High-Fat",
-            "Rich"
-        ],
-        "Country_Origin": [
-            "Japan",
-            "Korea"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
             "Boiled"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

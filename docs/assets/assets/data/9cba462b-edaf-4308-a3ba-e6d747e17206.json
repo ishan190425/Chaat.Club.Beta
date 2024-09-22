@@ -5,39 +5,23 @@
     "Description": "crisp refreshing lemon lime soda in a can",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Sweet"
+            "Sour"
         ],
-        "Aroma": [
-            "Citrus",
-            "Lime"
-        ],
-        "Texture": [
-            "Fizzy"
-        ],
-        "Visual_Color": [
-            "#FFFF00"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "United States"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Party"
+            "Social gatherings",
+            "Picnics"
         ],
-        "Cooking_Method": [
-            "None"
-        ],
-        "Course": [
-            "Beverage"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

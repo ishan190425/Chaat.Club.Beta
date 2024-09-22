@@ -4,46 +4,32 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Cheesy",
-            "Taco-like aroma"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Crispy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFCC33",
-            "#EEEEEE"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico/USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Lunch/Dinner",
-            "Party Food"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Appetizer/Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,41 +5,34 @@
     "Description": "angus beef dry red pepper green onion parsley peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Beefy"
+            "Sweet"
         ],
         "Aroma": [
-            "Meaty",
-            "Spicy"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Chewy"
+            "Chewy",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8B4513"
+            "Red"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "USA"
+            "United States"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Boiled"
+            ""
         ],
         "Course": [
             "Main Course"

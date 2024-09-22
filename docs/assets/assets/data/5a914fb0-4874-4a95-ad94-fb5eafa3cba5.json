@@ -6,45 +6,29 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Pineappley",
-            "Shrimpy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Chewy",
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Carbonhydrate"
-        ],
-        "Country_Origin": [
-            "Asian"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Stir-Fried"
+            "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

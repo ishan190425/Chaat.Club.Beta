@@ -5,44 +5,40 @@
     "Description": "thin crepe from cream of wheat garnished with dry nuts and raisins filled with mashed potatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Dry",
-            "Nutty"
+            "Cheesy",
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy",
+            "Smooth",
             "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Fiber-Rich"
+            "Low Fat"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Snack"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Baked"
+            "Boiled"
         ],
         "Course": [
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

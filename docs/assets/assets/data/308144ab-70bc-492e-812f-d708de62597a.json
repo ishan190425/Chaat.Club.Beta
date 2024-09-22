@@ -5,47 +5,34 @@
     "Description": "egg raisins onion and curry powder. ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Sweet",
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Creamy",
-            "Fruity"
+            "Fruity",
+            "Spicy"
         ],
         "Texture": [
-            "Crunchy",
-            "Creamy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFC125",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free",
-            "Lacto-ovo vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Breakfast",
             "Lunch",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-fry"
+            "Stir Fry"
         ],
         "Course": [
-            "Side dish"
+            "Main Course"
         ]
     },
     "Food_History": {

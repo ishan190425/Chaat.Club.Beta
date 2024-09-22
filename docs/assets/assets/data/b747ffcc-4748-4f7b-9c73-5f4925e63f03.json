@@ -5,50 +5,37 @@
     "Description": "caramelized romanesco broccolini fregola house pesto lemon gremolata affinato",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Citrusy"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8BC34A"
+            "Green",
+            "Yellow"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Pescatarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich-In-AminoAcids"
-        ],
-        "Country_Origin": [
-            "Italy",
-            "Greek"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Special_Occasion"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Roasted",
+            "Boiled"
         ],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

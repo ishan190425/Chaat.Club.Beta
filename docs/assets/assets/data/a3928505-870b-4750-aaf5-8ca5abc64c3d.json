@@ -5,43 +5,33 @@
     "Description": "crispy roll with shrimp and potato served with sweet sour sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
+            "Sweet",
             "Sour"
         ],
         "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Shellfish"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Unknown"
+            "Asian"
         ],
         "Occasions": [
             "Appetizer",
-            "Main Course"
-        ],
-        "Cooking_Method": [
-            "Deep Fried"
-        ],
-        "Course": [
-            "Appetizer",
             "Snack"
+        ],
+        "Cooking_Method": [],
+        "Course": [
+            "Appetizer"
         ]
     },
     "Food_History": {

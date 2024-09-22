@@ -4,45 +4,34 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "with green bean broccoli cabbage onion and carrot",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Nutty",
-            "Sweet"
+            "Nutty"
         ],
         "Texture": [
-            "Smooth",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#C6E3C0",
-            "#66B9FF"
+            "Green",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled-Stirred"
+            "Stir-Fried"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

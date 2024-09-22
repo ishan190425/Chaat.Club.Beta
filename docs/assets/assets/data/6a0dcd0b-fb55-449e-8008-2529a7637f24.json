@@ -5,33 +5,24 @@
     "Description": "basmati rice cooked with dices of fresh cottage cheese and indian spices.",
     "Flavor_Profile": {
         "Taste": [
-            "Milky",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Creamy",
-            "Spicy"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
             "Soft",
-            "Flaky"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#0000FF",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Dairy"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
@@ -39,9 +30,7 @@
             "Lunch",
             "Dinner"
         ],
-        "Cooking_Method": [
-            "Boiled"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

@@ -4,42 +4,19 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "rice stick noodle with egg batter bean sprout and chives",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
+        "Taste": [],
         "Aroma": [],
-        "Texture": [
-            "Sticky"
-        ],
-        "Visual_Color": [
-            "#FFC499 #FFB6E9 #F5DE87"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "Thailand"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Street Food"
-        ],
-        "Cooking_Method": [
-            "Stir-fried"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

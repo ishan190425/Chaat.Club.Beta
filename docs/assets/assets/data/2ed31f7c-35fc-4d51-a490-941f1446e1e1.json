@@ -5,46 +5,23 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour"
         ],
-        "Aroma": [
-            "Fruity"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Fresh"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium to High"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Non",
-            "Dairy",
-            "Gluten",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Side Dish"
+            "Appetizer"
         ],
-        "Cooking_Method": [
-            "Raw",
-            "Cooked"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

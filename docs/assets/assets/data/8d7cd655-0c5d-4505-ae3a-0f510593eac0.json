@@ -5,45 +5,33 @@
     "Description": "crystal noodle with shrimp ground pork tomato shallots cilantro chili and yum sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Umami",
-            "Fruity"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Springy",
+            "Soft",
             "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#F2DEE8"
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Shrimp"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Asia",
-            "China"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Stir-Fried"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

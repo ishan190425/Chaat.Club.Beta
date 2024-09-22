@@ -5,48 +5,34 @@
     "Description": "chicken or beef picadillo salad greens tomato onions creamy cilantro shredded yellow cheese tortilla strips",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Cilantro",
-            "Cheesy"
+            "Floral",
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF",
-            "#F5DEB3"
+            "Red",
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Boiled"
-        ],
-        "Course": [
-            "Appetizer",
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

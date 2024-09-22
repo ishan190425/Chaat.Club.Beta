@@ -5,43 +5,39 @@
     "Description": "mixed vegetables chinese broccoli or vegetable of the day ",
     "Flavor_Profile": {
         "Taste": [
-            "Vegetal"
+            "Salty",
+            "Bitter"
         ],
-        "Aroma": [
-            "Herbal"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crisp",
+            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#8B9467",
-            "#34C759"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian"
+            "Vegetarian",
+            "Vegan"
         ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Calorie"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            " Lunch"
         ],
         "Cooking_Method": [
-            "Stir-fry"
+            "Steamed",
+            "Boiled"
         ],
         "Course": [
-            "Side Dish"
+            "Side Dish",
+            "Main Course"
         ]
     },
     "Food_History": {

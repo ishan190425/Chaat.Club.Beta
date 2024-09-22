@@ -5,42 +5,36 @@
     "Description": "corn tempura with broccolini. served with tempura sauce.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Crunchy"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Buttery"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFD700",
-            "#28B463"
+            "Green"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Unknown"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Deep-Fried"
         ],
         "Course": [
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,46 +5,30 @@
     "Description": "crispy roll stuffed with vegetables crystal noodles served with sweet sour sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Sweet"
         ],
-        "Aroma": [
-            "Veggie-Forward",
-            "Fruity"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Chewy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFC107",
-            "#8BC34A"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Party"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Deep Fried"
+            "Deep-Fried",
+            "Boiled"
         ],
         "Course": [
-            "Appetizer"
+            "Appetizer",
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,43 +5,41 @@
     "Description": "an exquisite composition of masago shrimp tempura avocado and cucumber all elegantly encased. delight in the creamy mayo and satisfying crunch harmoniously crowned with a touch of unagi.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Creamy"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Rich",
-            "Delicate"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFC080"
+            "Yellow",
+            "Green"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Shellfish"
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Low Fat"
         ],
-        "Nutrition": [],
         "Country_Origin": [
-            "Asian"
+            "Japan"
         ],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Special Events"
         ],
         "Cooking_Method": [
             "Fried"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

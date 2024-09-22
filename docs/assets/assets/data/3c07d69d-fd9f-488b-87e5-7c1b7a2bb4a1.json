@@ -5,45 +5,37 @@
     "Description": "famous chicken curry soup with egg noodle from norther region",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Curry-like",
-            "Eggy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Creamy",
-            "Thick"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Pork-free"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Slow-Cooked"
+            "Boiled",
+            "Stewed"
         ],
         "Course": [
-            "Main Course or Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

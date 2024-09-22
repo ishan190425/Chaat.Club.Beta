@@ -5,45 +5,28 @@
     "Description": "southern region style. charcoal chicken leg quarter served with jaew and sweet chili sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Charcoal-Smoked",
-            "Sweet"
-        ],
-        "Texture": [
-            "Juicy",
-            "Crispy"
-        ],
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#990000",
-            "#FFFFFF"
+            "Red",
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Poultry",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
-        "Occasions": [
-            "Appetizer",
-            "Main Course"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
             "Grilled"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -4,45 +4,35 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "a south indian special mild spicy lentil soup.",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Mildly_Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Tannic"
+            "Spicy"
         ],
         "Texture": [
-            "Velvety"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Golden_Brown",
-            "#F5DEB3"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Glutenfree"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Stewed"
+            "Boiled"
         ],
         "Course": [
-            "Side_Dish",
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

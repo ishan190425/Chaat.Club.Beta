@@ -4,43 +4,28 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Vanilla",
-            "Cocoa"
+            "Fruity"
         ],
         "Texture": [
-            "Creamy",
-            "Light"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#F5DEB3"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten",
-            "Milk"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Brunch",
-            "Dessert"
+            "Dessert Night"
         ],
         "Cooking_Method": [
-            "Assembly"
+            "Baked"
         ],
         "Course": [
             "Dessert"

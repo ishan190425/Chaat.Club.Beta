@@ -5,45 +5,33 @@
     "Description": "simply grilled blackened striped bass or salmon atop saut ed spinach medley sliced avocado chimichurri",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fishy"
+            "Umami"
         ],
-        "Aroma": [
-            "Oceanic",
-            "Herby"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Fresh",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC499",
-            "#F7DC6F"
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "None/Global"
+            "Argentina"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Sauteed"
         ],
         "Course": [
-            "Entree"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -4,47 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty",
-            "Fruity"
-        ],
-        "Aroma": [
-            "Street Food"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Crispy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Golden",
-            "#F7D2CF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Greece"
-        ],
-        "Occasions": [
-            "Street Food",
-            "Casual Gathering"
-        ],
-        "Cooking_Method": [
-            "Fried"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Side Dish"
         ]
     },
     "Food_History": {

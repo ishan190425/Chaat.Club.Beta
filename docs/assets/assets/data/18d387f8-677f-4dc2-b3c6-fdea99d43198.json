@@ -5,44 +5,28 @@
     "Description": "ground meat bell pepper chili garlic onion basil and fried egg ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Salty"
         ],
         "Aroma": [
-            "Pungent",
-            "Herbal"
+            "Nutty",
+            "Spicy"
         ],
-        "Texture": [
-            "Crunchy",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thailand"
+            "THAILAND"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Fried",
-            "Steaming"
+            "Fried",
+            "Sauteed"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

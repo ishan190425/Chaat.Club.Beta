@@ -16,7 +16,9 @@
         "Country_Origin": [],
         "Occasions": [],
         "Cooking_Method": [],
-        "Course": []
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

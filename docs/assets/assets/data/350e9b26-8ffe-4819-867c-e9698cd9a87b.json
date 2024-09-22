@@ -5,43 +5,30 @@
     "Description": "basmati rice cooked with garden fresh mushroom and indian spices",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Earthly",
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Tender"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#964B00",
-            "#FFFFFF"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Grilled"
+            "Steamed ",
+            "Baked"
         ],
         "Course": [
             "Main Course"

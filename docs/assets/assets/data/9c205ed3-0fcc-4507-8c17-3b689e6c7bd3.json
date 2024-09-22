@@ -5,49 +5,40 @@
     "Description": "tiger shrimp calamari wild fennel pollen mint spicy tomato sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Seafoody",
-            "Fresh"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Al dente",
-            "Creamy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#333300",
-            "#FFFFFF"
+            "Yellow"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fancy",
-            "Italian-Style",
-            "Contains shellfish",
-            "May contain gluten due to cross-contamination with pasta"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Special Occasion",
-            "Date Night",
-            "Romantic Dinner"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled"
+            "Pan-seared"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

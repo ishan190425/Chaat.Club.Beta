@@ -5,47 +5,34 @@
     "Description": "traditional tomato sauce basil olive oil pecorino",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Tomatoey",
-            "Pungent",
-            "Herby"
+            "Fruity",
+            "Earthy"
         ],
         "Texture": [
-            "Meaty",
-            "Firm",
-            "Tender"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FF9900",
-            "#FFFFFF"
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Good-Fat"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Family-Dinner",
-            "Casual-Meal"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Boiling"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

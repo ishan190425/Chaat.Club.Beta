@@ -5,36 +5,29 @@
     "Description": "raw. thinly sliced raw tuna salmon and yellowtail paired with ponzu sauce and wasabi in a japanese style. pc.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicate"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
-            "Fishy",
-            "Searing"
+            "Fruity",
+            "Cheesy"
         ],
         "Texture": [
-            "Fresh",
-            "Firm",
-            "Thoroughly Chewable"
+            "Smooth",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#F5DEB3",
-            "#F2C464"
+            "Red",
+            "Yellow",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Raw Food"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
@@ -47,8 +40,7 @@
             "Raw"
         ],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

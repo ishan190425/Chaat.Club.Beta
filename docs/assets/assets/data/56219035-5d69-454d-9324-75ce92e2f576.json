@@ -4,43 +4,21 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Salty",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Fresh"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Smooth"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#F5DEB3",
-            "#FFC0CB"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Snacking",
-            "Social Gathering"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "None"
+            "Pre-made, packaged"
         ],
         "Course": [
             "Appetizer"

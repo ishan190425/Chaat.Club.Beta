@@ -5,39 +5,30 @@
     "Description": "slow braised pork chashu simmered shiitake mushroom kikurage namul may be substituted with spinach based on availability. green onion seasoned egg and sesame seeds.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
+            "Umami"
         ],
         "Aroma": [
-            "Earthy"
+            "Earthy",
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Tender",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#fff999"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japan"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
+            "Braised",
             "Simmered"
         ],
         "Course": [

@@ -5,48 +5,37 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
-        "Aroma": [
-            "Eggy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFC080"
+            "White",
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "India",
-            "Chinese-Style"
+            "India"
         ],
         "Occasions": [
-            "Party Food",
-            "Dinner Party"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Stir-fried",
-            "Deep-fried"
+            "Pan-Fried ",
+            "Deep Frying"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

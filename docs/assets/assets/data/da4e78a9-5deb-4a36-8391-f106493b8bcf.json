@@ -4,42 +4,27 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity",
-            "Slightly Sweet"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Wine-like",
-            "Berries"
+            "Fruity"
         ],
-        "Texture": [
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "Dark Red"
-        ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Calories"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Argentina"
         ],
         "Occasions": [
-            "Wine Evening",
+            "BBQ",
+            "Birthday Party",
             "Dinner Party"
         ],
-        "Cooking_Method": [
-            "Bottle"
-        ],
-        "Course": [
-            "After Dinner"
-        ]
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

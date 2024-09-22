@@ -4,50 +4,24 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
-        "Aroma": [
-            "Peppery",
-            "Meaty"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Soft"
-        ],
-        "Visual_Color": [
-            "#F7C4B8",
-            "#999900"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Healthy"
-        ],
-        "Country_Origin": [
-            "Mixed",
-            "Mexican"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Party"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Saut\u00e9ed"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

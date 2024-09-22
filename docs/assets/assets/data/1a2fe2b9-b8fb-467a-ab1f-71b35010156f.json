@@ -7,38 +7,25 @@
         "Taste": [
             "Salty"
         ],
-        "Aroma": [
-            "None known"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#CCCCCC"
+            "Brown",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Multiple Countries (Global)"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Beverage with a Meal"
+            "Snack"
         ],
         "Cooking_Method": [
-            "Deep Fried"
+            "Fried"
         ],
         "Course": [
             "Side Dish"

@@ -5,43 +5,34 @@
     "Description": "idly medhu vada ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour"
         ],
-        "Aroma": [
-            "Fermented"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Soft"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#F5F5DC",
-            "#FFFFFF"
+            "White",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
-            "Lunch"
+            "Snack",
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Snack"
+            "Side Dish"
         ]
     },
     "Food_History": {

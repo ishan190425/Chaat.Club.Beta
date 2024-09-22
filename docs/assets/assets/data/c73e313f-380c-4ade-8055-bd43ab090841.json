@@ -5,44 +5,28 @@
     "Description": "lightly seasoned mixed seaweed salad with baby mixed greens. vegetarian.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Salty"
         ],
         "Aroma": [],
         "Texture": [
-            "Crisp",
             "Soft"
         ],
         "Visual_Color": [
-            "#8B9467",
-            "#FFFFFF"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
+            "Vegetarian"
         ],
-        "Nutrition": [
-            "Low-Fat",
-            "High-In-Vitamins"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Dinner",
-            "Lunch",
-            "Barefoot-Welcome"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Simple Preparation",
-            "Not-Required-Cooking"
+            "Cold"
         ],
         "Course": [
-            "Side Dish",
             "Appetizer"
         ]
     },

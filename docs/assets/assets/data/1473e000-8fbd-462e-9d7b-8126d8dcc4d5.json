@@ -5,44 +5,22 @@
     "Description": "a refreshing sugar free carbonated beverage with a crisp cola flavor.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Cola"
+            "Sweet"
         ],
-        "Aroma": [
-            "Fruity",
-            "Slightly Sweet"
-        ],
-        "Texture": [
-            "Bubbly"
-        ],
-        "Visual_Color": [
-            "#0033CC"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free",
-            "Sugar-Free",
-            "Low-Calorie"
+        "Dietary_restrictions": [],
+        "Nutrition": [
+            "Sugar-Free"
         ],
-        "Nutrition": [],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Anytime",
-            "Social Gathering"
-        ],
-        "Cooking_Method": [
-            "Opened From Can"
-        ],
-        "Course": [
-            "Beverage"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

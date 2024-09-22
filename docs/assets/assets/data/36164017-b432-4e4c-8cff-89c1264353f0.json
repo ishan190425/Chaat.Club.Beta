@@ -4,39 +4,24 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Sweet"
-        ],
-        "Texture": [
-            "Cold"
-        ],
+        "Taste": null,
+        "Aroma": [],
+        "Texture": [],
         "Visual_Color": [
-            "#CCCCCC",
-            "#00FFFF"
+            "Red"
         ],
-        "Spice_level": [
-            "Low"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Zero-Calorie",
-            "Refreshing"
-        ],
+        "Nutrition": [],
         "Country_Origin": [],
-        "Occasions": [
-            "Anytime"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Brewed"
+            "Cold-brewed"
         ],
         "Course": [
-            "Not applicable"
+            "Appetizer"
         ]
     },
     "Food_History": {

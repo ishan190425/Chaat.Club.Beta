@@ -5,46 +5,25 @@
     "Description": "cabbage chinese bean noodles .",
     "Flavor_Profile": {
         "Taste": [
-            "Earthy",
-            "Bitter"
+            "Sour"
         ],
         "Aroma": [
-            "Semi-Automatic",
-            "Familiarity"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Slippery",
-            "Chewy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "#8B2E11",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Blended"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

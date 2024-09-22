@@ -5,48 +5,39 @@
     "Description": "mama wheat flour noodle egg batter onion cabbage carrot and chinese broccoli ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Wheat",
-            "Eggish"
+            "Nutty",
+            "Earthy"
         ],
         "Texture": [
-            "Chewy",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFF599",
-            "#FFFFFF"
+            "Green",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Snack"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Boiled",
-            "Stir-Fried"
+            "Deep-Fried",
+            "Boiled"
         ],
         "Course": [
-            "Side dish",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

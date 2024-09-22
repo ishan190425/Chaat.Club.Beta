@@ -5,47 +5,32 @@
     "Description": "angus beef enoki mushroom mung bean jelly peppercorn pickled pepper .",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Earthy"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tender",
-            "Jelly-like"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Australia",
-            "Canada"
+            "Global"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
             "Grilled",
-            "Boiled"
+            "Pan-Seared"
         ],
-        "Course": [
-            "Main Course"
-        ]
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

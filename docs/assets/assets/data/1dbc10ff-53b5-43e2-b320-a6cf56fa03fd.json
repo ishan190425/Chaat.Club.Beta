@@ -5,48 +5,33 @@
     "Description": "octopus balls. battered octopus over egg tartar topped with mayonnaise okonomiyaki sauce fresh cut green onion and smoked bonito flakes.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fresh"
+            "Fruity",
+            "Nutty"
         ],
-        "Texture": [
-            "Crunchy",
-            "Soft",
-            "Melted"
-        ],
+        "Texture": [],
         "Visual_Color": [
-            "#FF8C00",
-            "#8B4513",
-            "#999999",
-            "#FFFFFF",
-            "#964B00"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "Japan"
         ],
         "Occasions": [
-            "Street Food",
-            "Snack",
-            "Appetizer"
+            "Street Food"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
-            "Grilled"
+            "Deep-fried"
         ],
         "Course": [
-            "Appetizer",
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

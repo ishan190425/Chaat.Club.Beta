@@ -5,42 +5,37 @@
     "Description": "delicious south indian fluffy bread served with mashed potatoes and curry",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sweet"
         ],
         "Aroma": [
-            "Buttery",
-            "Fragrant"
+            "Fruity"
         ],
         "Texture": [
-            "Light",
-            "Airy"
+            "Soft"
         ],
         "Visual_Color": [
-            "Golden"
+            "White"
         ],
         "Spice_level": [
-            "Mild"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Brunch",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Fried"
+            "baked"
         ],
         "Course": [
-            "Bread"
+            "Side Dish"
         ]
     },
     "Food_History": {

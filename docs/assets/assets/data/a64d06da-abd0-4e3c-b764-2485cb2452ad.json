@@ -4,46 +4,29 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Cheesy",
-            "Savory"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#F4C10E",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy"
-        ],
-        "Nutrition": [
-            "Carb-Heavy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
-            "Snack"
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Pan-Fried",
-            "Microwaved"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

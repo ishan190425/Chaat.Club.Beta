@@ -4,52 +4,31 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "crispy grilled sushi rice topped with spicy tuna . garnished with sliced serrano pepper",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Spicy"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Fruity",
-            "Umami"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Fishy"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "#FC9E00",
-            "#F5F5DC"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten-free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Japanese/Mexican"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
             "Grilled",
-            "Pan-cooked"
+            "Boiled"
         ],
         "Course": [
-            "Appetizer",
-            "Hors d'oeuvre"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,53 +5,41 @@
     "Description": "fresh mozzarella calabrian tomato sauce torn basil",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Bitter",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Earthy",
-            "Tomatoey",
+            "Nutty",
             "Cheesy"
         ],
         "Texture": [
-            "Crunchy",
-            "Creamy",
-            "Soft"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#F2C6CE",
-            "#FFFFFF",
-            "#8E0F5D"
+            "Red",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Vegetarian",
-            "Vegan (eggplant)"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Italy (Italian-Italian cuisine)",
-            "Sicily (eggplant parmigiana)"
+            "Italy"
         ],
         "Occasions": [
-            "Appetizer",
-            "Main Course",
-            "Brunch"
+            "Breakfast"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Baked"
+            "Fried"
         ],
         "Course": [
-            "Appetizer/Side Dish"
+            "Side Dish"
         ]
     },
     "Food_History": {

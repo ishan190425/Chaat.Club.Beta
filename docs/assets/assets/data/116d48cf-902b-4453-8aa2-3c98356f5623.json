@@ -4,42 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sour",
-            "Fishy"
-        ],
-        "Aroma": [
-            "Seafood"
-        ],
-        "Texture": [
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": null,
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Various"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Brunch"
+            "Picnic"
         ],
-        "Cooking_Method": [
-            "Chilled"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -4,40 +4,20 @@
     "User_UUID": "c9867a74-4d90-413a-83de-80964ce64709",
     "Description": "mixed green with thai peanut sauce",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet",
-            "Savory"
-        ],
-        "Aroma": [
-            "Peanutty"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy"
+            "Soft"
         ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Protein"
-        ],
-        "Country_Origin": [
-            "Thai"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Raw, Simple"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Side Dish"
         ]

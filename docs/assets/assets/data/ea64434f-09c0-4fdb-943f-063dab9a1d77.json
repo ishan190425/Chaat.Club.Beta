@@ -5,42 +5,37 @@
     "Description": "fresh rice noodle with bamboo onions bell pepper chili basil and touch of rice wine",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Umami",
+            "Sour"
         ],
         "Aroma": [
             "Earthy",
-            "Spicy"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Slurpy",
-            "Crisp"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Green",
+            "Red"
         ],
         "Spice_level": [
-            "Moderate"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thailand"
+            "China"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Wok"
+            "Stir-fry"
         ],
         "Course": [
             "Appetizer"

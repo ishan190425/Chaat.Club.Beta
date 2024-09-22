@@ -8,42 +8,24 @@
             "Sour",
             "Sweet"
         ],
-        "Aroma": [
-            "Fresh",
-            "Green"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crisp",
-            "Refreshing"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#34C759"
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Snack",
-            "Salad"
-        ],
-        "Cooking_Method": [
-            "Raw",
-            "Boiled"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

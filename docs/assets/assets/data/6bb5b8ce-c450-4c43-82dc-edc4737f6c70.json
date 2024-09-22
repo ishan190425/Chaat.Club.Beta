@@ -5,44 +5,41 @@
     "Description": "angus beef ginger pepper pickled string bean .",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Beefy"
+            "Umami"
         ],
         "Aroma": [
-            "Gingery",
-            "Peppery"
+            "Spicy",
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Tough",
-            "Crunchy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFAAAA",
-            "#FFFFFF"
+            "Brown",
+            "Red"
         ],
         "Spice_level": [
-            "High"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Appetizer",
+            "Main Course"
         ],
         "Cooking_Method": [
-            "Stir-Fried"
+            "Grilled",
+            "Pan-fried"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

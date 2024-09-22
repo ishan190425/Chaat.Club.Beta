@@ -5,42 +5,31 @@
     "Description": "dry red pepper flounder peppercorn sichuan pickles .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Bitter"
         ],
-        "Aroma": [
-            "Spicy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Delicate"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#8B4513"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium-Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "China",
-            "Various"
-        ],
-        "Occasions": [
-            "Anytime"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Seared",
-            "Deep-Fried"
+            "Pan-Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -4,41 +4,29 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": " abv",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Earthy"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [],
-        "Visual_Color": [
-            "#FFC0CB"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork",
-            "Sulfites"
-        ],
-        "Nutrition": [
-            "Low-Calorie",
-            "High-Resveratrol"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Romantic Dinner"
+            "Social Gathering"
         ],
         "Cooking_Method": [
-            "Red Wine Vinegar"
+            "Still Wine Method"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer",
+            "Main Course",
+            "Side Dish",
+            "Dessert"
         ]
     },
     "Food_History": {

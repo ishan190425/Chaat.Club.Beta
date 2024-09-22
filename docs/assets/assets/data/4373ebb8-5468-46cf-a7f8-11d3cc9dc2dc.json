@@ -4,45 +4,28 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Meaty",
-            "Savory"
-        ],
-        "Aroma": [
-            "Pungent",
-            "Savory"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Coarse",
-            "Light"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFD700",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Asia"
+            "Japan"
         ],
-        "Occasions": [
-            "Snack",
-            "Lunch"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grounded"
+            "Grilled",
+            "Pan-fried"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

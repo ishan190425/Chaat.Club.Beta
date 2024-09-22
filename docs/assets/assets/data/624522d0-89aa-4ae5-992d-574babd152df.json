@@ -4,12 +4,8 @@
     "User_UUID": "3aa9fb84-5f6a-4921-9138-4d854760def9",
     "Description": "shrimp walnut",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Nutty"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Seafoody",
             "Nutty"
         ],
         "Texture": [
@@ -17,31 +13,23 @@
             "Soft"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#964B00"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Shellfish",
-            "Tree_nut"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Appetizer"
         ],
         "Cooking_Method": [
-            "Deep_frying"
+            "Fried"
         ],
         "Course": [
-            "Starters"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,47 +5,27 @@
     "Description": "bell pepper berkshire pork garlic ginger green onion",
     "Flavor_Profile": {
         "Taste": [
-            "Bitter",
-            "Sweet"
+            "Sour",
+            "Salty"
         ],
         "Aroma": [
-            "Pungent",
-            "Savory"
+            "Earthy",
+            "Spicy",
+            "Cheesy"
         ],
-        "Texture": [
-            "Crunchy",
-            "Juicy"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber",
-            "Low-Fat"
+            "Gluten-Free"
         ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch"
-        ],
-        "Cooking_Method": [
-            "Roasted",
-            "Grilled"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

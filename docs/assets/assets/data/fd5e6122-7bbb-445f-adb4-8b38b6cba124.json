@@ -5,43 +5,26 @@
     "Description": "served with boiled quail egg and multicolor rice",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
-        ],
-        "Aroma": [
-            "Meaty",
             "Umami"
         ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Fatty"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Brunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Braised"
+            "Stewed"
         ],
         "Course": [
             "Main Course"

@@ -5,44 +5,32 @@
     "Description": "steamed cauliflower and potato cooked with onion paste and fine indian spices.",
     "Flavor_Profile": {
         "Taste": [
-            "Earthly",
-            "Savory"
+            "Salty",
+            "Umami"
         ],
-        "Aroma": [
-            "Spicy",
-            "Earthy"
-        ],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Flaky"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#F5DEB3",
-            "#F2C464"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Fat",
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Steaming"
+            "Steamed",
+            "Stir-fried"
         ],
         "Course": [
             "Main Course"

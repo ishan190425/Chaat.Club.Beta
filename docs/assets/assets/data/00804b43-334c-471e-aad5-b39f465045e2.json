@@ -4,44 +4,29 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "vanilla zabaglione oat crumble",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity",
-            "Buttery"
-        ],
+        "Taste": [],
         "Aroma": [
-            "Sweet",
-            "Vanilla"
+            "Fruity",
+            "Nutty"
         ],
         "Texture": [
-            "Moist",
-            "Crumbling"
+            "Soft",
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFA500",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Dinner"
+            "Afternoon Tea",
+            "Brunch"
         ],
-        "Cooking_Method": [
-            "Baked"
-        ],
+        "Cooking_Method": [],
         "Course": [
             "Dessert"
         ]

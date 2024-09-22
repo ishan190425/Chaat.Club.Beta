@@ -5,41 +5,32 @@
     "Description": "beansprout bok choy flour",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Mildly Vegetable"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "Green",
-            "#FFFFFF"
+            "White",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Vegetarian",
             "Vegan"
         ],
         "Nutrition": [
-            "Low-Fat",
-            "High-Fiber"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
             "Snack"
         ],
         "Cooking_Method": [
-            "Deep Fried"
+            "Baked"
         ],
         "Course": [
             "Appetizer"

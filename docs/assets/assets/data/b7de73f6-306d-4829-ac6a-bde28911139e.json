@@ -5,42 +5,28 @@
     "Description": "angus beef bell pepper onion.",
     "Flavor_Profile": {
         "Taste": [
-            "Beefy",
-            "Savory"
+            "Umami"
         ],
-        "Aroma": [
-            "Meaty",
-            "Fragrant"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Tender",
-            "Juicy"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Stir-Fried"
+            "Stir-fried",
+            "Boiled"
         ],
         "Course": [
             "Main Course"

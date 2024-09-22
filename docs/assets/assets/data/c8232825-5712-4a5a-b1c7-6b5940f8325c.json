@@ -4,44 +4,33 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "thin soft whole wheat read served with mashed potatoes and curry",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Wheat-like",
-            "Curry-ish"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
             "Soft",
-            "Tender"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#FFCC00"
+            "Brown"
         ],
-        "Spice_level": [
-            "Medium-Hot"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Fiber",
-            "Low-Fat"
+            "Gluten-Free"
         ],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
             "Breakfast",
-            "Lunch",
+            " Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Griddled"
+            "Grilled",
+            "Boiled"
         ],
         "Course": [
             "Main Course"

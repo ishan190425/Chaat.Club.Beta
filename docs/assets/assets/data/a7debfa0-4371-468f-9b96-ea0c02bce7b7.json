@@ -5,44 +5,33 @@
     "Description": "cooked. snow crab cucumber and avocado rolled and topped with masago.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Delicious"
+            "Salty",
+            "Umami"
         ],
-        "Aroma": [
-            "Fresh",
-            "Crabby"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Tender"
+            "Smooth",
+            "Soft"
         ],
-        "Visual_Color": [
-            "White",
-            "#FFC499"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japan/USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Appetizer",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Steamed'], "
+            "Grilled"
         ],
-        "Course": []
+        "Course": [
+            "Appetizer"
+        ]
     },
     "Food_History": {
         "Likes": [],

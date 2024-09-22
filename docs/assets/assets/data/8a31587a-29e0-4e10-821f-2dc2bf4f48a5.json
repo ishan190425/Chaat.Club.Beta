@@ -5,46 +5,37 @@
     "Description": "beef meatball porchetta blistered onion wild oregano bucatini pecorino",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Meaty",
-            "Savory"
+            "Sweet"
         ],
         "Aroma": [
-            "Herby",
-            "Earthly",
-            "Meaty"
+            "Fruity",
+            "Cheesy"
         ],
         "Texture": [
-            "Coarse",
-            "Juicy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Brown",
-            "#FFC080"
+            "Red"
         ],
         "Spice_level": [
-            "Mild"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Dinner",
+            "Snack"
         ],
         "Cooking_Method": [
-            "Boiled"
+            "Grilled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

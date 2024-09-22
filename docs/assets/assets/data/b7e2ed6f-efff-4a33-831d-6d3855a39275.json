@@ -5,45 +5,34 @@
     "Description": "egg onion tomato pea carrot scallop and chinese broccoli",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Eggy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Fried"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown",
+            "White"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Carbohydrate-rich"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
             "Lunch",
-            "Breakfast"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Fried",
-            "Stir-fry"
+            "Frying",
+            "Boiling"
         ],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

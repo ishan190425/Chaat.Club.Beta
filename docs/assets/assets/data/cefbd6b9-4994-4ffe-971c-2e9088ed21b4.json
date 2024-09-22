@@ -5,46 +5,30 @@
     "Description": "bell pepper black ear ginger green onion pepper tofu .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
         "Aroma": [
-            "Earthy",
-            "Peppery"
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Crispy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#FF8C00",
-            "#008000"
+            "Green",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Baked",
-            "Pan-fried"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

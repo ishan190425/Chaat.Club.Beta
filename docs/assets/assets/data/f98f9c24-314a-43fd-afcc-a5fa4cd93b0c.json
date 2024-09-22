@@ -5,44 +5,32 @@
     "Description": "thick rice and lentil pancake sprinkled with cheese and filled with potatoes",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Cheesy",
-            "Earthy"
+            "Earthy",
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
             "Soft",
-            "Crispy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Golden",
-            "#F7D2C4"
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Brunch",
-            "Lunch",
-            "Dinner"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Pan-Fried"
+            "Pan-fried"
         ],
         "Course": [
             "Main Course"

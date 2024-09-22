@@ -5,47 +5,40 @@
     "Description": "thin crispy rice and lentil crepe filled with potatoes and onions",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Savory"
+            "Sweet",
+            "Salty"
         ],
         "Aroma": [
-            "Oniony",
-            "Potatoey"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Crispy",
+            "Crunchy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FF99CC",
-            "#964B00"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
-            "Hot"
+            "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Vegan option possible"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Good source of protein for vegetarians"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "India"
+            "Indian"
         ],
         "Occasions": [
             "Breakfast",
-            "Snack"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Pan-fryed"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

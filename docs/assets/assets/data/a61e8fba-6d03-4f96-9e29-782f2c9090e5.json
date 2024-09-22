@@ -4,42 +4,25 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Sweet"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Toasted"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Soft",
-            "Crunchy"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "Yellow",
-            "#8B4513"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
-        "Nutrition": [
-            "Carbohydrates"
-        ],
-        "Country_Origin": [
-            "Asia"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
+            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Fried"
+            "Stir-Fried"
         ],
         "Course": [
             "Main Course"

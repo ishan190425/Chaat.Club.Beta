@@ -5,46 +5,32 @@
     "Description": "ground berkshire pork pepper peppercorn tofu .",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Peppery",
-            "Meaty"
+            "Spicy"
         ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#E5D8B6",
-            "#FFFFFF"
+            "Red"
         ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Stir-fry"
+            "Sauteed"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -4,43 +4,18 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Earthy",
-            "Soupy"
-        ],
-        "Texture": [
-            "Creamy",
-            "Thick"
-        ],
-        "Visual_Color": [
-            "Brown",
-            "#FF0000"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": null,
+        "Aroma": null,
+        "Texture": null,
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Global"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Heated"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
             "Main Course"
         ]

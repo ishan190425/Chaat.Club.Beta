@@ -4,23 +4,11 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Spicy"
-        ],
-        "Aroma": [
-            "Peppery",
-            "Savory"
-        ],
-        "Texture": [
-            "Thick"
-        ],
-        "Visual_Color": [
-            "Red",
-            "#FF3737"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],

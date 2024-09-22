@@ -5,42 +5,37 @@
     "Description": "roasted cottage cheese cooked with rich butter gravy",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Salty",
+            "Umami"
         ],
         "Aroma": [
-            "Buttery",
-            "Creamy"
+            "Cheesy",
+            "Nutty"
         ],
         "Texture": [
-            "Crisp",
-            "Soft"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#FFC0CB"
+            "White",
+            "Brown"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Calcium"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Indian"
+            "India"
         ],
         "Occasions": [
-            "Party",
-            "Family_Gathering"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "Stir-fry",
+            "Sauteed"
         ],
         "Course": [
             "Main Course"

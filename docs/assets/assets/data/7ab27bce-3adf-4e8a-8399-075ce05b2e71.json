@@ -5,42 +5,32 @@
     "Description": " steamed meat bun pc",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
             "Soft",
-            "Light"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "On-the-go Food"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
             "Steamed"
         ],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

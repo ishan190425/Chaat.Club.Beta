@@ -5,20 +5,20 @@
     "Description": "slow braised chicken breast chashu ground chicken soboro simmered shiitake mushroom kikurage namul may be substituted with spinach based on availability. green onion seasoned egg and sesame seeds.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Meaty",
-            "Savory"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
             "Soft",
-            "Tender"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#808000"
+            "Brown",
+            "Green"
         ],
         "Spice_level": [
             "Mild"
@@ -26,25 +26,23 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten",
-            "Poultry"
+            "Vegan",
+            "Vegetarian",
+            "Halal",
+            "Kosher"
         ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Japan"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Steaming",
-            "Boiling"
+            "Boiled",
+            "Braised"
         ],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

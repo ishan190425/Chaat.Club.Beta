@@ -5,39 +5,27 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Rich"
+            "Umami"
         ],
-        "Aroma": [
-            "Cheesy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Melty"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#F2C464",
-            "#FFFFFF"
+            "Red",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italian"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Baked"
+            "Baked",
+            "Oven-baked"
         ],
         "Course": [
             "Main Course"

@@ -4,47 +4,25 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Creamy",
-            "Savory"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Buttery"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Tender"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#8BC34A",
-            "#F5F5DC"
+            "Green",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Fat",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Tropical"
-        ],
-        "Occasions": [
-            "Breakfast",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Raw"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

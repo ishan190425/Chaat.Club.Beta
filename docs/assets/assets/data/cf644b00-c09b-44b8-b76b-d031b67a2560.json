@@ -5,34 +5,28 @@
     "Description": "house specialty. traditional meat sauce pappardelle grana padano wild oregano evoo",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Meaty"
+            "Umami"
         ],
         "Aroma": [
-            "Fruity",
-            "Herbal"
+            "Earthy"
         ],
         "Texture": [
-            "Hearty",
-            "Slippery"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFA07A",
-            "#F5F5F5"
+            "Red",
+            "Brown"
         ],
         "Spice_level": [
-            "Moderate"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Carbohydrate"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Italy"
+            "Italian"
         ],
         "Occasions": [
             "Lunch",

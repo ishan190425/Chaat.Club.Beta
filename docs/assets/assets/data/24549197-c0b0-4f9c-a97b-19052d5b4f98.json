@@ -5,52 +5,30 @@
     "Description": "bamboo shoots berkshire pork black ear green onion pepper peppercorn .",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Meaty",
-            "Herby"
+            "Earthy",
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Shredded"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC040",
-            "#FFFF99",
-            "#8B4513"
+            "Red"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Meat-Based"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA",
-            "China"
+            "Asian"
         ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Party"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Roasted",
-            "Stewed"
-        ],
-        "Course": [
-            "Main Course",
-            "Side Dish"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

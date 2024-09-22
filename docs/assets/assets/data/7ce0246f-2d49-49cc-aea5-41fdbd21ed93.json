@@ -5,47 +5,36 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Spicy",
-            "Meaty"
+            "Umami"
         ],
         "Aroma": [
-            "Spicy",
-            "Savory"
+            "Spicy"
         ],
         "Texture": [
-            "Tender",
-            "Crumbly"
+            "Smooth",
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Light Brown",
-            "#E5DEB7"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Rich in Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Various (Can be from multiple countries depending on the variation of ground pork)"
+            "Japan"
         ],
         "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Main Course"
+            "Breakfast",
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Pan-fry"
+            "Fried",
+            "Grilled"
         ],
         "Course": [
-            "Main Course",
-            "Appetizer"
+            "Appetizer",
+            "Main Course"
         ]
     },
     "Food_History": {

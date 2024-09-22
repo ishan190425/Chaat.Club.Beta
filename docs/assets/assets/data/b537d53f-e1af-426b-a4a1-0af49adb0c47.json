@@ -5,52 +5,40 @@
     "Description": "grilled asparagus broccolini sugar snap pea avocado cherry tomato glazed apple chioggia beet heirloom carrot house pesto hearth bread",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fresh",
-            "Earthly"
+            "Cheesy"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#8B4513",
-            "#6495ED",
-            "#FFC080",
-            "#F0E4CC",
-            "#7FFFA2",
-            "#9A6324"
+            "Green",
+            "Yellow",
+            "Red"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA",
-            "International"
+            "USA"
         ],
         "Occasions": [
-            "Brunch",
-            "Appetizer"
+            "Breakfast",
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Roasted",
-            "Baked"
+            "Grilled"
         ],
         "Course": [
-            "Appetizer",
             "Side Dish"
         ]
     },

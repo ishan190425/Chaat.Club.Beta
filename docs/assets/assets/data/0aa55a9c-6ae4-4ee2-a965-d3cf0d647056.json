@@ -5,45 +5,38 @@
     "Description": "served with ginger soya sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Gingerly",
-            "Sweet"
+            "Nutty",
+            "Cheesy"
         ],
         "Texture": [
-            "Juicy",
-            "Creamy"
+            "Smooth",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#F2DE4C",
-            "#FFFFFF"
+            "White",
+            "Brown",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Poultry"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "High Protein"
         ],
-        "Country_Origin": [
-            "Chinese"
-        ],
+        "Country_Origin": [],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Anytime"
         ],
         "Cooking_Method": [
-            "Steamed"
+            "Steamed",
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

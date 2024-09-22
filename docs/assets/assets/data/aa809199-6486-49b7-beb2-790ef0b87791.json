@@ -4,47 +4,21 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Tangy"
-        ],
-        "Aroma": [
-            "Fruity",
-            "Nutmeg-like"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
-            "Chunky"
+            "Chewy"
         ],
-        "Visual_Color": [
-            "Light Brown",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Picnick"
-        ],
-        "Cooking_Method": [
-            "Mixed"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

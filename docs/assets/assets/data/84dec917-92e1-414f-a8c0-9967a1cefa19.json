@@ -4,49 +4,25 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "three chicken or ground beef crispy of soft",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty"
-        ],
-        "Aroma": [
-            "Herby",
-            "Spicy",
-            "Smoky"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft",
-            "Juicy"
+            "Crunchy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FF0000",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free-",
-            "Meat-Based",
-            "Beef- or Chicken-Optionable",
-            "Shellfish-free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Mexican"
-        ],
-        "Occasions": [
-            "Snack-Time",
-            "Main-Course"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grilled",
-            "Tossed"
+            "Fried"
         ],
         "Course": [
-            "Appetizer",
+            "Side Dish",
             "Main Course"
         ]
     },

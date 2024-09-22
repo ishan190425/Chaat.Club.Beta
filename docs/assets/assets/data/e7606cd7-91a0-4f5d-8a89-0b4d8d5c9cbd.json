@@ -4,42 +4,24 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Bitter",
-            "Savory"
-        ],
-        "Aroma": [
-            "Earthly",
-            "Vegetal"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Deep-Fried"
+            "Fried"
         ],
         "Course": [
             "Side Dish"

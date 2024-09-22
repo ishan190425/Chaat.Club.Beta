@@ -5,46 +5,40 @@
     "Description": "big fluffy fried bread served with chick peas masala",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fried",
-            "Indian spices"
+            "Fruity",
+            "Earthy"
         ],
         "Texture": [
-            "Fluffy",
-            "Crunchy"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#fff600",
-            "#ffee00"
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten",
             "Vegetarian"
         ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
         "Occasions": [
-            "Street food",
-            "Casual gathering"
+            "Street Food",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Frying"
+            "Deep-Fried"
         ],
         "Course": [
-            "Snack",
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

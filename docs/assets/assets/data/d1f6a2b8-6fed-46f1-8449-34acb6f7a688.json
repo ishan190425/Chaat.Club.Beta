@@ -4,23 +4,11 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Fruity"
-        ],
-        "Aroma": [
-            "Sweet",
-            "Fruity"
-        ],
-        "Texture": [
-            "Soft",
-            "Sticky"
-        ],
-        "Visual_Color": [
-            "Golden"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [],

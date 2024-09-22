@@ -4,49 +4,38 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "beef chicken or combination fajita in two handmade flour tortillas",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
+        "Taste": [],
+        "Aroma": [
             "Spicy"
         ],
-        "Aroma": [
-            "Fajita-like",
-            "Meaty"
-        ],
         "Texture": [
-            "Tender",
-            "Crunchy"
+            "Crunchy",
+            "Soft"
         ],
         "Visual_Color": [
-            "Gold-Brown",
-            "#D2B48C"
+            "Brown",
+            "Yellow"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lactose for cheese option"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein for beef and chicken options"
+            "High Protein"
         ],
         "Country_Origin": [
             "Mexico"
         ],
         "Occasions": [
-            "Breakfast",
-            "Snack",
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled",
-            "Saut\u00e9ed"
+            "Grilled"
         ],
         "Course": [
-            "Appetizer",
             "Main Course"
         ]
     },

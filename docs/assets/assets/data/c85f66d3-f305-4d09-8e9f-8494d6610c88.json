@@ -4,45 +4,19 @@
     "User_UUID": "15ca2da3-7b9c-4523-8bde-f6b9bbea26a1",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Rich"
-        ],
-        "Aroma": [
-            "Buttery",
-            "Creamy"
-        ],
-        "Texture": [
-            "Spreadable",
-            "Meltable"
-        ],
-        "Visual_Color": [
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "None"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose"
-        ],
-        "Nutrition": [
-            "High-Food-Energy"
-        ],
-        "Country_Origin": [
-            "Not Provided"
-        ],
-        "Occasions": [
-            "Beverage",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Melted",
-            "Spread"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

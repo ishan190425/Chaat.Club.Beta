@@ -8,30 +8,24 @@
             "Sweet"
         ],
         "Aroma": [
-            "Sweet"
+            "Nutty"
         ],
         "Texture": [
-            "Creamy",
-            "Silky"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFFE0"
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
         "Country_Origin": [
-            "Mexico"
+            "France"
         ],
         "Occasions": [
-            "Snack",
-            "Breakfast"
+            "Dessert"
         ],
         "Cooking_Method": [
             "Baked"

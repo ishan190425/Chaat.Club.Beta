@@ -5,47 +5,28 @@
     "Description": "No Description Provided",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Meaty"
+            "Umami"
         ],
-        "Aroma": [
-            "Meaty",
-            "Herby"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Soft",
+            "Smooth",
             "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Lamb/Cow"
-        ],
-        "Nutrition": [
-            "Medium-Calcium",
-            "Good-Protein"
-        ],
-        "Country_Origin": [
-            "Greek"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Street Food",
-            "Casual"
+            ""
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Rotisserie"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Side Dish",
             "Main Course"
         ]
     },

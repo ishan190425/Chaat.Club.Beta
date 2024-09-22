@@ -5,19 +5,17 @@
     "Description": "ground meat green bean onion in chili garlic and basil sauce",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Herbaceous",
-            "Spicy"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Chewy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "Brown",
+            "Red",
             "Green"
         ],
         "Spice_level": [
@@ -25,16 +23,9 @@
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "China"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
@@ -43,7 +34,8 @@
             "Stir-fry"
         ],
         "Course": [
-            "Main Course"
+            "Main Course",
+            "Side Dish"
         ]
     },
     "Food_History": {

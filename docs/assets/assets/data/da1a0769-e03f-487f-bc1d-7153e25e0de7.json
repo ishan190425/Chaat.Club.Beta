@@ -4,42 +4,32 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Spicy",
-            "Fermented"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Red"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
-            "Medium-Hot"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Halal"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Pakistan/Indian (Street Food)"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Street Food"
+            "Breakfast",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Fry"
+            "Fried"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

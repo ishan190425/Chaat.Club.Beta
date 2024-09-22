@@ -5,47 +5,37 @@
     "Description": "berkshire pork cauliflower garlic ginger green onion thai chili ",
     "Flavor_Profile": {
         "Taste": [
-            "Pungent",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
             "Earthy",
-            "Spicy"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Crunchy"
         ],
         "Visual_Color": [
             "Green",
-            "#FFC400"
+            "White"
         ],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "International/Global"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Side Dish",
-            "Main Course"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
             "Boiled",
             "Roasted"
         ],
         "Course": [
-            "Appetizer",
             "Side Dish",
             "Main Course"
         ]

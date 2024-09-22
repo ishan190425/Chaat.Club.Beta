@@ -5,52 +5,32 @@
     "Description": "raw. sushi style tacos filled with spicy tuna cucumber spicy salmon avocado spicy yellowtail jalape os.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fishy",
-            "Fruity"
+            "Spicy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Velvety"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#008000"
-        ],
-        "Spice_level": [
-            "Hot"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Vegetarian"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "Japan",
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Snack",
-            "Breakfast",
-            "Lunch",
-            "Dinner"
+            "Party"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Grilled",
-            "Pan-Seared",
-            "Baked"
+            "Raw"
         ],
-        "Course": []
+        "Course": [
+            "Appetizer",
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

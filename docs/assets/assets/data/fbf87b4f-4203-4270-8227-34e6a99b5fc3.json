@@ -4,38 +4,20 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Sweet"
-        ],
-        "Aroma": [
-            "Cinnamon",
-            "Syrupy"
-        ],
+        "Taste": null,
+        "Aroma": null,
         "Texture": [
-            "Soft",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#7F5A00"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten"
-        ],
-        "Nutrition": [
-            "Low-Calorie"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": null,
+        "Country_Origin": null,
         "Occasions": [
-            "Snack",
-            "Event"
+            "Breakfast"
         ],
         "Cooking_Method": [
             "Fried"

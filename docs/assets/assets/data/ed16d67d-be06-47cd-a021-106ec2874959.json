@@ -5,38 +5,27 @@
     "Description": "grilled to temp skirt steak tequila peppercorn sauce or chimichurri grilled cotija",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Peppery"
+            "Umami",
+            "Salty"
         ],
         "Aroma": [
-            "Meaty",
-            "Herby"
+            "Cheesy"
         ],
-        "Texture": [
-            "Tender",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "GlutenFree"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
         "Country_Origin": [
-            "Mexico"
+            "Mexico/Latin America"
         ],
         "Occasions": [
-            "Lunch",
-            "Dinner"
+            "Grilled for BBQ/Summer",
+            "Steaks house dinner"
         ],
         "Cooking_Method": [
             "Grilled"

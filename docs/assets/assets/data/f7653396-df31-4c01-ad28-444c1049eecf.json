@@ -6,47 +6,35 @@
     "Flavor_Profile": {
         "Taste": [
             "Bitter",
-            "Spicy"
+            "Sour"
         ],
         "Aroma": [
-            "Earthy",
-            "Savory"
+            "Earthy"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#7D9C3E",
-            "#FFFFFF"
+            "Green"
         ],
         "Spice_level": [
             "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "China",
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Appetizer",
-            "Main Course"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Sauteed"
+            "Boiled",
+            "Steamed"
         ],
         "Course": [
-            "Side Dish",
-            "Main Course"
+            "Side Dish"
         ]
     },
     "Food_History": {

@@ -5,45 +5,41 @@
     "Description": " abv",
     "Flavor_Profile": {
         "Taste": [
-            "Sour",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
             "Fruity",
-            "Earthly"
+            "Earthy",
+            "Nutty"
         ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Smooth",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "Red",
-            "Golden"
+            "Green",
+            "White",
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Organic",
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "Low-Carb"
+            "Low Fat"
         ],
         "Country_Origin": [
             "Italy"
         ],
         "Occasions": [
-            "Sunday Brunch",
-            "Wine and Cheese Night"
+            "Breakfast,"
         ],
         "Cooking_Method": [
-            "Fermentation"
+            "Cooling"
         ],
         "Course": [
-            "Appetizer"
+            "Main Course"
         ]
     },
     "Food_History": {

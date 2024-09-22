@@ -4,47 +4,31 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
+        "Taste": [],
+        "Aroma": [
+            "Fruity",
             "Spicy"
         ],
-        "Aroma": [
-            "Meaty",
-            "Tangy"
-        ],
         "Texture": [
-            "Crunchy",
-            "Soft"
+            "Soft",
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC3B8",
-            "#FFFFFF"
+            "White",
+            "Brown"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Greece"
-        ],
-        "Occasions": [
-            "Street Food",
-            "Fast food"
-        ],
-        "Cooking_Method": [
-            "Grilled",
-            "Flatbread"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Appetizer",
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

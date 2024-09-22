@@ -6,47 +6,35 @@
     "Flavor_Profile": {
         "Taste": [
             "Sour",
-            "Spicy"
+            "Umami"
         ],
         "Aroma": [
-            "Fishey",
-            "Garlicky",
-            "Chili"
+            "Spicy"
         ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Chewy"
         ],
         "Visual_Color": [
-            "Green"
+            "Green",
+            "Red"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Fish",
-            "Shellfish",
-            "Lactose intolerance"
-        ],
-        "Nutrition": [
-            "Low-Carb",
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Lao"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
-            "Appetizer"
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Raw",
-            "Fermented"
+            "Raw"
         ],
         "Course": [
-            "Entr\u00e9e"
+            "Appetizer"
         ]
     },
     "Food_History": {

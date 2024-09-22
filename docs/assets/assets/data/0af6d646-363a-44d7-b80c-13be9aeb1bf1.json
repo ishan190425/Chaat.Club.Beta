@@ -5,45 +5,35 @@
     "Description": "thick plantain slices coated with chick peas batter deep fried served with chutney and sambar",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Fruity"
+            "Sweet",
+            "Sour"
         ],
         "Aroma": [
-            "Fried",
-            "Crunchy"
+            "Earthy"
         ],
         "Texture": [
-            "Crispy",
             "Soft"
         ],
         "Visual_Color": [
-            "#FFC2C7",
-            "#FFFFFF"
+            "Yellow",
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free"
-        ],
-        "Nutrition": [
-            "High-Carbs"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer",
-            "Main Course"
+            "Snack"
         ],
         "Cooking_Method": [
             "Deep-Fried"
         ],
         "Course": [
-            "Snack"
+            "Appetizer"
         ]
     },
     "Food_History": {

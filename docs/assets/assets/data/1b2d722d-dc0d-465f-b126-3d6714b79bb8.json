@@ -4,45 +4,22 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Herby",
-            "Nutty"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Crispy",
-            "Soft"
+            "Crunchy"
         ],
-        "Visual_Color": [
-            "Brown",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Middle East"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Frying"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Side Dish"
+            "Appetizer"
         ]
     },
     "Food_History": {

@@ -5,46 +5,32 @@
     "Description": "feeds you can be the chef by putting together a great meal .your choice of pasta and sauce served with caesar salad dressing on the side parmesan garlic bread and a tiramisu dessert",
     "Flavor_Profile": {
         "Taste": [
-            "Rich",
-            "Savory"
+            "Umami"
         ],
         "Aroma": [
-            "Garlicky",
-            "Parmeseany"
+            "Cheesy",
+            "Fruity"
         ],
         "Texture": [
-            "Creamy",
-            "Al Dente"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC0CB",
-            "#FFFFFF"
+            "White"
         ],
-        "Spice_level": [
-            "Moderate"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Gluten"
+            "Vegan"
         ],
         "Nutrition": [
-            "High-Carbohydrates"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Family Dinner",
-            "Special Occasion"
-        ],
-        "Cooking_Method": [
-            "Boiled",
-            "Baked"
-        ],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course",
-            "Dessert"
+            "Main Course"
         ]
     },
     "Food_History": {

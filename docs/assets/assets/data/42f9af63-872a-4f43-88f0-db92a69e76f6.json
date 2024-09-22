@@ -4,48 +4,19 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Tomatoey",
-            "Herby"
-        ],
-        "Texture": [
-            "Smooth",
-            "Thick"
-        ],
-        "Visual_Color": [
-            "Red",
-            "#FFC080"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Ap\u00e9ro",
-            "Lunch",
-            "Dinner",
-            "Breakfast"
-        ],
-        "Cooking_Method": [
-            "Simmered",
-            "Reduced"
-        ],
-        "Course": [
-            "Side Dish",
-            "Main Course",
-            "Appetizer"
-        ]
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

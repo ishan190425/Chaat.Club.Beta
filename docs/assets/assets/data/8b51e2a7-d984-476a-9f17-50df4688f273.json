@@ -4,45 +4,25 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Rich"
-        ],
-        "Aroma": [
-            "Meaty",
-            "Savory"
-        ],
-        "Texture": [
-            "Juicy",
-            "Crispy"
-        ],
-        "Visual_Color": [
-            "#222200",
-            "#999999"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": null,
+        "Texture": [],
+        "Visual_Color": null,
+        "Spice_level": null
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "None"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [
-            "High-Protein"
+            "Low Fat"
         ],
-        "Country_Origin": [
-            "Universal"
-        ],
+        "Country_Origin": null,
         "Occasions": [
-            "Lunch",
-            "Snack"
+            "Breakfast",
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Pan-Fried"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Anytime"
+            "Main Course"
         ]
     },
     "Food_History": {

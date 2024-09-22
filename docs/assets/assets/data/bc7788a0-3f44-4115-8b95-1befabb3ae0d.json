@@ -5,36 +5,22 @@
     "Description": " propriety seasonings tomato cilantro onion and jalapeno.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
-        "Aroma": [
-            "Fruity",
-            "Herbaceous",
-            "Peppery"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Fresh"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#008000"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
-            "Medium"
+            "Hot"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Fat"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Snack",
             "Appetizer"
@@ -43,7 +29,7 @@
             "Mashed"
         ],
         "Course": [
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

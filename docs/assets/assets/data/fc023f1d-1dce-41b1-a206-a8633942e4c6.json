@@ -5,33 +5,26 @@
     "Description": "blistered tomato grana padano garlic confit herb butter charred lemon grilled bread",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Buttery"
+            "Umami"
         ],
         "Aroma": [
-            "Zesty",
-            "Herby"
+            "Fruity",
+            "Cheesy"
         ],
         "Texture": [
-            "Crispy",
-            "Tender"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFCC99",
-            "#FFFFFF"
+            "Red",
+            "Yellow"
         ],
         "Spice_level": [
-            "Medium"
+            "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Seafood",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Italy"
         ],
@@ -40,7 +33,7 @@
             "Dinner"
         ],
         "Cooking_Method": [
-            "Grilled"
+            "grilled"
         ],
         "Course": [
             "Main Course"

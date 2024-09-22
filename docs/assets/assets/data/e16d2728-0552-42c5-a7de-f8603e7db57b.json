@@ -5,45 +5,31 @@
     "Description": "crushed tomato aged provolone mozzarella parmesan rigatoni",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Tomatoey",
-            "Cheesy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creamy",
+            "Soft",
             "Crunchy"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#F2BDE8"
-        ],
+        "Visual_Color": [],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Breaded"
+            "Deep Fried"
         ],
         "Course": [
+            "Appetizer",
             "Main Course"
         ]
     },

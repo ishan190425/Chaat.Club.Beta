@@ -5,50 +5,23 @@
     "Description": "apple carrots celery and parsley.",
     "Flavor_Profile": {
         "Taste": [
-            "Sweet",
-            "Savory"
+            "Sweet"
         ],
-        "Aroma": [
-            "Fruity",
-            "Earthy",
-            "Herby"
-        ],
-        "Texture": [
-            "Crunchy",
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#8B4513",
-            "#34C759"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegan",
-            "Gluten-free",
-            "Lactose-free"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Carb"
-        ],
-        "Country_Origin": [
-            "USA"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Breakfast",
-            "Snack"
+            "Brunch"
         ],
-        "Cooking_Method": [
-            "Blended",
-            "Added Liquid Filler"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Side dish",
+            "Side Dish",
             "Appetizer"
         ]
     },

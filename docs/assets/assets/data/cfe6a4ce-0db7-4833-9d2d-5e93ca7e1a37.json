@@ -5,42 +5,33 @@
     "Description": "handmade pork pot stickers. pieces.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Savory",
-            "Meaty"
-        ],
+        "Aroma": [],
         "Texture": [
             "Crunchy",
-            "Soft"
+            "Chewy"
         ],
         "Visual_Color": [
-            "#FFC080"
+            "Brown",
+            "White"
         ],
         "Spice_level": [
             "Mild"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten",
-            "Pork"
-        ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fat"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "China"
         ],
         "Occasions": [
-            "Appetizer",
-            "Snack"
+            "Snack",
+            "Lunch"
         ],
         "Cooking_Method": [
-            "Pan-fried"
+            "Pan-Fried"
         ],
         "Course": [
             "Appetizer"

@@ -5,45 +5,29 @@
     "Description": "grilled sliced meat with rice powder shallots cilantro lime and yum sauce pork loin . beef top sirloin . ",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
             "Umami"
         ],
-        "Aroma": [
-            "Piquant",
-            "Sweety"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Crunchy",
-            "Tender"
+            "Chewy",
+            "Soft"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#E5E5EA"
-        ],
-        "Spice_level": [
-            "Medium"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Meat"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "Thailand"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
+        "Occasions": [],
         "Cooking_Method": [
-            "Grilled"
+            "Grilled",
+            "Boiled"
         ],
         "Course": [
-            "Main Course"
+            "Appetizer"
         ]
     },
     "Food_History": {

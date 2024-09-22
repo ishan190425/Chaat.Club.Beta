@@ -4,21 +4,13 @@
     "User_UUID": "37484a4e-b68f-4d8a-a687-da9167158354",
     "Description": "No Description Provided",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty"
-        ],
-        "Aroma": [
-            "Meaty",
-            "Garlicky"
-        ],
+        "Taste": [],
+        "Aroma": [],
         "Texture": [
-            "Juicy",
-            "Crunchy"
+            "Soft"
         ],
         "Visual_Color": [
-            "#F5DEB3",
-            "#FFC080"
+            "Brown"
         ],
         "Spice_level": [
             "Medium"
@@ -26,26 +18,16 @@
     },
     "Societal_Properties": {
         "Dietary_restrictions": [
-            "Meat",
-            "Pork"
+            "Halal",
+            "Kosher"
         ],
-        "Nutrition": [
-            "High-Protein",
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "Greece"
-        ],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Street Food",
-            "Party"
+            "Lunch"
         ],
-        "Cooking_Method": [
-            "Grilled",
-            "Wrapped"
-        ],
+        "Cooking_Method": [],
         "Course": [
-            "Snack",
             "Main Course"
         ]
     },

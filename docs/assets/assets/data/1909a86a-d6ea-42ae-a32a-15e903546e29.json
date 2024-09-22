@@ -6,33 +6,31 @@
     "Flavor_Profile": {
         "Taste": [
             "Sweet",
-            "Creamy"
+            "Umami"
         ],
-        "Aroma": [],
+        "Aroma": [
+            "Fruity",
+            "Nutty"
+        ],
         "Texture": [
             "Crunchy",
-            "Creamy"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
+            "Brown"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-Free"
-        ],
+        "Dietary_restrictions": [],
         "Nutrition": [],
-        "Country_Origin": null,
+        "Country_Origin": [],
         "Occasions": [
-            "Snack",
+            "Social Gathering",
             "Party"
         ],
-        "Cooking_Method": null,
-        "Course": null
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

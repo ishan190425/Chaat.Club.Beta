@@ -4,47 +4,19 @@
     "User_UUID": "ffebd7ec-eb52-4bd1-94aa-779aef7c02a6",
     "Description": "steamed potato cooked with paste of spinach seasoned with indian herbs",
     "Flavor_Profile": {
-        "Taste": [
-            "Earthly",
-            "Savory"
-        ],
-        "Aroma": [
-            "Greens"
-        ],
-        "Texture": [
-            "Soft",
-            "Smooth"
-        ],
-        "Visual_Color": [
-            "Green"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Fiber"
-        ],
-        "Country_Origin": [
-            "India"
-        ],
-        "Occasions": [
-            "Snack",
-            "Breakfast",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Steamed",
-            "Boiled"
-        ],
-        "Course": [
-            "Side Dish"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

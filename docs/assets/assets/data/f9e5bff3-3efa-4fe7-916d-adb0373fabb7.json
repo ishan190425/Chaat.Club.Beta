@@ -5,49 +5,27 @@
     "Description": "riced cooked with lentils mixed vegetables",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Umami"
+            "Salty"
         ],
-        "Aroma": [
-            "Earthy",
-            "Savory"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Smooth",
-            "Thick"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC080",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-free",
-            "Lactose-free"
-        ],
-        "Nutrition": [
-            "High-Fiber",
-            "Low-Sodium"
-        ],
-        "Country_Origin": [
-            "India",
-            "Sri Lanka"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner",
-            "Potlucks"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
         "Cooking_Method": [
-            "Boiled",
-            "Steaming"
+            "Boiled,Stir-Fried"
         ],
-        "Course": []
+        "Course": [
+            "Side Dish",
+            "Main Course"
+        ]
     },
     "Food_History": {
         "Likes": [],

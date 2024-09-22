@@ -5,45 +5,33 @@
     "Description": "crispy ciabatta arugula shaved red onion calabrian vinaigrette",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Sweet"
+            "Sweet",
+            "Sour"
         ],
-        "Aroma": [
-            "Fresh",
-            "Earthy"
-        ],
+        "Aroma": [],
         "Texture": [
-            "Creepy",
-            "Soft"
+            "Soft",
+            "Crunchy"
         ],
         "Visual_Color": [
-            "#FF3E3E",
-            "#8B9467"
+            "Red",
+            "Yellow",
+            "Green"
         ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Gluten-free",
-            "Vegan-friendly"
-        ],
-        "Nutrition": [
-            "Low-Glyphosate"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
         "Occasions": [
-            "Appetizer/Course Starter",
-            "Breakfast/Lunch/Dinner"
+            "Lunch",
+            "Dinner"
         ],
         "Cooking_Method": [
-            "None"
+            "Grilled"
         ],
         "Course": [
-            "Starters",
             "Main Course"
         ]
     },

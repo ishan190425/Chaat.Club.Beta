@@ -4,46 +4,19 @@
     "User_UUID": "8f90c2ea-b027-4a05-a5ea-969134c8652c",
     "Description": "three shredded cheese sour cream guacamole",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory"
-        ],
-        "Aroma": [
-            "Cheesy",
-            "Creamy"
-        ],
-        "Texture": [
-            "Crispy",
-            "Creamy"
-        ],
-        "Visual_Color": [
-            "#FFC394",
-            "#8B9467"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Lactose_intolerant"
-        ],
-        "Nutrition": [
-            "Medium-Protein"
-        ],
-        "Country_Origin": [
-            "Mexico"
-        ],
-        "Occasions": [
-            "Party",
-            "Snack"
-        ],
-        "Cooking_Method": [
-            "Deep-fried"
-        ],
-        "Course": [
-            "Snack"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],

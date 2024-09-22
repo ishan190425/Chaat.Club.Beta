@@ -5,50 +5,39 @@
     "Description": "with tom yum sauce slightly spicy fresh sliced lemon grass and kaffir lime leaves.",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Spicy"
+            "Sour",
+            "Umami"
         ],
         "Aroma": [
-            "Slightly Spicy",
-            "Fragrant"
+            "Spicy",
+            "Earthy"
         ],
         "Texture": [
-            "Soft",
-            "Gooey"
+            "Smooth"
         ],
         "Visual_Color": [
-            "#FFFFFF",
-            "#32CD32"
+            "Yellow"
         ],
         "Spice_level": [
             "Medium"
         ]
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Pork-Free",
-            "Shellfish-Free",
-            "VegetarianFriendly"
-        ],
-        "Nutrition": [
-            "Moderate Calories",
-            "High-Fiber"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "Thai/Chinese-Inspired"
+            "Thailand"
         ],
         "Occasions": [
             "Lunch",
-            "Dinner",
-            "Party"
+            "Dinner"
         ],
         "Cooking_Method": [
-            "Wok-Cooked"
+            "Fried"
         ],
         "Course": [
             "Side Dish",
-            "Main Course",
-            "Snack"
+            "Main Course"
         ]
     },
     "Food_History": {

@@ -8,44 +8,25 @@
             "Sweet"
         ],
         "Aroma": [
-            "Savory",
-            "Fruity"
+            "Spicy",
+            "Cheesy"
         ],
         "Texture": [
-            "Creamy",
-            "Soft"
+            "Smooth"
         ],
-        "Visual_Color": [
-            "#FFC9C5",
-            "#FFFFFF"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Gluten-Free"
-        ],
-        "Nutrition": [
-            "Good-Protein"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
             "India"
         ],
-        "Occasions": [
-            "Breakfast",
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Steamed",
-            "Boiled"
-        ],
+        "Occasions": [],
+        "Cooking_Method": [],
         "Course": [
-            "Main Course",
-            "Side Dish"
+            "Main Course"
         ]
     },
     "Food_History": {

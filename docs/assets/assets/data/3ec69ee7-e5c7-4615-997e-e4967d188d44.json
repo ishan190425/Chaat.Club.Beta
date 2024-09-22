@@ -7,42 +7,22 @@
         "Taste": [
             "Sour"
         ],
-        "Aroma": [
-            "Creamy",
-            "Sour"
-        ],
+        "Aroma": [],
         "Texture": [
             "Smooth"
         ],
-        "Visual_Color": [
-            "White"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Lactose Intolerant Friendly",
-            "Gluten Free"
-        ],
-        "Nutrition": [
-            "High-Calorie"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "USA/International"
+            "N/A"
         ],
-        "Occasions": [
-            "Snack",
-            "Entertaining"
-        ],
-        "Cooking_Method": [
-            "Simple"
-        ],
-        "Course": [
-            "Dessert",
-            "Side Dish"
-        ]
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": null
     },
     "Food_History": {
         "Likes": [],

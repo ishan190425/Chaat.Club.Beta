@@ -5,49 +5,32 @@
     "Description": "fresh flat rice noodle this dish best with chicken egg batter scallion cilantro and pickle turnip",
     "Flavor_Profile": {
         "Taste": [
-            "Savory",
-            "Cilantro"
+            "Umami"
         ],
         "Aroma": [
-            "Herby",
-            "Fatty"
+            "Cheesy",
+            "Spicy"
         ],
-        "Texture": [
-            "Creelmanary",
-            "Crunchy"
-        ],
-        "Visual_Color": [
-            "#FFFFFF",
-            "#FFCC99",
-            "#C0C0C0"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Vegetarian",
-            "Vegan"
-        ],
-        "Nutrition": [
-            "High-Carb"
-        ],
+        "Dietary_restrictions": [],
+        "Nutrition": [],
         "Country_Origin": [
-            "China",
-            "Asia- Pacific"
+            "Thai"
         ],
         "Occasions": [
             "Lunch",
             "Dinner"
         ],
         "Cooking_Method": [
-            "Deep-Fried",
-            "Boiled"
+            "Stir-Fried"
         ],
         "Course": [
             "Main Course",
-            "Appetizer"
+            "Side Dish"
         ]
     },
     "Food_History": {

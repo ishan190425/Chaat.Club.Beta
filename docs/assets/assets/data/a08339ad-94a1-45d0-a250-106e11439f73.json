@@ -4,47 +4,19 @@
     "User_UUID": "43647973-fc56-4a74-9866-56edb9006d27",
     "Description": "serves to and ready to bake enjoy layers of our house made bolognese sauce and delicious sugo with fresh herbed ricotta mozzarella provolone and grana padano cheese and fresh herbs. includes caesar salad parmesan garlic bread and a tiramisu dessert",
     "Flavor_Profile": {
-        "Taste": [
-            "Savory",
-            "Meaty"
-        ],
-        "Aroma": [
-            "Herby",
-            "Cheesy"
-        ],
-        "Texture": [
-            "Creamy",
-            "Layered"
-        ],
-        "Visual_Color": [
-            "#FFC080",
-            "#8F4519"
-        ],
-        "Spice_level": [
-            "Mild"
-        ]
+        "Taste": [],
+        "Aroma": [],
+        "Texture": [],
+        "Visual_Color": [],
+        "Spice_level": []
     },
     "Societal_Properties": {
-        "Dietary_restrictions": [
-            "Dairy",
-            "Gluten"
-        ],
-        "Nutrition": [
-            "High-Protein"
-        ],
-        "Country_Origin": [
-            "Italy"
-        ],
-        "Occasions": [
-            "Lunch",
-            "Dinner"
-        ],
-        "Cooking_Method": [
-            "Baked"
-        ],
-        "Course": [
-            "Main Course"
-        ]
+        "Dietary_restrictions": [],
+        "Nutrition": [],
+        "Country_Origin": [],
+        "Occasions": [],
+        "Cooking_Method": [],
+        "Course": []
     },
     "Food_History": {
         "Likes": [],
